@@ -66,17 +66,13 @@ for row in rows:
     #
     if not product_nui:
         for node in tree.iter('node'):
-        # if we have all elements, move on
-            if product_nui and ingredient_nui and moa_nui:
+            if product_nui and ingredient_nui:
                 break
             for elm in node.findall('./nodeAttr/attrValue'):
                 if elm.text == 'VA Product':
                     product_nui = node.find('nodeId').text
                 elif elm.text == 'Ingredient':
                     ingredient_nui = node.find('nodeId').text
-                elif elm.text == 'MECHANISM_OF_ACTION_KIND':
-                    moa = node.find('nodeName').text
-                    moa_nui = node.find('nodeId').text
 
 
     #
