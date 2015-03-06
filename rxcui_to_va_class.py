@@ -1,5 +1,6 @@
 import psycopg2, os, requests, re
 from xml.etree import ElementTree as ET
+from xml.etree.ElementTree import ParseError
 from secrets import ncbo_apikey, dbname, dbuser, dbpasswd
 
 try:
@@ -9,7 +10,7 @@ except:
     exit()
 
 cur = conn.cursor()
-cur.execute('SELECT DISTINCT rxcui, rxcui_gen, medstring FROM ensemble_meds LIMIT 20')
+cur.execute('SELECT DISTINCT rxcui, rxcui_gen, medstring FROM ensemble_meds WHERE ndfrt_va_class_nui is null')
 rows = cur.fetchall()
 for row in rows:
 
@@ -20,25 +21,37 @@ for row in rows:
     class_nui = None
     
     r = requests.get('http://rxnav.nlm.nih.gov/REST/rxcui/{}/hierarchy?src=NDFRT&type=MOA&oneLevel=1'.format(row[0]))
-    tree = ET.fromstring(r.text)
+    try:
+        tree = ET.fromstring(r.text)
+    except ParseError:
+        print('could not parse: ' + r.text)
+        continue
 
     # use generic rxcui if no NDFRT data for non-gen cui
     if re.search('ERROR', tree.find('.//title').text):
-        print('nothing for ' + row[0] + ', so falling back to generic: ' + row[1] + ' and product_nui is ' + str(product_nui))
+        #print('nothing for ' + row[0] + ', so falling back to generic: ' + row[1] + ' and product_nui is ' + str(product_nui))
         r = requests.get('http://rxnav.nlm.nih.gov/REST/rxcui/{}/hierarchy?src=NDFRT&type=MOA&oneLevel=1'.format(row[1]))
-        tree = ET.fromstring(r.text)
+        try:
+            tree = ET.fromstring(r.text)
+        except ParseError:
+            print('could not parse: ' + r.text)
+            continue
 
         if re.search('ERROR', tree.find('.//title').text):
             #print('nothing for generic, falling back to medstring: ' + row[2] + ' and product_nui is ' + str(product_nui))
             params = {'text':row[2], 'apikey': ncbo_apikey, 'format':'xml', 'ontologies':'NDFRT', 'longest_only':'true', 'exclude_synonyms':'true'}
             r = requests.get('http://data.bioontology.org/annotator', params=params)
-            tree = ET.fromstring(r.text)
+            try:
+                tree = ET.fromstring(r.text)
+            except ParseError:
+                print('could not parse: ' + r.text)
+                continue
 
-            if tree.find('.//id') is not None:
-                print('got something from annotator ' + re.search(r'N[0-9]*$', tree.find('.//id').text).group(0))
+            if tree.find('.//id') is not None and re.search(r'N[0-9]*$', tree.find('.//id').text) is not None:
+                #print('got something from annotator ' + re.search(r'N[0-9]*$', tree.find('.//id').text).group(0))
                 product_nui = re.search(r'N[0-9]*$', tree.find('.//id').text).group(0)
             else:
-                print('    **** could not determine any NUI for medstring ' + row[2])
+                #print('    **** could not determine any NUI for medstring ' + row[2] + '; r.text was ' + r.text)
                 continue
 
 
@@ -82,25 +95,27 @@ Limit 1
         namespaces = {'sparql': 'http://www.w3.org/2005/sparql-results#'}
         if tree.find('.//sparql:literal', namespaces) is not None:
             product_nui = tree.find('.//sparql:literal', namespaces).text
-        else:
-            print('   --------- couldn not find va product for ' + row[2])
-            continue
 
     # finally!
     if product_nui:
-        print('product_nui is ' + product_nui)
         r = requests.get('http://rxnav.nlm.nih.gov/REST/Ndfrt/VA?nui={}'.format(product_nui))
-        tree = ET.fromstring(r.text)
+        try:
+            tree = ET.fromstring(r.text)
+        except ParseError:
+            print('could not parse ' + r.test)
+            continue
+
         if tree.find('concept/conceptNui') is not None:
             class_name = tree.find('concept/conceptName').text
             class_nui = tree.find('concept/conceptNui').text
+            # update all meds with retrieved classes
+            cur.execute('UPDATE ensemble_meds SET ndfrt_va_class = %s, ndfrt_va_class_nui = %s WHERE rxcui = %s', (class_name.strip(), class_nui.strip(), row[0],))
         else:
-            print('   +++++++ couldn not find class name for ' + row[2])
+            #print('   +++++++ couldn not find class name for ' + row[2])
             continue
+    else:
+        #print(row[0], row[2])
 
-    print(row[2] + ' ---> ' + str(class_name))
-# update all meds with retrieved classes
-#cur.execute('UPDATE ensemble_meds SET ndfrt_va_class = %s, ndfrt_va_class_nui = %s WHERE rxcui = %s', cname.strip(), cnui.strip(), row[0])
 
-#conn.commit()
+conn.commit()
 conn.close()

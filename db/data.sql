@@ -14,8 +14,8 @@ CREATE TABLE Ensemble_Meds (
  CONSTRAINT Ensemble_Meds_pk PRIMARY KEY (SourceFile, Medstring, RxCUI)
 );
 
-CREATE VIEW BWHMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'bwh.txt';
-CREATE VIEW BCBSTXMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'bcbstx.txt';
-CREATE VIEW RepMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'rep_ut.txt';
-CREATE VIEW CSMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'cs_ut.txt';
-CREATE VIEW UTHMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'uth.txt';
+CREATE OR REPLACE VIEW BWHMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'bwh.txt';
+CREATE OR REPLACE VIEW BCBSTXMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'bcbstx.txt';
+CREATE OR REPLACE VIEW RepMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'rep_ut.txt';
+CREATE OR REPLACE VIEW CSMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'cs_ut.txt';
+CREATE OR REPLACE VIEW UTHMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'uth.txt';
