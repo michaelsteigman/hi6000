@@ -14,12 +14,14 @@ cur.execute('SELECT DISTINCT rxcui, rxcui_gen, medstring FROM ensemble_meds WHER
 rows = cur.fetchall()
 for row in rows:
 
-    # extract VA product and ingredient level IDs plus MoA
     product_nui = None
     ingredient_nui = None
     class_name = None
     class_nui = None
-    
+
+    #
+    # First, try to retrieve MOA for the RxCUI MedEx gave us (row[0])
+    #
     r = requests.get('http://rxnav.nlm.nih.gov/REST/rxcui/{}/hierarchy?src=NDFRT&type=MOA&oneLevel=1'.format(row[0]))
     try:
         tree = ET.fromstring(r.text)
@@ -27,7 +29,9 @@ for row in rows:
         print('could not parse: ' + r.text)
         continue
 
-    # use generic rxcui if no NDFRT data for non-gen cui
+    #
+    # If the title of the XML classification doc returned by RxNav contains the word 'ERROR', try again with the generic RxCUI from MedEx (row[1])
+    #
     if re.search('ERROR', tree.find('.//title').text):
         #print('nothing for ' + row[0] + ', so falling back to generic: ' + row[1] + ' and product_nui is ' + str(product_nui))
         r = requests.get('http://rxnav.nlm.nih.gov/REST/rxcui/{}/hierarchy?src=NDFRT&type=MOA&oneLevel=1'.format(row[1]))
@@ -37,6 +41,9 @@ for row in rows:
             print('could not parse: ' + r.text)
             continue
 
+        #
+        # If we are still getting an error (no results), try to search NDFRT ontology on Bioportal for medstring (row[2]) using their annotator service
+        #
         if re.search('ERROR', tree.find('.//title').text):
             #print('nothing for generic, falling back to medstring: ' + row[2] + ' and product_nui is ' + str(product_nui))
             params = {'text':row[2], 'apikey': ncbo_apikey, 'format':'xml', 'ontologies':'NDFRT', 'longest_only':'true', 'exclude_synonyms':'true'}
@@ -54,7 +61,9 @@ for row in rows:
                 #print('    **** could not determine any NUI for medstring ' + row[2] + '; r.text was ' + r.text)
                 continue
 
-
+    #
+    # If Bioportal returned a hit for medstring, we'll have a product_nui; if not, and we haven't hit an ERROR above, extract the product_nui here
+    #
     if not product_nui:
         for node in tree.iter('node'):
         # if we have all elements, move on
@@ -70,9 +79,11 @@ for row in rows:
                     moa_nui = node.find('nodeId').text
 
 
-    # should probably not be done inside cursor loop
+    #
+    # If we have an ingredient level NUI but still no product_nui yet, try to query Bioportal's SPARQL endpoint for subclass of ingredent that is a VA Product
+    #
     if ingredient_nui and not product_nui:
-    # must have apikeys module available with ncbo_apikey inside of it
+    # NOTE: must have apikeys module available with ncbo_apikey inside of it (see import at top of script)
 
         query_string = """
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
@@ -96,7 +107,9 @@ Limit 1
         if tree.find('.//sparql:literal', namespaces) is not None:
             product_nui = tree.find('.//sparql:literal', namespaces).text
 
-    # finally!
+    #
+    # Finally! If we have a VA Product NUI, we can try to query RxNav for the VA class
+    #
     if product_nui:
         r = requests.get('http://rxnav.nlm.nih.gov/REST/Ndfrt/VA?nui={}'.format(product_nui))
         try:
