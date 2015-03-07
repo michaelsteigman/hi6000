@@ -1,0 +1,982 @@
+Asthma
+Otitis Media
+Acute Cystitis
+Urinary Tract Infection
+Hypertension
+Paroxysmal Atrial Fibrillation
+Hypertension
+Essential Hypertension
+Urinary Tract Infection
+Atrial Fibrillation
+Abortion
+Esophageal Reflux
+Abdominal Pain
+Dysmenorrhea
+Migraine Headache
+Sickle Cell Hb-SC Disease
+Lower Back Pain
+Abdominal Pain
+Dysmenorrhea
+Localized Primary Osteoarthritis Of The Knee
+Benign Essential Hypertension
+Dysmenorrhea
+Muscle Spasm
+Myalgia And Myositis
+Pelvic Pain
+Limb Pain
+Localized Primary Osteoarthritis Of The Knee
+Osteoarthritis Of The Knee
+Limb Pain
+Coronary Artery Disease
+Hypertension
+Hyperlipidemia
+Ulcerative Colitis
+Sarcoidosis
+Thyroid Disorder
+Hyperthyroidism
+Thyroid Disorder
+Sickle Cell Hb-SC Disease
+Sickle Cell Anemia
+Sickle Cell Hb-SS Disease
+Folliculitis
+Acute Otitis Media
+Cardiac Devices Pacemaker Present
+Scarlet Fever
+Coronary Artery Disease
+Essential Hypertension
+Nonunion Of Fracture
+Sickle Cell Hb-SC Disease
+Sickle Cell Hb-SS Disease
+Asthma
+Reactive Airway Disease
+Mild Intermittent Asthma
+Chronic Lung Disease Of Newborn
+Hypertension
+Asymptomatic Hyperuricemia
+Gout
+Generalized Anxiety Disorder
+Anxiety Disorder NOS
+Abdominal Pain
+Migraine Headache
+Urinary Tract Infection
+Congenital Pulmonary Valvular Stenosis
+Folliculitis
+Multiple Sclerosis
+Cerebral Artery Thrombosis - With Cerebral Infarction
+Late Effects Of Cerebrovascular Disease
+Primary Hypercoagulable State
+Cough
+Essential Hypertension
+Acute Upper Respiratory Infection
+Acne
+Stroke Syndrome
+Ischemic Stroke
+Hypertension
+Acne
+Biotinidase Deficiency
+Hypertension
+Essential Hypertension
+Attention-deficit Hyperactivity Disorder
+"ADHD, Combined Type"
+Coronary Artery Disease
+Dermatophytosis
+Tinea Capitis
+Tinea Cruris
+Tinea Corporis
+Gout
+Multiple Sclerosis
+Rheumatoid Arthritis
+Cerebral Artery Thrombosis - With Cerebral Infarction
+Muscle Spasm
+Lower Back Pain
+Limb Pain
+Vomiting (Symptom)
+Failure To Thrive In Childhood
+Feeding Disorder Of Infancy / Early Childhood Of Nonorganic Origin
+Second-degree Perineal Laceration During Delivery
+Partial Complex Psychomotor Seizure With Intractable Seizure
+Polycystic Ovarian Syndrome
+Female Infertility Associated With Anovulation
+Acute Bacterial Conjunctivitis
+Acute Conjunctivitis Of Both Eyes
+Anemia
+Iron Deficiency
+"Chronic Kidney Disease, Stage 4"
+Nonspecific Vaginitis
+Trichomonas Vaginalis Vaginitis
+Trichomonas Vulvovaginitis
+Bacterial Vaginosis
+Ingrowing Nail With Infection
+Contact Dermatitis
+Skin: A Rash
+Coronary Artery Disease
+Hereditary Hemolytic Spherocytosis
+Sickle Cell Hb-SC Disease
+Sickle Cell Anemia
+Sickle Cell Hb-SS Disease
+Planning To Become Pregnant
+Anemia
+Congestive Heart Failure
+Hypertension
+Essential Hypertension
+Benign Essential Hypertension
+Edema
+Dilated Cardiomyopathy
+Congestive Heart Failure
+Left Heart Failure - Class III
+Benign Essential Hypertension
+Chronic Systolic Congestive Heart Failure
+Edema
+Irritable Bowel Syndrome
+Atrial Fibrillation
+Coronary Artery Disease
+Atrial Fibrillation
+Hypertension
+Hypertension
+Hypertension
+Benign Essential Hypertension
+Congestive Heart Failure
+Hypertension
+Benign Essential Hypertension
+Eczema
+Atopic Dermatitis
+Viral Exanthem
+Eczema
+Itching (Pruritus)
+Polymyositis / Dermatomyositis:
+Partial Complex Psychomotor Seizure With Intractable Seizure
+Chronic Constipation
+Puerperal Hemorrhoids
+Constipation
+Tuberculin PPD Induration Positive Interpretation
+Hypothyroidism
+Primary Hypothyroidism
+Hyperthyroidism
+Graves' Disease
+Menopause
+Partial Complex Psychomotor Seizure With Intractable Seizure
+Post Abdominal Surgery
+Urinary Tract Infection
+Hypertension
+Essential Hypertension
+Diabetes Mellitus
+Atopic Dermatitis
+Diaper Rash
+Cutaneous Candidiasis
+Hyperlipidemia
+Stroke Of The Left Middle Cerebral Artery
+Acute Bacterial Conjunctivitis
+Neonatal Candidiasis Of The Diaper Region
+Gestational Diabetes Mellitus
+Dysmenorrhea
+Severe Menstrual Pain (Dysmenorrhea)
+Viral Exanthem
+Female Genitalia Labial Adhesions
+Vulvar Pain
+Hypertension
+Essential Hypertension
+Benign Essential Hypertension
+Contact Dermatitis
+Eczematoid Dermatitis
+Atopic Dermatitis
+Seborrhea Capitis
+Eczema
+Lichen Simplex Chronicus
+Infantile Seborrheic Dermatitis
+Eczema
+Eczema
+Eczema
+Atopic Dermatitis
+Eczema
+Nausea (Symptom)
+Abdominal Pain
+Nausea With Vomiting
+Pelvis Mass
+Dehiscence Of Surgical Wound
+Hypertension
+Hypothyroidism
+Hypothyroidism
+Hypothyroidism
+Renal Tubular Acidosis
+"Chronic Kidney Disease, Stage 4"
+Urinary Tract Infection
+Leiomyoma Of The Uterus
+Pelvis Mass
+Pelvic Pain
+Dilated Cardiomyopathy
+Ischemic Cardiomyopathy
+Fluid Overload
+Polycystic Ovarian Syndrome
+Edema
+Menses Abnormal
+Oligomenorrhea
+Secondary Amenorrhea
+Metrorrhagia
+Acute Bacterial Pyelonephritis
+Urinary Tract Infection
+Pyoderma
+Burns
+Open Wound Of The Leg
+Vaginal Candidiasis
+Angina Pectoris
+Congestive Heart Failure
+Hypertension
+Benign Essential Hypertension
+Candida Albicans Vaginitis
+Vulvovaginitis
+Trichomonas Vulvovaginitis
+"Inflammation Of The Cervix, Vagina, And Vulva"
+Urogenital Trichomoniasis
+Chlamydial Disease
+Bacterial Vaginosis
+Osteomyelitis
+Anxiety (Symptom)
+Adjustment Disorder With Depressed Mood
+Hyperlipidemia
+Heat Rash
+Atopic Dermatitis
+Seborrhea Capitis
+Polymyositis / Dermatomyositis:
+Eczema
+Eczema
+Hypertension
+Diabetes With Neurological Complications - Uncontrolled
+Eczema
+Candida Albicans Vulvovaginitis
+Diaper Rash
+Candidiasis
+Cutaneous Candidiasis
+Genitourinary Candidiasis
+Candidal Intertrigo
+Neonatal Candidiasis Of The Diaper Region
+Oral Thrush
+Oral Thrush Of Newborn
+Tinea Corporis
+Pulmonary Embolism
+Taking Medication For A Long Time
+Atrial Fibrillation
+Antiphospholipid Syndrome
+Hyperlipidemia
+Coronary Artery Disease
+Stroke Syndrome
+Ischemic Stroke
+Chronic Obstructive Pulmonary Disease
+Obstructive Sleep Apnea
+REM Sleep Behavior Syndrome
+Myoclonus
+Taking Medication For A Long Time
+Menopause
+Heartburn
+Gastritis
+Idiopathic Urticaria
+Polymyositis / Dermatomyositis:
+Sickle Cell Hb-SS Disease
+Sickle Cell Hb-SS Disease
+Muscle Spasm
+Nephrolithiasis Of The Left Kidney
+Hypertension
+Essential Hypertension
+Pregnancy Complicated By Hypertension - Antepartum Condition Or Prior Complicated Delivery
+Hypertension
+Benign Essential Hypertension
+Pregnancy Complicated By Hypertension - Antepartum Condition Or Prior Complicated Delivery
+Pregnancy Complicated By Hypertension - Antepartum Condition Or Prior Complicated Delivery
+Primary Hypothyroidism
+Primary Hypothyroidism
+Postpartum History Currently Nursing
+Osteomyelitis
+Polycystic Ovarian Syndrome
+Dermatitis
+Polymyalgia Rheumatica
+Acute Upper Respiratory Infection
+Asthma With Acute Exacerbation
+Nausea With Vomiting
+Allergic Rhinitis
+Nonvenomous Insect Bite
+Thoracic Spondylosis With Myelopathy
+Exposed To HIV Infection
+Upper Respiratory Infection
+Tension-type Headache
+Sickle Cell Hb-SC Disease
+Sickle Cell Hb-SS Disease
+Essential Hypertension
+Urinary Tract Infection
+Paronychia Of The Toe(S)
+Pyoderma Gangrenosum
+Hypothyroidism
+Candida Albicans Vulvovaginitis
+Pregnancy Complicated By Diabetes Mellitus
+Chromosome Studies Nonspecific Abnormal Findings
+Hyperlipidemia
+Lipoid Metabolism Disorder
+Hyperlipidemia
+Common Migraine (Without Aura)
+Allergic Rhinitis
+Essential Hypertension
+Venous Thrombosis Of The Deep Vessels Of The Lower Extremity
+Cough
+Allergic Rhinitis
+Depression
+Collis Of 2 Motor Vehicles On Road - Driving (Not Motorcycle
+Skin: A Rash
+Coronary Artery Disease
+Hypertension
+Benign Essential Hypertension
+Allergic Rhinitis
+Birth Control Method - Oral Contraceptives
+Gynecologic Services Contraceptive Management
+Sickle Cell Hb-SS Disease
+Coronary Artery Disease
+Hypertension
+Congestive Heart Failure
+Left Heart Failure - Class III
+Congestive Heart Failure With Systolic And Diastolic Dysfunction
+Constipation
+Parkinsonism (Secondary)
+Cough
+Allergic Rhinitis
+Partial Complex Psychomotor Seizure With Intractable Seizure
+Sjogren's Syndrome
+Hypertension
+Episodic Mood Disorders
+Atopic Dermatitis
+Eczema
+Cardioverter-defibrillator Pulse Generator Insertion With Leads
+Heartburn
+Parkinson's Disease
+Vulvar Itching Or Burning
+Pregnancy Complicated By Diabetes Mellitus
+Gestational Diabetes Mellitus
+"ADHD, Combined Type"
+Hyperthyroidism
+Cough
+Malignant Breast Neoplasm
+Antiphospholipid Syndrome
+Dizziness
+Vertigo
+Benign Prostatic Hypertrophy
+Vaginal Candidiasis
+Hypertension
+Gynecologic Service Prescrip Of Contracept Agent - Repeat Rx
+Arthritis
+Aneurysm Of The Ascending Aorta
+Post Abdominal Surgery
+"Joint Pain, Localized In The Knee"
+Dehiscence Of Surgical Wound
+Oral Contraceptives
+Limb Pain
+Renal Tubular Acidosis
+Metabolic Acidosis
+Allergic Rhinitis
+Asthma
+Exercise-induced Asthma
+Shortness Of Breath
+Intermittent Asthma
+Keratosis Pilaris
+Alzheimer's Disease
+Dementia
+Calculus Of Salivary Gland
+Coronary Artery Disease
+Hypertension
+Benign Essential Hypertension
+Atrial Fibrillation
+Burns
+Osteoporosis
+Benign Essential Hypertension
+Hyperlipidemia
+Frederickson Type IIB Hyperlipidemia
+Essential Hypercholesterolemia
+Hyperlipidemia
+Acquired Immunodeficiency Syndrome (AIDS)
+Pervasive Developmental Disorders
+Behavioral Problems
+Behavioral Problems
+Hypertension
+Diabetes Mellitus
+Dilated Cardiomyopathy
+Allergic Rhinitis
+Allergic Rhinitis
+Urge And Stress Incontinence
+Male Erectile Disorder
+Headache
+Common Migraine (Without Aura)
+Sickle Cell Hb-SS Disease
+Benign Essential Hypertension
+Essential Hypertension
+Essential Hypertension
+Kidney Disease With Benign Hypertension
+HIV Infection
+Anxiety (Symptom)
+"Joint Pain, Localized In The Hip"
+Chromosome Studies Nonspecific Abnormal Findings
+Hypomagnesemia
+Cough
+Asthma
+Bronchiolitis
+Oral Contraceptives
+Cellulitis Of The Trunk
+Fever (Symptom)
+Iron Deficiency Anemia Secondary To Inadequate Dietary Iron Intake
+Allergic Rhinitis
+Asthma
+Acne
+Pregnancy Complicated By Anemia
+"Chronic Kidney Disease, Stage 4"
+"Chronic Kidney Disease, Stage 4"
+Urinary Tract Infection
+Obstetrical Surgical Wound Complications - Postpartum Condition Or Complication
+Wound Infection
+Lump Or Mass In Breast
+Limb Pain
+Breast Cancer
+Nontraumatic Hematoma Of Soft Tissue
+Cellulitis
+Osteomyelitis
+Ingrowing Toenail
+Hypertension
+Essential Hypertension
+Hypertension
+Essential Hypertension
+Congestive Heart Failure
+Moderate Recurrent Major Depression
+Depression
+Hyperlipidemia
+Benign Essential Hypertension
+Cerebellar Ataxia
+Supraventricular Tachycardia
+Ischemic Cardiomyopathy
+Sickle Cell Hb-SC Disease
+Sickle Cell Hb-SS Disease
+Sickle Cell Hb-SS Disease
+Urinary Tract Infection
+Acute Otitis Media
+Streptococcal Sore Throat
+Epilepsy
+Maternal Tobacco Use Complicating Pregnancy / Childbirth / Puerperium
+"Joint Pain, Localized In The Knee"
+Limb Pain
+Rib Fracture
+Enuresis
+Hyperlipidemia
+Convulsive Disorder
+Hyperlipidemia
+Transient Ischemic Attack
+Oppositional Defiant Disorder Of Childhood
+"ADHD, Combined Type"
+Attention-deficit Hyperactivity Disorder
+Acne
+Allergic Rhinitis
+Acute Upper Respiratory Infection
+"ADHD, Combined Type"
+Heartburn
+Esophageal Reflux
+Chronic Reflux Esophagitis
+Esophageal Reflux
+Gastric Ulcer
+Heartburn Infrequently (Monthly)
+Constipation
+Hypertension
+Gynecologic Services Contraceptive Management
+Coronary Artery Disease
+Essential Hypertension
+Gynecologic Services Contraceptive Management
+Hypertension
+"ADHD, Combined Type"
+Congestive Heart Failure
+Hypertension
+Benign Essential Hypertension
+Coronary Artery Disease
+Essential Hypertension
+Congestive Heart Failure
+Hypertension
+Lupus Anticoagulant
+Arteriosclerotic Cardiovascular Disease (ASCVD)
+Hypertension
+Essential Hypertension
+Blood Pressure Isolated Elevated
+ACP Staging Stage 2 Hypertension: Greater Than Or = 160/100
+Hypertension
+Essential Hypertension
+Benign Essential Hypertension
+Hypothyroidism
+Coronary Artery Disease
+Congestive Heart Failure With Systolic And Diastolic Dysfunction
+Hypertension
+Essential Hypertension
+Benign Essential Hypertension
+Hypertension
+Gestational Diabetes Mellitus
+Polycystic Ovarian Syndrome
+Abortion
+Essential Hypertension
+Tendonitis
+Limb Pain
+Chronic Pain
+Asthma
+Bronchiolitis
+Gynecologic Services Prescription Of Contraceptive Agents
+Contraceptives
+Hypertension
+Hypertension
+Osteopenia
+Depression
+Gynecologic Services Contraceptive Management
+Gynecologic Services Prescription Of Contraceptive Agents
+Oral Contraceptives
+Contraceptives
+Cystitis
+Urinary Tract Infection
+Pregnancy Complicated By Asymptomatic Bacteriuria
+Chronic Sinusitis
+Periapical Alveolar Abscess
+Urinary Tract Infection
+Acute Sinusitis
+Acute Otitis Media
+Anxiety (Symptom)
+Anxiety Disorder Due To General Medical Condition
+Depression
+Acne
+Gynecologic Services Contraceptive Management
+Oligomenorrhea
+Nausea (Symptom)
+Esophageal Reflux
+Coronary Artery Disease
+Hypertension
+Hyperlipidemia
+Frederickson Type IIB Hyperlipidemia
+"ADHD, Combined Type"
+Burns
+Limb Pain
+Abdominal Pain
+Closed Bimalleolar Fracture
+"Joint Pain, Localized In The Hip"
+Closed Epiphyseal Fracture Of The Left Proximal Tibia
+Limb Pain
+Hypertension
+Chronic Sinusitis
+Allergic Rhinitis
+Atopic Dermatitis
+Nasal Discharge (Symptom)
+Allergies
+Allergic Rhinitis Due To Food
+Depression
+Urinary Tract Infection
+Otitis Media
+Acute Suppurative Otitis Media With Spontaneous Rupture Of The Ear Drum
+Gastritis Due To H. Pylori
+Acute Otitis Media
+Contraceptives
+Headache
+Otitis Externa
+Atrial Fibrillation
+Acute Upper Respiratory Infection
+Conjunctivitis
+Discharge Of Pus From Eyes
+Acute Bacterial Conjunctivitis
+Herpes Simplex
+Herpes Simplex Type II
+Allergic Rhinitis
+External Hemorrhoids
+Hypercholesterolemia
+Hypertension
+Burns
+Congestive Heart Failure
+Hypertension
+Edema
+Supraventricular Tachycardia
+Hypertension
+Candida Albicans Vaginitis
+Vaginal Candidiasis
+Benign Essential Hypertension
+A Fall From A Ladder
+Constipation
+Polycystic Ovarian Syndrome
+A Fall
+Coronary Artery Disease
+Coronary Artery Disease
+Hypertension
+Essential Hypertension
+Benign Essential Hypertension
+Pregnancy Complicated By Hypertension - Antepartum Condition Or Prior Complicated Delivery
+Symptomatic Menopause
+Carbuncle On The Lower Leg
+Impetigo
+Blister On The Buttocks
+Methicillin Resistant Staphylococcus Aureus Infection
+Hypertension
+Male Erectile Disorder
+Hypertension
+Benign Essential Hypertension
+Dysmenorrhea
+Tinea Versicolor
+Urinary Tract Infection
+"Urinary Tract Infection, Geriatric Presentation"
+Vaginal Candidiasis
+Acute Bacterial Pyelonephritis On The Right
+Moderate Recurrent Major Depression
+"Chronic Kidney Disease, Stage 5"
+Paroxysmal Atrial Fibrillation
+Rheumatoid Arthritis
+Muscle Spasm
+Depression
+Autistic Disorder
+Menopause Has Occurred
+Candida Albicans Vulvovaginitis
+Vaginal Candidiasis
+Genitourinary Candidiasis
+Piriformis Syndrome
+Candida Albicans Vulvovaginitis
+Cutaneous Candidiasis
+Pulmonary Hypertension
+Constipation
+Asthma
+Cough
+Furuncle On The Left Buttock
+Nasal Discharge (Symptom)
+Abdominal Pain
+Postherpetic Polyneuropathy
+Reactive Airway Disease
+Asthma
+Bronchiolitis
+Cough Variant Asthma
+Tinea Capitis
+Lipoid Metabolism Disorder
+Vaginitis
+Candida Albicans Vaginitis
+Vulvovaginitis
+Candida Albicans Vulvovaginitis
+Herpes Simplex
+Vaginal Candidiasis
+Bacterial Vaginosis
+Asthma
+Diabetic Peripheral Neuropathy Type II
+Lower Back Pain
+Constipation
+Tinea Corporis
+Vaginitis
+Essential Hypertension
+Hyperlipidemia
+Headache
+Paroxysmal Tachycardia
+Psoriasis
+Depression
+Shortness Of Breath
+"ADHD, Combined Type"
+Burns
+Bacterial Vaginosis
+Primary Nocturnal Enuresis
+Headache
+Allergic Rhinitis
+Dermatitis
+Polyneuropathy
+Diabetes Mellitus
+Insomnia
+Partial Complex Psychomotor Seizure With Intractable Seizure
+Eczema
+Allergic Rhinitis
+Type II Diabetes With Neurological Complications - Uncontrolled
+Exposed To HIV Infection
+End Stage Renal Disease
+Acute Suppurative Otitis Media
+Acute Sinusitis
+Allergic Rhinitis
+Chlamydia Trachomatis Urethritis
+Chlamydial Infections
+Upper Respiratory Infection
+Acute Upper Respiratory Infection
+Chlamydial Disease
+Cervicitis Chlamydia Trachomatis
+Chlamydial Infections
+Lower Genitourinary Venereal Disease Due To Chlamydia Trachomatis
+Chlamydial Disease
+Congenital Pulmonary Valvular Stenosis
+"Inflammation Of The Cervix, Vagina, And Vulva"
+Wheezing
+Reactive Airway Disease
+Asthma
+Bronchiolitis
+Viral Infection
+Bronchitis
+Childhood Asthma
+Muscle Spasm
+Lumbar Strain
+Decubitus Ulcer
+Episodic Mood Disorders
+Bipolar Disorder
+Hyperlipidemia
+Candida Albicans Vaginitis
+Vaginal Itching Or Burning
+Diaper Rash
+Coronary Artery Disease
+Left Heart Failure - Class III
+Hyperlipidemia
+Dyslipidemia
+Pregnancy Complicated By Anemia
+Hyperlipidemia
+Dyslipidemia
+Oligomenorrhea
+Menorrhagia
+Gynecologic Services Contraceptive Management
+Gynecologic Services Prescription Of Contraceptive Agents
+Oral Contraceptives
+Contraceptives
+Pelvic Pain
+Menorrhagia
+Polycystic Ovarian Syndrome
+Acne
+Gynecologic Services Contraceptive Management
+Oral Contraceptives
+Cough
+Allergic Rhinitis
+Allergic Rhinitis Due To Pollen
+Complaint Of Allergic Reaction Seasonal
+Esophageal Reflux
+Dysphagia
+Acute Pharyngitis
+Acute Viral Pharyngitis
+Hypertension
+Esophageal Reflux
+Allergic Rhinitis
+Atopic Dermatitis
+Allergies
+Dermatitis
+Primary Atypical Mycoplasma Pneumoniae
+Acute Suppurative Otitis Media With Spontaneous Rupture Of The Ear Drum
+Hyperlipidemia
+Lipoid Metabolism Disorder
+Essential Hypercholesterolemia
+Dyslipidemia
+Coronary Artery Disease
+Hypertension
+Hyperlipidemia
+Essential Hypercholesterolemia
+Esophageal Reflux
+Hyperlipidemia
+Coronary Artery Disease
+Hypertension
+Hyperlipidemia
+Gynecologic Services Contraceptive Management
+Gynecologic Services Prescription Of Contraceptive Agents
+"Joint Pain, Localized In The Shoulder"
+Parkinson's Disease
+Chlamydia Trachomatis Urethritis
+Cervicitis Chlamydia Trachomatis
+Lower Genitourinary Venereal Disease Due To Chlamydia Trachomatis
+Acute Renal Failure
+Wheezing
+Reactive Airway Disease
+Asthma
+Chronic Pain
+Depression
+Adjustment Disorder With Anxiety And Depressed Mood
+Depression
+"Major Depression, Single Episode"
+Postpartum Depression
+Depression
+Postpartum Depression - Mild
+Generalized Anxiety Disorder
+Adjustment Disorder With Anxiety And Depressed Mood
+Abdominal Pain
+Tinea Pedis
+Osteoporosis
+Hypoxia
+Esophageal Reflux
+Propionic Acidemia
+Dysphagia
+Allergic Rhinitis
+Gastroparesis
+Oral Contraceptives
+Contraceptives
+Esophageal Reflux
+External Hemorrhoids
+Nausea (Symptom)
+Nausea With Vomiting
+Nausea (Symptom)
+Nausea With Vomiting
+Pelvis Mass
+Congestive Heart Failure
+Left Heart Failure - Class III
+Hypertension
+Essential Hypertension
+Benign Essential Hypertension
+Bacterial Vaginosis
+Nausea With Vomiting
+Chronic Obstructive Pulmonary Disease
+Chronic Pain
+Hypertension
+Hypertension
+Cough
+Urinary Tract Infection
+Esophageal Reflux
+Hypertension
+Essential Hypertension
+Benign Essential Hypertension
+Benign Secondary Hypertension
+Hypertension
+Essential Hypertension
+Benign Essential Hypertension
+Lipoid Metabolism Disorder
+Carbuncle On The Left Thigh
+Insomnia
+Congestive Heart Failure
+Allergic Rhinitis
+Insomnia
+Taking Medication For A Long Time
+Asthma
+Chronic Obstructive Pulmonary Disease
+Intermittent Asthma
+Hyperlipidemia
+Attention Deficit Disorder Without Hyperactivity
+Benign Essential Hypertension
+Hyperlipidemia
+Familial Hypercholesterolemia
+Tinea Corporis
+Coronary Artery Disease
+Left Heart Failure - Class III
+Hypertension
+Essential Hypertension
+Benign Essential Hypertension
+Hyperlipidemia
+Congestive Heart Failure
+Atrial Fibrillation
+Congestive Heart Failure
+Hypertension
+ACP Staging Stage 2 Hypertension: Greater Than Or = 160/100
+Hypertension
+Essential Hypertension
+Ischemic Cardiomyopathy
+Congestive Heart Failure
+Essential Hypertension
+Chronic Combined Systolic And Diastolic Congestive Heart Failure
+Dilated Cardiomyopathy
+Congestive Heart Failure With Systolic And Diastolic Dysfunction
+Essential Hypertension
+Benign Essential Hypertension
+Limb Pain
+Otitis Externa
+Acute Suppurative Otitis Media With Spontaneous Rupture Of The Ear Drum
+Acute Otitis Media
+Generalized Convulsive Tonic-clonic Seizure
+Generalized Convulsive Clonic Seizure With Intractable Seizure
+Asthma
+Multiple Gestation - Twins
+Urinary Tract Infection
+Pregnancy Complicated By Anemia
+Anemia
+Infant Feeding Problems
+Allergic Rhinitis
+Complaint Of Allergic Reaction Seasonal
+Carbuncle
+Hypertension
+Essential Hypertension
+Allergic Rhinitis
+Allergic Rhinitis
+Congestive Heart Failure
+Mitral Valve Disorder
+Hypertension
+Essential Hypertension
+Osteoporosis
+Diabetes Mellitus
+Pregnancy Complicated By Anemia
+Anemia
+Type I Diabetes Mellitus - Uncontrolled
+"ADHD, Combined Type"
+Parkinson's Disease
+Tingling (Paresthesia)
+Esophageal Reflux
+Depression
+Osteoporosis
+Cerebellar Ataxia
+Polycystic Ovarian Syndrome
+Attention-deficit Hyperactivity Disorder
+Disruptive Behavior Disorder
+Episodic Mood Disorders
+Adjustment Disorder With Disturbance Of Emotions And Conduct
+Allergic Rhinitis
+Dementia
+Epilepsy
+Parkinson's Disease
+Patient Education - Preparation For Childbirth
+Seizure Disorder
+Phenylketonuria
+HIV Infection
+Allergic Rhinitis
+Headache
+Seizure
+Epilepsy
+Acne
+Seizure Disorder
+Episodic Mood Disorders
+Allergies
+Propionic Acidemia
+Partial Complex Psychomotor Seizure With Intractable Seizure
+Common Migraine (Without Aura)
+Seizure Disorder
+Partial Complex Psychomotor Seizure With Intractable Seizure
+Pregnancy Complicated By Diabetes Mellitus
+Pregnancy Complicated By Anemia
+Anemia
+Abdominal Pregnancy
+Female Infertility Associated With Anovulation
+Partial Complex Psychomotor Seizure With Intractable Seizure
+Atrial Fibrillation
+Coronary Artery Disease
+Vitamin D Deficiency
+Acute Gout
+Acne
+Osteoporosis
+Chronic Constipation
+Herpes Simplex
+Herpes Simplex Type II
+Herpes Simplex
+Iron Deficiency
+Osteoporosis
+Dysfunctional Uterine Bleeding
+Essential Hypertension
+Benign Essential Hypertension
+Vomiting (Symptom)
+Esophageal Reflux
+Dysmenorrhea
+Cramp Of Limb
+Postmenopausal Atrophic Vaginitis
+Dyspareunia
+"ADHD, Combined Type"
+Parkinson's Disease
+Multisystem Atrophy
+Organic Sleep-related Leg Cramps
+Limb Pain
+Condyloma Acuminatum
+Allergic Rhinitis
+Allergy To Pollens Weeds Ragweed
+Asthma
+Shortness Of Breath
+Cough
+Congestive Heart Failure
+Hypertension
+Coronary Artery Disease
+Essential Hypertension
+Benign Essential Hypertension
+Hyperlipidemia
+Acne
+Allergic Rhinitis
+Moderate Recurrent Major Depression
+Cellulitis
+Skin Abscess Of The Head
+Acne
+Venous Thrombosis Of The Deep Vessels Of The Proximal Lower Extremity
+Pulmonary Embolism
+Venous Thrombosis Of The Deep Vessels Of The Proximal Lower Extremity
+Acute Venous Thrombosis Of The Deep Vessels Of The Lower Extremity
+Cerebral Vein Thrombosis
+Limb Pain
+Puerperal Hemorrhoids
+Allergic Rhinitis
+Oral Contraceptives
+Esophageal Reflux
+Atrial Fibrillation
+Failure To Thrive In Childhood
+Disorder Of Mitochondrial Metabolism
+Alzheimer's Disease
+Vascular Dementia
+Speech Language Dysphasia / Aphasia
+Eczema
