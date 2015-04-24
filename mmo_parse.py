@@ -30,7 +30,7 @@ for mmo in tree.iter('MMO'):
         sources = []
         for source in candidate.findall('./Sources/Source'):
             sources.append(source.text)
-        if any('ICD9CM' or 'ICD10CM' in s for s in sources):
+        if any('ICD9CM' in s for s in sources) or any('ICD10CM' in s for s in sources):
             print(mmo.find('./Utterances/Utterance/UttText').text, candidate_names, candidate_cuis)
             n_singles_icdx += 1
     elif mapping:
