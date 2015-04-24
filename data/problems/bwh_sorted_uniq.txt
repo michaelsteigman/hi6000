@@ -1,0 +1,205 @@
+AIDS
+Acne
+Alcohol 1
+Alcohol 2
+Allergies
+Anemia
+Anxiety
+Arrhythmias
+Asthma
+Back Pain
+Bowel problems
+Breast neoplasms
+CAD
+CAD w Angina
+CHF
+CHF w LVH
+COPD
+Chest Pain
+Colon Polyps
+Depression
+Diabetes Mellitus
+Diabetes Mellitus Incl Borderline
+Diabetes Mellitus Incl Gestational
+Diabetes Mellitus Incl Gestational
+Dyslipidemia
+Eczema Psoriasis
+Eczema Psoriasis Psoriatic Arhtritis
+Genital Herpes
+HIV/AIDS
+Headaches
+Hepatitis
+Hypertension W Borderline
+Kidney Problems
+Kidney Stones
+Migraines
+Obesity
+Osteoarthritis
+Osteoporosis Osteopenia
+Parkinsons All
+Parkinsons Dz
+Pneumonia
+Prostate
+Rheumatoid Arthritis
+Rhinitis
+Schizophrenia
+Seizures
+Smoker
+Strokes
+Tachyarrhythmias
+Tinea
+Tuberculosis
+Ulcers
+Crohns disease
+Graves' disease
+HIV positive
+Parkinsons disease
+Pneumocystis pneumonia
+Raynauds disease
+Sjogrens syndrome
+abnormal pap test
+acne
+acne rosacea
+adenomatous polyp
+alcohol abuse
+allergic rhinitis
+alopecia
+amyotrophic lateral sclerosis
+anemia
+anxiety
+appendectomy
+arthritis
+asthma
+atrial fibrillation
+attention deficit disorder
+basal cell carcinoma
+benign prostatic hypertrophy
+bipolar disease
+bone marrow transplant
+breast cancer
+bronchiectasis
+bronchiolitis
+cardiac bypass graft surgery
+cardiac catheterization
+cardiac transplant
+cardiomyopathy
+cataract
+cerebrovascular accident
+cesarean section
+chickenpox
+cholecystectomy
+chronic myelocytic leukemia
+chronic obstructive pulmonary disease
+chronic renal dysfunction
+colon cancer
+congestive heart failure
+constipation
+coronary artery disease
+cystic fibrosis
+deep venous thrombosis
+degenerative joint disease
+dementia
+depression
+diabetes mellitus
+diabetes mellitus type 1
+diabetes mellitus type 2
+diverticulosis
+drug abuse
+eczema
+elevated cholesterol
+elevated prolactin
+elevated triglycerides
+end stage renal disease
+endometriosis
+environmental allergy
+erectile dysfunction
+fibromyalgia
+gastroesophageal reflux disease
+genital herpes simplex
+glaucoma
+gout
+head and neck cancer
+headache
+heart murmur
+hemorrhoids
+hepatitis B
+hepatitis C
+herpes zoster
+hyperkalemia
+hyperlipidemia
+hypertension
+hyperthyroidism
+hypogonadism
+hypothyroidism
+hysterectomy
+infertility
+insomnia
+interstitial cystitis
+iron deficiency anemia
+irritable bowel syndrome
+kidney stone
+lactose intolerance
+low back pain
+lung cancer
+lung transplant
+macular degeneration
+memory loss
+menopause
+migraine headache
+multiple sclerosis
+myasthenia gravis
+myeloma
+myocardial infarction
+obesity
+obsessive compulsive disorder
+onychomycosis
+orthostatic hypotension
+osteoarthritis
+osteopenia
+osteoporosis
+otitis media
+paroxysmal atrial fibrillation
+past smoking
+pelvic pain
+peripheral neuropathy
+peripheral vascular disease
+pituitary adenoma
+polycythemia
+positive PPD
+pregnancy
+prolactinoma
+prostate cancer
+psoriasis
+psoriatic arthritis
+pulmonary embolism
+pulmonary hypertension
+renal cancer
+renal insufficiency
+restless legs syndrome
+retinopathy
+rheumatoid arthritis
+schizoaffective disorder
+schizophrenia
+seasonal allergies
+seizure disorder
+sickle cell anemia
+sinusitis
+skin cancer
+sleep apnea
+smoking
+stress test
+substance abuse
+syphilis
+systemic lupus
+thrombocytosis
+tinea capitis
+tonsillectomy
+transient ischemic attack
+tremor
+tubal ligation
+ulcerative colitis
+urinary incontinence
+urinary tract infection
+uterine fibroids
+vitamin B12 deficiency
+von Willebrands disease

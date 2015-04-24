@@ -1,0 +1,563 @@
+"ADHD, Combined Type"
+"ADHD, Predominantly Inattentive Type"
+"Chronic Hepatitis, B Virus"
+"Chronic Hepatitis, C Virus"
+"Chronic Kidney Disease, Stage 1"
+"Chronic Kidney Disease, Stage 2"
+"Chronic Kidney Disease, Stage 3"
+"Chronic Kidney Disease, Stage 4"
+"Complications Due To A Renal Dialysis Device, Implant, Or Graft"
+"Hepatitis, C Virus"
+"Joint Pain, Localized In The Hip"
+"Joint Pain, Localized In The Knee"
+"Joint Pain, Localized In The Shoulder"
+"Paranoid Schizophrenia, Stable"
+"Reported Positive HIV Test, No Symptoms Of Infection"
+"Type II Diabetes Mellitus - Uncomplicated, Controlled"
+"Type II Diabetes Mellitus - Uncomplicated, Uncontrolled"
+(Lower) Leg Localized Swelling Bilateral
+21-hydroxylase Deficiency (Salt Losing)
+A Fall
+Abdominal Pain
+Abnormal Weight Gain
+Abnormal Weight Loss
+Abuse / Neglect
+Acanthosis Nigricans
+Acne
+Acne Vulgaris
+Acquired Immunodeficiency Syndrome (AIDS)
+Acute Bacterial Conjunctivitis
+Acute Bronchitis
+Acute Conjunctivitis
+Acute Ethmoidal Sinusitis
+Acute Gout
+Acute Maxillary Sinusitis
+Acute Otitis Externa
+Acute Otitis Media
+Acute Pharyngitis
+Acute Pharyngitis Streptococcus
+Acute Sinusitis
+Acute Sore Throat
+Acute Streptococcal Tonsillitis
+Acute Tracheitis
+Acute Upper Respiratory Infection
+Acute Vernal Conjunctivitis
+Adenocarcinoma Of The Breast
+Adenocarcinoma Of The Prostate Gland
+Adjustment Disorder With Anxiety
+Adrenal Disorders
+Adverse Reaction To Anesthesia
+Alcohol
+Alcohol Abuse
+Alcohol Use
+Allergic Rhinitis
+Allergies
+Allergy To Bandaging Tape
+Allergy To Peanuts
+Alopecia
+Alzheimer's Disease
+Amyotrophic Lateral Sclerosis
+Anal Fissure
+Anemia
+Anemia Of Chronic Kidney Disease
+Anemia Of End-stage Renal Disease
+Ankle Joint Pain
+Ankle Sprain
+Ankylosing Spondylitis
+Anxiety (Symptom)
+Appendectomy
+Appetite Lost (Anorexia)
+Arthritis
+Asthma
+Asymptomatic Hyperuricemia
+Atopic Dermatitis
+Atopic Disorders
+Atrial Fibrillation
+Atrial Flutter
+Atrial Septal Defect
+Attention-deficit Hyperactivity Disorder
+Atypical Chest Pain
+Atypical Mycobacterial Infection
+Autistic Disorder
+Backache
+Bacterial Vaginosis
+Basal Cell Carcinoma Of The Skin
+Being A Social Drinker
+Benign Essential Hypertension
+Benign Prostatic Hypertrophy
+Bipolar Disorder
+Bipolar Disorder NOS
+Birth Control Method - Oral Contraceptives
+Blood Pressure Isolated Elevated
+Breast Cancer
+Breast Surgery Mastectomy
+Bronchiectasis
+Bronchiolitis
+Bronchitis
+Bronchopulmonary Dysplasia Of Fetus Or Newborn
+Caffeine Use
+Cancer
+Candida Albicans Vaginitis
+Candidiasis
+Cardiac Defibrillator
+Cardioverter-defibrillator Pulse Generator Insertion
+Cardioverter-defibrillator Pulse Generator Insertion With Leads
+Caregiver
+Carpal Tunnel Syndrome
+Cataract
+Cataract Surgery
+Catheter Ablation Of Arrhythmogenic Focus
+Cellulitis
+Central Diabetes Insipidus
+Cerebral Artery Thrombosis - With Cerebral Infarction
+Cerebral Palsy
+Cerumen Impaction
+Cerumen Impaction In Both Ears
+Cervical Pap Smear
+Cervicalgia
+Cesarean Section
+Change In A Job
+Chest Pain
+Child Enrolled In Day-care
+Child With Special Needs
+Cholecystectomy
+Cholesteatoma Of Middle Ear And Mastoid
+Chronic Allergic Conjunctivitis
+Chronic Constipation
+Chronic Cutaneous Ulcer
+Chronic Ethmoidal Sinusitis
+Chronic Fatigue Syndrome
+Chronic Frontal Sinusitis
+Chronic Gout
+Chronic Interstitial Cystitis
+Chronic Interstitial Lung Disease
+Chronic Kidney Disease (NKF Classification)
+Chronic Lung Disease Of Newborn
+Chronic Maxillary Sinusitis
+Chronic Nondecubitus Ulcer Of The Ankle
+Chronic Obstructive Pulmonary Disease
+Chronic Otitis Externa
+Chronic Pain
+Chronic Reflux Esophagitis
+Chronic Renal Failure
+Chronic Renal Insufficiency
+Chronic Respiratory Failure
+Chronic Rhinitis
+Chronic Sinusitis
+Chronic Sphenoidal Sinusitis
+Chronic Tubotympanic Suppurative Otitis Media
+Classic Migraine (With Aura)
+Common Cold
+Common Migraine (Without Aura)
+Composition Of Household ___ Brothers
+Composition Of Household ___ Sisters
+Conductive Hearing Loss
+Condyloma Acuminatum
+Congenital Adrenal Hyperplasia
+Congenital Heart Disease
+Congestive Heart Failure
+Conjunctivitis
+Constipation
+Contact Dermatitis
+Convulsions
+Convulsive Grand Mal Seizure With Intractable Seizure
+Coronary Artery Bypass Graft (CABG)
+Coronary Artery Disease
+Cough
+Crohn's (Granulomatous) Colitis
+Crohn's Disease
+Currently In School
+Currently In School Excelling
+Currently In School Having Difficulty
+Cystic Fibrosis
+Decubitus Ulcer
+Delayed Developmental Milestones
+Delayed Developmental Milestones Speech
+Dementia
+Demyelinating Disorders
+Dependence On A Respirator
+Dependence On Supplemental Oxygen
+Depression
+Dermatitis
+Dermatophytosis
+Detrusor Instability
+Deviated Nasal Septum (Acquired)
+Diabetes Mellitus
+Diabetes Mellitus Poorly Controlled
+Diabetic Foot Ulcer
+Diabetic Peripheral Neuropathy
+Diabetic Retinopathy
+Diaper Rash
+Diarrhea (Symptom)
+Difficulty Breathing (Dyspnea)
+Difficulty Swallowing (Dysphagia)
+Diffuse Obstructive Chronic Bronchitis
+Dilated Cardiomyopathy
+Disorder Of Mitochondrial Metabolism
+Disorders Of Calcium And Bone Metabolism
+Disturbance Of Gait
+Diverticulosis
+Dizziness
+Drug Use
+Dysfunctional Uterine Bleeding
+Dyslipidemia
+Dysmenorrhea
+Dysmetabolic Syndrome X
+Dysphagia
+Earache
+Earache (Symptom)
+Eczema
+Edema
+Edema (On Exam)
+Educational Level - Completed Bachelors Degree
+Educational Level - Grades 1-6
+Educational Level Grade
+Elective Circumcision
+Encephalopathy
+Encopresis
+End Stage Renal Disease
+Endometriosis
+Endotracheal Tube Insertion
+Enterobiasis (Pinworm)
+Enuresis
+Epilepsy
+Esophageal Reflux
+Esophagogastric Fundoplasty Nissen Fundoplication
+Essential Hypercholesterolemia
+Essential Hypertension
+Essential Hypertriglyceridemia
+Excessive Facial Or Body Hair (Hirsutism)
+Exercise Habits
+Exercising Regularly
+Exposed To HIV Infection
+External Hemorrhoids
+Factor IX Deficiency
+Factor VIII Deficiency (Hemophilia)
+Failure To Thrive In Childhood
+Familial (Benign Essential) Tremor
+Family Health Status
+Family Health Status Of Father - Poor
+Family Health Status Of Mother - Poor
+Fatigue
+Feeding Disorder Of Infancy / Early Childhood
+Feelings Of Urinary Urgency
+Female Infertility
+Female Pelvic Pain
+Fever (Symptom)
+Fibromyalgia
+Functional Status
+Gallbladder Surgery
+Gastric Surgery Feeding Gastrostomy
+Gastritis
+Gastritis Due To H. Pylori
+Gastroenteritis
+Gastroparesis
+Gastrostomy Care
+Gastrostomy Complication
+General Surgery
+Genital Warts
+Glaucoma
+Gout
+Graves' Disease
+Growth Hormone Deficiency (Pituitary Dwarfism)
+Gynecologic Services Contraceptive General Counseling
+Gynecologic Services Contraceptive Management
+HIV Infection
+Headache
+Headache Syndromes
+Hearing Loss
+Hearing Loss (On Exam)
+Heart Disease
+Helicobacter Pylori (H. Pylori) Infection
+Hemorrhoids
+Hepatocellular Carcinoma Of The Liver
+Herpes Simplex
+Herpes Simplex Type II
+Herpes Zoster (Shingles)
+Hirsutism
+History Of Prior Surgery
+History Unobtainable
+Home Blood Sugar Check Was Low
+Homocysteinemia
+Housing DME For Tube Feeding
+Housing DME Oxygen Tank
+Housing DME Ventilator
+Hydrocephalus
+Hydronephrosis
+Hypercholesterolemia
+Hyperhidrosis
+Hyperkalemia
+Hyperlipidemia
+Hyperprolactinemia
+Hypertension
+Hyperthyroidism
+Hypogonadism
+Hypogonadotrophic Hypogonadism
+Hypokalemia
+Hypopituitarism
+Hypothyroidism
+Hypoxia
+Hysterectomy
+Idiopathic Intracranial Hypertension
+Immunodeficiency Disorders
+Infant Feeding Problems
+Influenza
+Insomnia
+Install Percutaneous Neurostimulator For Vagal Nerve
+Iron Deficiency
+Irritable Bowel Syndrome
+Ischemic Cardiomyopathy
+Ischemic Stroke
+Keratosis Pilaris
+Kidney Cancer
+Knee Surgery
+Laryngopharyngeal Reflux
+Latent Tuberculosis
+Leisure Activities
+Lennox-Gastaut Syndrome
+Life Circumstance Event
+Limb Pain
+Liver Transplant
+Living With Parents
+Localized Osteoarthritis Of The Knee
+Localized Primary Osteoarthritis Of The Knee
+Lower Back Pain
+Lumbago
+Male Erectile Disorder
+Malignant Neoplasm Of The Large Intestine
+Marital History
+Marital History - Currently Married
+Marital History - Never Married
+Marital History - Single
+Memory Lapses Or Loss
+Menorrhagia
+Mental Retardation
+Metabolic Acidosis
+Microalbuminuria
+Migraine Headache
+Miliaria
+Mixed Conductive And Sensorineural Hearing Loss
+Molluscum Contagiosum
+Morbid Obesity
+Multiple Myeloma
+Multiple Sclerosis
+Muscle Spasm
+Myalgia And Myositis
+Myasthenia Gravis
+Narcolepsy
+Nasal Passage Blockage (Stuffiness)
+Nasal Polyps
+Native Language Spanish
+Nausea With Vomiting
+Need For Prophylactic Antibiotics
+Neonatal Apnea
+Neonatal Candidiasis Of The Diaper Region
+Neonatal Jaundice
+Nephrectomy
+Nephrolithiasis
+Nephrosclerosis With Benign Hypertension
+Nephrotic Syndrome
+Nephrotic Syndrome Due To Focal Segmental Sclerosing Glomerulonephritis
+Never Drank Alcohol
+Never Smoked
+Nicotine Dependence
+No Active Problems
+No Recent Change In Medical History
+Normal Initial Prenatal Checkup
+Normal Routine History And Physical Geriatric (80 +)
+Obesity
+Obsessive Compulsive Disorder
+Obstructive Sleep Apnea
+Occupation:
+Oncologic Disorder
+Onychomycosis
+Oral Contraceptives
+Oral Thrush
+Orthostatic Hypotension
+Osteoarthritis
+Osteopenia
+Osteoporosis
+Otitis Externa
+Otitis Media
+Otitis Media In Both Ears
+Otitis Media Of The Right Ear
+Overweight
+Pain During Urination (Dysuria)
+Pancreatic Insufficiency
+Paranoid Schizophrenia
+Parkinson's Disease
+Parkinson's Disease With Dementia
+Paroxysmal Atrial Fibrillation
+Partial Complex Psychomotor Seizure With Intractable Seizure
+Partial Complex Seizure
+Partial Complex Seizure With Secondary Generalization With Intractable Seizure
+Patent Ductus Arteriosus
+Pediculosis Capitis
+Pemphigus Vulgaris
+Percutaneous Placement Of Gastrostomy Tube
+Peripheral Neuropathy
+Peripheral Vascular Disease
+Permanent Gastrostomy
+Pernicious Anemia
+Phenylketonuria
+Physical Disability: Wheelchair Dependence
+Pituitary Prolactinoma
+Planning To Become Pregnant
+Pneumonia
+Polycystic Ovarian Syndrome
+Polymyalgia Rheumatica
+Poor Growth
+Post-traumatic Stress Disorder
+Precocious Puberty
+Precocious Puberty: ____ Years Old
+Prediabetes
+Pregnancy Complicated By Anemia
+Pregnancy Test Positive
+Preterm Infant
+Preterm Infant - 500-749 G.
+Preventive Medicine Estab Patient Checkup Adult 40-64
+Preventive Medicine Establ. Patient Checkup Adult 18-39
+Previous Emergency Room Visit
+Previous History Of Smoking
+Previous Hospitalizations
+Previously Well
+Primary Biliary Cirrhosis
+Prior Myocardial Infarction
+Prolactinoma Microadenoma
+Prolapsing Mitral Valve Leaflet Syndrome
+Prostate Cancer
+Proteinuria
+Pseudomonas Wound Infection
+Psoriasis
+Psoriatic Arthropathy
+Puberty Delayed To Age ____ Years Old
+Pulmonary Embolism
+Pulmonary Hypertension
+Pulmonary Tuberculosis
+Quadriplegic Cerebral Palsy With Spasticity
+Raynaud's Disease
+Reaction To Anesthetics
+Reactive Airway Disease
+Recent Ear Infection
+Recently Moved
+Recreational Activities
+Recreational Activities Walking
+Red Blood In Bowel Movement (Hematochezia)
+Renal Carcinoma
+Renal Cell Carcinoma
+Renal Insufficiency
+Renal Osteodystrophy
+Renal Secondary Hyperparathyroidism
+Renal Transplant
+Renal Tubular Acidosis
+Reported A History Of Cancer
+Reported A Previous Medical History Of Fracture
+Reported Family History Ischemic Heart Disease Before Age 50
+Reported Family History Of Birth Defects
+Reported Family History Of Genetic Disease
+Reported Previous High Blood Pressure
+Reported Prior Surgical / Procedural History
+Restless Legs Syndrome
+Retinopathy Of Prematurity
+Rheumatoid Arthritis
+Rhythm Disorder
+Rosacea
+Routine Pelvic Exam With Cervical Pap Smear
+Routine UA Without Microscopic Examination
+Scabies
+Schizophrenia
+Scleroderma
+Seborrhea Capitis
+Secondary Hyperparathyroidism
+Secondary Pulmonary Hypertension
+Secondhand Tobacco Smoke In Home
+Seizure Disorder
+Sexually Active
+Short Bowel Syndrome
+Short Stature
+Short Stature (On Exam)
+Sicca Syndrome
+Sickle Cell Abnormality
+Sickle Cell Anemia
+Sickle Cell Hb-SS Disease
+Sinus Surgery
+Sinusitis
+Sjogren's Syndrome
+Skin Abscess
+Sleep Apnea
+Sports Activities
+Strabismus
+Streptococcal Sore Throat
+Stroke Syndrome
+Surgery
+Symptomatic Menopause
+Syphilis
+Systemic Lupus Erythematosus
+TPN-induced Cholestasis
+Taking Blood Thinners For A Long Time
+Taking Medication For A Long Time
+Taking Medication For Diabetes Long-term Use Of Insulin
+Tension-type Headache
+The Speech Was Delayed
+Thyroid Cancer
+Thyroid Disorder
+Tinea Capitis
+Tinea Corporis
+Tinea Pedis
+Tinea Versicolor
+Tinnitus
+Tobacco Use
+Tonsillar And Adenoid Hypertrophy
+Tonsillectomy
+Tracheitis
+Tracheostomy
+Tracheostomy Care Requirement
+Transient Ischemic Attack
+Travel Or Residence In
+Tuberculin PPD Induration Positive Interpretation
+Tuberculosis
+Tuberous Sclerosis (Bourneville's Disease)
+Turner Syndrome
+Tympanic Membrane Perforation
+Type I Diabetes Mellitus
+Type I Diabetes Mellitus - Uncontrolled
+Type II Diabetes Mellitus
+Ulcerative Colitis
+Umbilical Hernia
+Unable To Restrain Bowel Movement
+Under Stress
+Unspecified Debility
+Upper Respiratory Infection
+Upper Respiratory Tract Disorders
+Urge Incontinence Of Urine
+Urinalysis Results: Specific Gravity
+Urinalysis Results: pH
+Urinalysis Source Of Specimen: Clean Catch Midstream
+Urinary Calculus
+Urinary Frequency More Than Twice At Night (Nocturia)
+Urinary Incontinence
+Urinary Loss Of Control
+Urinary Tract Infection
+Vacc Prophylactic Need Against Respiratory Syncytial Virus
+Vaccines Prophylactic Need Against Influenza
+Vaginal Candidiasis
+Vaginal Mucosa Atrophy
+Vaginitis
+Vascular Dementia
+Venous Insufficiency
+Venous Thrombosis Of The Deep Vessels Of The Lower Extremity
+Ventricular Septal Defect
+Ventricular Tachycardia
+Vertigo
+Vesicoureteral Reflux
+Viral Infection
+Viral Syndrome
+Visit For: Fit/Adjust Insulin Pump
+Visit For: Well Baby Exam
+Visit For: Well Child Visit
+Vitamin B12 Deficiency
+Vitamin D Deficiency
+Vomiting (Symptom)
+Wearing Diapers
+Wheezing
+social history unchanged

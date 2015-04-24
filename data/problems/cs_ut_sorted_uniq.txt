@@ -1,0 +1,1576 @@
+"ADHD, Combined Type"
+"ADHD, Predominantly Hyperactive - Impulsive"
+"ADHD, Predominantly Inattentive Type"
+"Bipolar Disorder, Manic, With Psychotic Features"
+"Bipolar I Disorder, Most Recent Episode"
+"Bipolar I Disorder, Most Recent Episode, Depressed - Mild"
+"Bipolar I Disorder, Most Recent Episode, Depressed - Moderate"
+"Bipolar I Disorder, Most Recent Episode, Depressed - Severe With Psychotic Features"
+"Bipolar I Disorder, Most Recent Episode, Depressed - Severe Without Psychotic Features"
+"Bipolar I Disorder, Most Recent Episode, Depressed - Severe"
+"Bipolar I Disorder, Most Recent Episode, Depressed"
+"Bipolar I Disorder, Most Recent Episode, Mixed - Moderate"
+"Bipolar I Disorder, Most Recent Episode, Mixed In Partial Remission"
+"Bipolar I Disorder, Most Recent Episode, Mixed Severe With Psychotic Features"
+"Bipolar I Disorder, Most Recent Episode, Mixed"
+"Cerebral Degenerations, Extrapyramidal Disorders And Movement Disorders"
+"Chronic Kidney Disease, Stage 1"
+"Chronic Kidney Disease, Stage 2"
+"Chronic Kidney Disease, Stage 3"
+"Chronic Kidney Disease, Stage 4"
+"Chronic Kidney Disease, Stage 5"
+"Chronic Kidney Disease, Stage"
+"Disruptive Behavior Disorder, Childhood Onset"
+"Encopresis With Constipation, Overflow Incontinence"
+"Frequent, Full-bladder Emptying (Polyuria)"
+"Generalized Convulsive Myoclonic Seizure, Juvenile With Intractable Seizure"
+"Generalized Convulsive Myoclonic Seizure, Juvenile"
+"Joint Pain, Localized In More Than One Joint"
+"Joint Pain, Localized In The Hip"
+"Joint Pain, Localized In The Knee"
+"Joint Pain, Localized In The Left Shoulder"
+"Joint Pain, Localized In The Right Shoulder"
+"Joint Pain, Localized In The Shoulder"
+"Joint Pain, Localized In The Wrist"
+"Major Depression, Recurrent With Melancholia"
+"Major Depression, Recurrent With Psychotic Features"
+"Major Depression, Recurrent Without Melancholia"
+"Major Depression, Recurrent"
+"Major Depression, Single Episode In Remission"
+"Major Depression, Single Episode"
+"Malignant Neoplasm Of The Head, Face, Or Neck"
+"Multiple Partial Thickness (Second Degree) Burns Of The Face, Head, And Neck"
+"Muscle Aches, Generalized (Myalgias)"
+"Paranoid Schizophrenia, Chronic"
+"Paranoid Schizophrenia, Stable"
+"Paranoid Schizophrenia, Subchronic"
+"Petit Mal Seizure, Juvenile With Intractable Seizure"
+"Sexual Dysfunction, NOS"
+"Sleep-wake Schedule Disorder, Frequently Changing"
+"Type II Diabetes Mellitus - Uncomplicated, Controlled"
+"Type II Diabetes Mellitus - Uncomplicated, Uncontrolled"
+"Urinary Tract Infection, Geriatric Presentation"
+"Urinary Tract Infection, Pediatric Presentation"
+'Stiff Man' Syndrome
+(Lower) Leg Localized Swelling
+(Lower) Leg Localized Swelling Bilateral
+(Lower) Leg Localized Swelling Unilateral
+2-vessel Coronary Artery Stenosis
+21-hydroxylase Deficiency (Non Salt Losing)
+21-hydroxylase Deficiency (Salt Losing)
+A Fall
+ACP Staging Stage 1 Hypertension: 140-159 / 90-99
+ACP Staging Stage 2 Hypertension: Greater Than Or = 160/100
+AIDS CDC Classification
+AIDS Polyneuropathy
+ATTENTION-DEFICIT DISORDER WITH HYPERACTIVITY
+Abdomen Tenderness Direct Diffuse
+Abdomen Tenderness Direct Epigastric
+Abdomen Tenderness Direct RUQ
+Abdominal Distention
+Abdominal Migraine Headache
+Abdominal Pain
+Abdominal Pain Above The Pubic Area (Suprapubic)
+Abdominal Pain Around The Belly Button (Periumbilical)
+Abdominal Pain Feels Crampy / Colicky
+Abdominal Pain In Multiple Locations
+Abdominal Pain In The Central Upper Belly (Epigastric)
+Abdominal Pain In The Left Lower Belly (LLQ)
+Abdominal Pain In The Left Upper Belly (LUQ)
+Abdominal Pain In The Right Lower Belly (RLQ)
+Abdominal Pain In The Right Upper Belly (RUQ)
+Abdominal Pain Of Childhood
+Abnormal Glucose
+Abnormal Weight Gain
+Abnormal Weight Loss
+Abnormality Of Walk
+Abortion
+Abrasion Of The Face
+Abrasion Of The Foot
+Abrasion Of The Left Cornea
+Abscess Of The Scrotum
+Acanthosis Nigricans
+Accelerated Essential Hypertension
+Accident Caused By Explosion - Explosive Material
+Acne
+Acne Vulgaris
+Acquired Deformity Of Nose
+Acquired Immunodeficiency Syndrome (AIDS)
+Acrodermatitis Chronica Atrophicans
+Acromegaly
+Acute Actinic Otitis Externa
+Acute Atopic Conjunctivitis
+Acute Bacterial Conjunctivitis
+Acute Bacterial Prostatitis
+Acute Bacterial Pyelonephritis
+Acute Bronchitis
+Acute Bronchitis With Bronchospasm
+Acute Colitis
+Acute Combined Systolic And Diastolic Congestive Heart Failure
+Acute Conjunctivitis
+Acute Conjunctivitis Of Both Eyes
+Acute Conjunctivitis Of The Left Eye
+Acute Cystitis
+Acute Ethmoidal Sinusitis
+Acute Frontal Sinusitis
+Acute Gastritis
+Acute Gingivitis
+Acute Gonorrhea
+Acute Gout
+Acute Gouty Arthropathy
+Acute Laryngitis
+Acute Mastitis
+Acute Maxillary Sinusitis
+Acute Medial Meniscus Tear
+Acute Mucoid Otitis Media
+Acute Nasopharyngitis
+Acute Nonsuppurative Otitis Media
+Acute Otitis Externa
+Acute Otitis Externa Of The Left Ear
+Acute Otitis Externa Of The Right Ear
+Acute Otitis Media
+Acute Pain
+Acute Periodontitis
+Acute Pharyngitis
+Acute Pharyngitis Streptococcus
+Acute Post-thoracotomy Pain
+Acute Recurrent Otitis Media
+Acute Recurrent Otitis Media Of Both Ears
+Acute Rhinitis
+Acute Serous Otitis Media
+Acute Serous Otitis Media Of Both Ears
+Acute Serous Otitis Media Of The Left Ear
+Acute Serous Otitis Media Of The Right Ear
+Acute Sinusitis
+Acute Sore Throat
+Acute Streptococcal Tonsillitis
+Acute Suppurative Otitis Media
+Acute Suppurative Otitis Media Of The Left Ear
+Acute Suppurative Otitis Media Of The Right Ear
+Acute Suppurative Otitis Media With Spontaneous Rupture Of The Ear Drum
+Acute Suppurative Sinusitis
+Acute Swimmer's Ear
+Acute Tonsillitis
+Acute Tracheitis
+Acute Upper Respiratory Infection
+Acute Urinary Retention
+Acute Venous Thrombosis Of The Deep Vessels Of The Distal Lower Extremity
+Acute Venous Thrombosis Of The Deep Vessels Of The Lower Extremity
+Acute Vernal Conjunctivitis
+Acute Viral Conjunctivitis
+Acute Viral Pharyngitis
+Addisonian Crisis
+Adenocarcinoma Of The Breast
+Adenocarcinoma Of The Prostate Gland
+Adenoid Hypertrophy
+Adenoid Squamous Cell Carcinoma Of The Kidney
+Adhesive Capsulitis Of Shoulder
+Adhesive Otitis
+Adjustment Disorder
+Adjustment Disorder With Anxiety
+Adjustment Disorder With Anxiety And Depressed Mood
+Adjustment Disorder With Anxiety And Prolonged Depressed Mood
+Adjustment Disorder With Anxious Mood
+Adjustment Disorder With Depressed Mood
+Adjustment Disorder With Disturbance Of Emotions And Conduct
+Adjustment Insomnia
+Adrenal Insufficiency
+Adult Sleep Apnea
+Adult Still's Disease
+Aftercare Following Surgery
+Alcohol Abuse
+Alcohol Abuse - In Remission
+Alcoholic (Laennec's) Cirrhosis
+Alcoholism
+Aldosteronism
+Alimentary Hypoglycemia
+Allergic Bronchitis
+Allergic Granulomatous Angiitis (Churg-Strauss)
+Allergic Reaction
+Allergic Rhinitis
+Allergic Rhinitis Due To Dust Mite
+Allergic Rhinitis Due To Grass Pollen
+Allergic Rhinitis Due To Mold
+Allergic Rhinitis Due To Pollen
+Allergic Urticaria
+Allergies
+Allergies To Multiple Foods
+Allergy To Insect Bites / Stings
+Allergy To Peanuts
+Alopecia
+Alzheimer's Disease
+Alzheimer's Disease Early Onset
+Alzheimer's Disease Late Onset
+Alzheimer's Disease With Behavioral Disturbance
+Amebiasis
+Amenorrhea
+Anal Fissure
+Anaphylaxis
+Anaphylaxis Due To Bee Venom
+Anaphylaxis Due To Eggs
+Anaphylaxis Due To Peanuts
+Anemia
+Anemia Of Chronic Disease
+Anemia Of Chronic Kidney Disease
+Anemia Of End-stage Renal Disease
+Anemia Secondary To Blood Loss
+Angina Pectoris
+Ankle Injury
+Ankle Joint Pain
+Ankle Sprain
+Ankle Swelling (On Exam)
+Ankylosing Spondylitis
+Anosmia
+Anserine Bursitis
+Anterior Wall Chest Pain With Respiration
+Anticipatory Guidance: Osteoporosis
+Antiphospholipid Syndrome
+Anxiety (Symptom)
+Anxiety Disorder Due To General Medical Condition
+Anxiety Disorder Due To General Medical Condition With Generalized Anxiety
+Anxiety Disorder Due To General Medical Condition With Panic Attacks
+Anxiety Disorder NOS
+Anxiety Disorder Of Unknown (Axis III) Etiology
+Aortic Stenosis
+Aortic Valve Replacement
+Aphthous Ulcer
+Appetite Lost (Anorexia)
+Arnold-Chiari Malformation
+Arteriosclerotic Cardiovascular Disease (ASCVD)
+Arthralgias In Multiple Sites
+Arthritis
+Arthritis Of Inflammatory Bowel Disease
+Arthropathy
+Arthropathy Of Multiple Sites
+Ascites
+Aseptic Necrosis Of The Femoral Head
+Asthma
+Asthma With Acute Exacerbation
+Asthmatic Bronchitis
+Asymmetrical Polyarticular Inflammation
+Asymptomatic Hyperuricemia
+Atherosclerosis
+Atherosclerosis Of The Extremities With Intermittent Claudication
+Atopic Dermatitis
+Atrial Fibrillation
+Atrial Flutter
+Atrial Septal Defect
+Atrophie Blanche
+Attention Deficit Disorder Without Hyperactivity
+Attention-deficit Hyperactivity Disorder
+Atypical Chest Pain
+Atypical Depressive Disorder
+Atypical Face Pain
+Atypical Mycobacterial Infection
+Atypical Mycobacterial Pneumonia
+Atypical Mycobacterium Avium Intracellulare Pneumonia
+Atypical Pervasive Developmental Disorder
+Atypical Psychosis
+Auscultation Wheezing
+Autistic Disorder
+Automatic Atrial Tachycardia
+Avascular Necrosis
+Back Muscle Spasm
+Back Pain
+Backache
+Bacterial Dermatological Conditions
+Bacterial Vaginosis
+Bad Breath
+Balanitis
+Barrett's Esophagus
+Basilar Migraine Headache
+Behavioral Insomnia Of Childhood
+Behcet's Syndrome
+Bell's Palsy
+Benign Essential Hypertension
+Benign Hypertensive Heart Disease
+Benign Hypertensive Heart Disease With Congestive Heart Failure
+Benign Hypertensive Heart Disease Without Congestive Heart Failure
+Benign Localized Prostatic Hyperplasia
+Benign Localized Prostatic Hyperplasia Without Urinary Obstruction With Other Lower Urinary Tract Symptoms
+Benign Nasal Cavity Neoplasm
+Benign Paroxysmal Positional Vertigo
+Benign Prostatic Hyperplasia
+Benign Prostatic Hyperplasia Localized With Urinary Obstruction With Other Lower Urinary Tract Symptoms
+Benign Prostatic Hyperplasia With Urinary Obstruction
+Benign Prostatic Hypertrophy
+Benign Prostatic Hypertrophy With Urinary Obstruction
+Benign Prostatic Hypertrophy With Urinary Obstruction With Other Lower Urinary Tract Symptoms
+Benign Prostatic Hypertrophy Without Urinary Obstruction With Other Lower Urinary Tract Symptoms
+Benign Skin Neoplasm
+Bipolar Disorder
+Bipolar Disorder NOS
+Bipolar II Disorder
+Bipolar Schizoaffective Disorder
+Birth Control Method
+Birth Control Method - Contraceptive Vaginal Ring
+Birth Control Method - Oral Contraceptives
+Bite From A Venomous Spider
+Bladder Cancer
+Bladder Disorders
+Bleeding Between Periods
+Blepharospasm
+Blister
+Bloating
+Bloating (Symptom)
+Blood Pressure Isolated Elevated
+Borderline Personality Disorder
+Bowel Movement Frequency Recent Change
+Brain Abscess
+Brain Tumor
+Breast Atrophy
+Breast Cancer
+Breast Pain
+Bronchiectasis
+Bronchiolitis
+Bronchiolitis Obliterans
+Bronchitis
+Bronchopneumonia
+Bronchopulmonary Dysplasia Of Fetus Or Newborn
+Bronchospasm
+Bullous Impetigo
+Bunion
+Burns
+Bursitis
+CREST Syndrome
+Candida Albicans Vaginitis
+Candida Albicans Vulvovaginitis
+Candidal Balanitis
+Candidal Intertrigo
+Candidiasis
+Carbuncle
+Carbuncle In The Groin
+Carbuncle On The Face
+Carcinoma Of The Prostate Gland
+Cardiomyopathy
+Carotid Artery Stenosis
+Carpal Tunnel Syndrome
+Carrier Of Infectious Disease Staphylococcus Aureus Methicillin Resistant
+Cellulitis
+Cellulitis Of The Ankle
+Cellulitis Of The Arm
+Cellulitis Of The Buttocks
+Cellulitis Of The Foot
+Cellulitis Of The Forearm
+Cellulitis Of The Left First Toe
+Cellulitis Of The Left Leg
+Cellulitis Of The Leg
+Cellulitis Of The Right Leg
+Cellulitis Of The Toes
+Cellulitis Of The Trunk
+Central Diabetes Insipidus
+Central Perforation Of The Tympanic Membrane
+Cerebellar Ataxia
+Cerebral Artery Occlusion With Cerebral Infarction
+Cerebral Artery Thrombosis
+Cerebral Artery Thrombosis - With Cerebral Infarction
+Cerebral Embolism - With Cerebral Infarction
+Cerebral Palsy
+Cerebral Vasculitis
+Cerebrospinal Fluid Rhinorrhea
+Cerumen Impaction
+Cerumen Impaction In Both Ears
+Cervical Facet Syndrome
+Cervical Radiculopathy
+Cervical Radiculopathy At C6 Nerve Root
+Cervical Radiculopathy At C7 Nerve Root
+Cervical Spasm
+Cervical Spine Stenosis
+Cervical Spondylosis
+Cervical Spondylosis With Myelopathy
+Cervical Stenosis/Stricture
+Cervicalgia
+Cervicitis
+Cervicitis Chlamydia Trachomatis
+Cesarean Delivery - Delivered
+Changed Sexual Interest (Libido): Decreased
+Chest Pain
+Chest Pain Or Discomfort
+Chest Tightness Or Heavy Pressure
+Childhood Asthma
+Childhood Dermatomyositis (Type IV)
+Childhood Onset Pervasive Developmental Autistic Disorder
+Chlamydia Trachomatis Urethritis
+Chlamydial Disease
+Chlamydial Infections
+Cholelithiasis
+Cholesteatoma In The Left Ear
+Cholesteatoma In The Right Ear
+Cholesteatoma Of Attic
+Cholesteatoma Of Middle Ear And Mastoid
+Chronic Allergic Conjunctivitis
+Chronic Antral Gastritis
+Chronic Antral H. Pylori Associated Gastritis
+Chronic Asthmatic Bronchitis
+Chronic Atrophic Gastritis
+Chronic Atticoantral Suppurative Otitis Media
+Chronic Bronchitis
+Chronic Bronchitis With Acute Exacerbation
+Chronic Combined Systolic And Diastolic Congestive Heart Failure
+Chronic Common Migraine (Without Aura)
+Chronic Common Migraine (Without Aura) With Intractable Migraine
+Chronic Constipation
+Chronic Cough
+Chronic Cutaneous Ulcer
+Chronic Cystitis
+Chronic Diastolic Congestive Heart Failure
+Chronic Diffuse Ischemic Heart Disease
+Chronic Ethmoidal Sinusitis
+Chronic Fatigue Syndrome
+Chronic Frontal Sinusitis
+Chronic Gout
+Chronic Gouty Arthropathy
+Chronic Inflammatory Demyelinating Polyneuropathy
+Chronic Interstitial Cystitis
+Chronic Interstitial Lung Disease
+Chronic Kidney Disease (NKF Classification)
+Chronic Kidney Disease With Benign Hypertension
+Chronic Lung Disease Of Newborn
+Chronic Lupus Erythematosus
+Chronic Major Depression
+Chronic Maxillary Sinusitis
+Chronic Mucoid Otitis Media
+Chronic Mucoid Otitis Media Of Both Ears
+Chronic Nondecubitus Ulcer Of The Ankle
+Chronic Nondecubitus Ulcer Of The Foot
+Chronic Obstructive Asthma
+Chronic Obstructive Pulmonary Disease
+Chronic Osteomyelitis
+Chronic Otitis Externa
+Chronic Otitis Media
+Chronic Otitis Media Of Both Ears
+Chronic Pain
+Chronic Pain Due To Trauma
+Chronic Pain Syndrome
+Chronic Pancreatitis
+Chronic Pansinusitis
+Chronic Post-traumatic Stress Disorder
+Chronic Reflux Esophagitis
+Chronic Renal Failure
+Chronic Renal Insufficiency
+Chronic Respiratory Failure
+Chronic Rhinitis
+Chronic Schizophrenia
+Chronic Serous Otitis Media
+Chronic Serous Otitis Media Of Both Ears
+Chronic Sinusitis
+Chronic Sphenoidal Sinusitis
+Chronic Strained Lumbosacral Ligament
+Chronic Suppurative Otitis Media Of The Right Ear
+Chronic Systolic Congestive Heart Failure
+Chronic Tonsillitis
+Chronic Tophaceous Gout
+Chronic Venous Hypertension With Ulcer And Inflammation
+Circadian Rhythm Sleep Disorder Jet Lag Type
+Cirrhosis
+Cirrhosis Due To Hepatitis C
+Classic Migraine (With Aura)
+Classic Migraine (With Aura) With Intractable Migraine
+Claustrophobia
+Closed Bimalleolar Fracture
+Closed Fracture Of Facial Bones
+Closed Fracture Of The Lower Jaw - Multiple Sites
+Clostridium Difficile Colitis
+Cluster Headache
+Coccidioidal Meningitis
+Cognitive Disorder
+Cognitive Functions Current Level Impaired
+Colitis
+Colon Cancer
+Colonic Diverticulosis
+Common Cold
+Common Migraine (Without Aura)
+Common Migraine (Without Aura) With Intractable Migraine
+Common Warts
+Community-acquired Pneumonia
+Complaint Of Allergic Reaction Seasonal
+Complete Atrioventricular Canal
+Complete D-transposition Of The Great Vessels
+Condyloma Acuminatum
+Congenital Adrenal Hyperplasia
+Congenital Heart Disease
+Congenital Hypothyroidism
+Congestive Heart Failure
+Congestive Heart Failure With Systolic And Diastolic Dysfunction
+Conjunctivitis
+Conjunctivitis In Both Eyes
+Conjunctivitis In The Left Eye
+Connective Tissue Defect
+Constipation
+Contact Dermatitis
+Contraceptives
+Contracture
+Contracture Of Multiple Sites
+Contusion Of The Knee With Intact Skin Surface
+Convulsions
+Convulsions In Newborn
+Convulsive Disorder
+Convulsive Grand Mal Seizure With Intractable Seizure
+Coronary Arteriosclerosis
+Coronary Artery Disease
+Costochondritis (Tietze's Syndrome)
+Costovertebral Angle Tenderness
+Cough
+Cough Variant Asthma
+Coughing Up Sputum Yellow
+Crohn's (Granulomatous) Colitis
+Crohn's Disease
+Cryptococcal Pneumonia
+Cutaneous Candidiasis
+Cyclic Vomiting Syndrome
+Cystic Fibrosis
+Cystitis
+De Quervain's Tenosynovitis
+Decrease In Appetite
+Decubitus Ulcer
+Dehiscence Of Surgical Wound
+Delayed Developmental Milestones
+Dementia
+Dementia Of Alzheimer's Type
+Dementia Of Known (Axis III) Etiology With Behavioral Disturbance
+Dementia Of Unknown (Axis III) Etiology
+Dementia With Lewy Bodies
+Demonstrated Behavior Psychomotor Agitation
+Demyelinating Disorders
+Dentoalveolar Abscess
+Dependent Edema Due To Inactivity
+Depression
+Depression With Anxiety
+Dermatitis
+Dermatitis Due To Contact With Poison Ivy
+Dermatitis Due To Drugs And Medicines
+Dermatophytosis
+Detrusor Instability
+Deviated Nasal Septum (Acquired)
+Devic Disease
+DiGeorge Syndrome
+Diabetes Mellitus
+Diabetes Mellitus Poorly Controlled
+Diabetes Mellitus Under Control
+Diabetes With Neurological Complications - Uncontrolled
+Diabetic Autonomic Neuropathy
+Diabetic Foot Ulcer
+Diabetic Gastropathy
+Diabetic Nephropathy Type II
+Diabetic Nephropathy Type II - Uncontrolled
+Diabetic Peripheral Neuropathy
+Diabetic Peripheral Neuropathy Type II
+Diabetic Peripheral Neuropathy Type II - Uncontrolled
+Diabetic Polyneuropathy
+Diaper Rash
+Diarrhea (Symptom)
+Diastolic Congestive Heart Failure
+Diastolic Dysfunction
+Diastolic Hypertension
+Difficulty Breathing (Dyspnea)
+Difficulty Falling Asleep
+Difficulty Swallowing (Dysphagia)
+Diffuse Abdominal Pain
+Diffuse Connective Tissue Disorder
+Diffuse Idiopathic Skeletal Hyperostosis (DISH)
+Diffuse Joint Pains (Arthralgias)
+Diffuse Obstructive Chronic Bronchitis
+Dilated Cardiomyopathy
+Discharge From The Ears
+Discoid Lupus Erythematosus
+Discoid Lupus Erythematosus With Systemic Involvement
+Disorder Of Mitochondrial Metabolism
+Disorders Of Connective Tissue
+Disruptive Behavior Disorder
+Disturbance Of Gait
+Diverticulitis Of Colon
+Diverticulosis
+Dizziness
+Drip Or Drainage Down Throat From Above
+Drowsy
+Drug-induced Essential Tremor
+Drug-induced Osteoporosis
+Dry Eye Syndrome Of Both Eyes
+Duodenal Ulcer
+Dyschromia
+Dysfunctional Uterine Bleeding
+Dyshidrotic Eczema
+Dyslipidemia
+Dysmenorrhea
+Dysmetabolic Syndrome X
+Dyspareunia
+Dyspepsia
+Dysphagia
+Dysthymic Disorder
+Earache
+Earache (Symptom)
+Earache In The Right Ear
+Eczema
+Eczematoid Dermatitis
+Edema
+Edema (On Exam)
+Elbow Sprain
+Emphysema
+Emphysematous Chronic Bronchitis
+Empyema
+Encephalitis
+Encephalopathy
+Encopresis
+End Stage Renal Disease
+Endocrine Disorder
+Endocrine Laboratory Tests Nonspecific Abnormal Findings
+Endometriosis
+Endometriosis Of The Pelvic Peritoneum
+Enterobiasis (Pinworm)
+Enuresis
+Eosinophilic Esophagitis
+Epididymitis
+Epididymitis Of The Left Testicle
+Epilepsy
+Episodic Mood Disorders
+Episodic Tension-type Headache
+Epistaxis
+Esophageal Cancer
+Esophageal Candidiasis
+Esophageal Reflux
+Esophageal Varices
+Esophagitis
+Essential Hypercholesterolemia
+Essential Hypertension
+Essential Hypertriglyceridemia
+Eustachian Tube Block
+Eustachian Tube Disorder
+Eustachian Tube Dysfunction
+Excessive Bleeding During Period (Menorrhagia)
+Excessive Facial Or Body Hair (Hirsutism)
+Exercise-induced Asthma
+Exercise-induced Bronchospasm
+Exposed To Gonorrhea
+Exposed To HIV Infection
+Exposed To Herpes Simplex
+Exposed To Tuberculosis
+Exposed To Venereal Disease
+External Hemorrhoids
+External Hemorrhoids With Bleeding
+Extrinsic Asthma
+Facial Cellulitis
+Facial Pain
+Failure To Gain Weight
+Failure To Thrive As Newborn
+Failure To Thrive In Childhood
+Fainting (Syncope)
+Familial (Benign Essential) Tremor
+Familial Combined Hyperlipidemia
+Familial Hypercholesterolemia
+Familial Hypertriglyceridemia
+Fasciculations
+Fatigue
+Feeding Disorder Of Infancy / Early Childhood
+Feeling Congested In The Chest
+Feelings Of Urinary Urgency
+Feet Swelling
+Female Genitalia Labial Adhesions
+Female Infertility
+Female Infertility Associated With Anovulation
+Female Pelvic Pain
+Female Stress Incontinence
+Fever (On Exam)
+Fever (Symptom)
+Fibromyalgia
+Fibrositis
+Flatus
+Fluid Overload
+Focal Torsion Dystonia
+Folic Acid Deficiency
+Folliculitis
+Food Poisoning
+Foot Pain (Soft Tissue)
+Foreign Body In The Left Ear
+Fracture Of Facial Bones
+Fracture Of The Nasal Bones
+Fracture Of The Vertebral Column
+Frailty
+Frederickson Type IIB Hyperlipidemia
+Frontotemporal Dementia
+Full Thickness (Third Degree) Burns Of Multiple Sites Of Wrists And Hands
+Functional Constipation
+Functional Diarrhea
+Functional Urinary Incontinence
+Fungal Infections
+Furuncle
+Furuncle In The Axilla
+Furuncle In The Right Axilla
+Furuncle On The Back
+Furuncle On The Breast
+Furuncle On The Buttock
+Furuncle On The Face
+Furuncle On The Left Thigh
+Furuncle On The Neck
+Furuncle On The Upper Arm
+Furunculosis
+Gastric Ulcer
+Gastritis
+Gastritis Due To H. Pylori
+Gastroenteritis
+Gastroparesis
+Gastrostomy Care
+Gastrostomy Complication
+Gastrostomy Infection
+Generalized Anxiety Disorder
+Generalized Convulsive Clonic Seizure
+Generalized Convulsive Clonic Seizure With Intractable Seizure
+Generalized Convulsive Grand Mal Seizure
+Generalized Convulsive Myoclonic Seizure With Intractable Seizure
+Generalized Convulsive Seizure
+Generalized Convulsive Tonic Seizure
+Generalized Convulsive Tonic Seizure With Intractable Seizure
+Generalized Convulsive Tonic-clonic Seizure
+Generalized Convulsive Tonic-clonic Seizure With Intractable Seizure
+Generalized Nonconvulsive Seizure
+Generalized Osteoarthritis
+Generalized Osteoarthritis Of Multiple Sites
+Generalized Pain
+Genital Warts
+Genitourinary Candidiasis
+Gestational Diabetes Mellitus
+Giardiasis
+Gitelman's Syndrome
+Glaucoma
+Glomerulonephritis
+Glossopharyngeal Neuralgia
+Glucose Intolerance
+Gout
+Graves' Disease
+Graves' Ophthalmopathy
+Groin (Inguinal) Pain Left Side
+Groin (Inguinal) Pain Right Side
+Group A Streptococcal Infection
+Group A Streptococcus: B Hemolytic Pharyngitis
+Growth Hormone Deficiency (Pituitary Dwarfism)
+Gunshot Wound Of The Face
+Gynecologic Service Prescrip Of Contracept Agent - Repeat Rx
+Gynecologic Services Contraceptive General Counseling
+Gynecologic Services Contraceptive Management
+Gynecologic Services Intrauterine Device (IUD) Insertion
+Gynecologic Services Prescription Of Contraceptive Agents
+HIV Infection
+HIV Infection CDC Classification A1
+Habitual Aborter (Non-gravid)
+Hallucination Visual
+Hallucinations (Imagined Perceptions Not Based In Reality)
+Hand Foot & Mouth Disease
+Hashimoto's Thyroiditis
+Headache
+Headache Syndromes
+Hearing Loss
+Heartburn
+Heartburn With Regurgitation
+Heat Urticaria
+Helicobacter Pylori (H. Pylori) Infection
+Hematuria
+Hemiplegic Migraine Headache
+Hemispasticity Of Left Side
+Hemispasticity Of Left Side - (Nondominant Side)
+Hemispasticity Of Right Side
+Hemorrhoids
+Hemorrhoids With Bleeding
+Henoch-Schonlein Purpura
+Hepatocellular Carcinoma Of The Liver
+Hereditary Hemolytic Spherocytosis
+Hereditary Hemorrhagic Telangiectasia (Osler-Rendu-Weber)
+Herniated Lumbar Disc
+Herpes Simplex
+Herpes Simplex Acute Gingivostomatitis
+Herpes Simplex Type I
+Herpes Simplex Type II
+Herpes Zoster (Shingles)
+Herpes Zoster With Nervous System Complications
+Herpetic Ulceration Of Vulva
+Hiccups (Symptom)
+Hidradenitis Suppurativa
+Highly Irritable
+Hip Sprain
+Hirsutism
+Hoarseness
+Homocysteinemia
+Hydrarthrosis Of The Knee / Patella / Tibia / Fibula
+Hydronephrosis
+Hydronephrosis Bilaterally
+Hydronephrosis On The Left
+Hydronephrosis On The Right
+Hyperactivity Of The Bladder
+Hyperammonemia
+Hypercalciuria
+Hypercholesterolemia
+Hyperemesis Gravidarum
+Hyperglycemia
+Hyperhidrosis
+Hyperhidrosis (On Exam)
+Hyperkalemia
+Hyperlipidemia
+Hyperparathyroidism
+Hyperphosphatemia
+Hyperprolactinemia
+Hypertension
+Hyperthyroidism
+Hypertrophied Nasal Turbinate
+Hypocalcemia
+Hypoglycemia
+Hypogonadism
+Hypogonadism
+Hypogonadotrophic Hypogonadism
+Hypokalemia
+Hypomagnesemia
+Hyponatremia
+Hypoparathyroidism
+Hypophosphatemic Rickets
+Hypopituitarism
+Hypoplastic Left Heart Syndrome
+Hypotension
+Hypothyroidism
+Hypothyroidism Postablative
+Hypotonicity (Flaccid)
+Hypoxia
+Iatrogenic Hypopituitarism
+Iatrogenic Hypothyroidism
+Idiopathic Dystonia Musculorum Deformans
+Idiopathic Insomnia
+Idiopathic Organic Hypersomnia
+Idiopathic Peripheral Neuropathy
+Idiopathic Precocious Puberty
+Idiopathic Pulmonary Fibrosis
+Idiopathic Thrombocytopenic Purpura
+Idiopathic Urticaria
+Immunodeficiency Disorders
+Impaired Fasting Glucose
+Impaired Glucose Tolerance Test
+Impetigo
+Impingement Of The Right Shoulder
+Impulse Control Disorder
+Inadequacy Of Lubrication Of Vaginal Mucosa
+Inadequate Luteal Phase
+Incomplete Emptying Of Bladder
+Infant Feeding Problems
+Infantile Seborrheic Dermatitis
+Infantile Spasms
+Infected Nonvenomous Insect Bite
+Infected Superficial Injury Of Fingers
+Infected Superficial Thigh Injury
+Infection Of An Abdominal Incision
+Infectious Diarrhea
+Infectious Gastroenteritis
+Infective Otitis Externa
+Influenza
+Influenza A(H2N2)
+Influenza Type A
+Influenza With Other URI Manifestations
+Ingrowing Nail With Infection
+Ingrowing Toenail
+Inquiry And Counseling: Contraceptive Practices
+Inquiry And Counseling: Family Planning
+Insomnia
+Insomnia Due To Stress
+Intermittent Asthma
+Intermittent Claudication
+Internal Derangement Of Knee
+Internal Hemorrhoids
+Internal Hemorrhoids With Bleeding
+Intertrigo
+Intervention And Counseling On Cessation Of Tobacco Use
+Inverted Nasal Papilloma
+Iron Deficiency
+Iron Deficiency Anemia Secondary To Chronic Blood Loss
+Iron Deficiency Anemia Secondary To Inadequate Dietary Iron Intake
+Irregular Length Of Menstrual Periods
+Irritable Bowel Syndrome
+Ischemic Cardiomyopathy
+Ischemic Embolic Stroke
+Ischemic Stroke
+Itching (Pruritus)
+Itching Of The Ears
+Joint Pain Fingers
+Joint Pain In The Toes
+Joint Stiffness Of The Knee
+Juvenile Rheumatoid Arthritis
+Keloid Scar
+Keratosis Pilaris
+Kidney Cancer
+Kidney Disease With Benign Hypertension
+Knee Pain Elicited By Motion
+Knee Sprain
+Knee Swelling
+Labyrinthitis
+Lacrimal Stenosis Of The Right Eye
+Laryngeal Cancer
+Laryngomalacia
+Laryngopharyngeal Reflux
+Larynx Edema
+Late CVD Effects: Aphasia
+Late CVD Effects: Cognitive Deficits
+Late CVD Effects: Hemiplegia
+Latent Late Syphilis
+Latent Tuberculosis
+Lateral Epicondylitis
+Left Heart Failure
+Left Heart Failure - Class III
+Left Shoulder Strain
+Leg Localized Swelling Left
+Leiomyoma Of The Uterus
+Lennox-Gastaut Syndrome
+Lichen Sclerosus Et Atrophicus
+Lichen Simplex Chronicus
+Limb Pain
+Limb Swelling
+Lipoid Metabolism Disorder
+Liver Cancer
+Lobar Pneumonia
+Localized Osteoarthritis Of The Hand
+Localized Osteoarthritis Of The Knee
+Localized Osteoarthritis Of The Shoulder
+Localized Primary Osteoarthritis
+Localized Primary Osteoarthritis Of The Hand
+Localized Primary Osteoarthritis Of The Knee
+Localized Secondary Osteoarthritis Of The Hip
+Lower Back Pain
+Lower Back Pain Chronic
+Lower Back Sprain
+Lower Genitourinary Venereal Disease Due To Chlamydia Trachomatis
+Lumbago
+Lumbar Canal Stenosis
+Lumbar Disc Degeneration
+Lumbar Facet Syndrome
+Lumbar Radiculopathy
+Lumbar Radiculopathy At L5
+Lumbar Spondylosis
+Lumbar Spondylosis (L3 - L4)
+Lumbar Spondylosis With Myelopathy
+Lumbar Sprain
+Lumbar Strain
+Lump Or Mass In Breast
+Lump Or Swelling In The Neck
+Lung Cancer
+Lymph Nodes Enlarged
+Lymphadenopathy
+Lymphedema
+Malabsorption Syndrome
+Male Erectile Disorder
+Male Erectile Disorder Due To Physical Condition
+Male Infertility
+Malignant Breast Neoplasm
+Malignant Essential Hypertension
+Malignant Nasal Cavity Neoplasm
+Malignant Neoplasm Of The Gallbladder
+Malignant Neoplasm Of The Kidney
+Malignant Neoplasm Of The Maxillary Sinus
+Malignant Neoplasm Of The Oral Cavity
+Malignant Neoplasm Of The Prostate Gland
+Malignant Neoplasm Of The Tonsil (Oropharyngeal)
+Malignant Oropharyngeal Neoplasm
+Malignant Pancreatic Neoplasm
+Malunion Of Fracture
+Mastitis
+Medium-chain Acyl-CoA Dehydrogenase Deficiency
+Memory Lapses Or Loss
+Memory Lapses Or Loss Worsening
+Meningeal Sarcoidosis
+Menometrorrhagia
+Menopausal Disorder
+Menopause
+Menopause Has Occurred
+Menorrhagia
+Menses Abnormal
+Menstrual Migraine Headache
+Mental Retardation With Other Behavioral Symptoms
+Meralgia Paresthetica
+Metabolic Acidosis
+Metabolic Disorders
+Metatarsalgia
+Methicillin Resistant Staphylococcus Aureus Infection
+Metrorrhagia
+Microalbuminuria
+Micropenis
+Microscopic Hematuria
+Microscopic Polyarteritis Nodosa
+Midback Pain
+Migraine Headache
+Mild Intermittent Asthma
+Mild Persistent Asthma
+Miliaria
+Missed Abortion
+Mitral Regurgitation
+Mitral Valve Disorder
+Mixed Connective Tissue Disease
+Moderate Persistent Asthma
+Moderate Recurrent Major Depression
+Moderate Single Episode Major Depression
+Molluscum Contagiosum
+Mood Disorder Due To General Medical Condition
+Mood Disorder Of Unknown (Axis III) Etiology
+Mood Irritable
+Morbid Obesity
+Morphea (Localized Scleroderma)
+Motion Sickness
+Motor Neuron Disease
+Motor Partial Seizure
+Motor Partial Seizure With Intractable Seizure
+Motor Vehicle Collision With Another Motor Vehicle On A Road
+Mucosal Cyst
+Multiple Gestation - Twins
+Multiple Muscle Strains
+Multiple Myeloma
+Multiple Nonvenomous Insect Bites
+Multiple Sclerosis
+Multisystem Atrophy
+Muscle Cramps In The Calf
+Muscle Hematoma
+Muscle Spasm
+Muscle Weakness
+Muscle Weakness Generalized
+Myalgia And Myositis
+Myasthenia Gravis
+Mycoplasma Infection
+Myelopathy
+Myoclonus
+Myofascial Pain Syndrome
+Myopathies
+Narcolepsy
+Nasal Cavity Neoplasm
+Nasal Cavity Polyps
+Nasal Discharge Rhinorrhea
+Nasal Passage Blockage (Stuffiness)
+Nasal Polyps
+Nasal Vestibulitis
+Nausea (Symptom)
+Nausea With Vomiting
+Neck Cervical Mass Anterior Submandibular (___cm)
+Neck Cervical Mass Left (___cm)
+Neck Pain
+Neck Sprain
+Neck Strain
+Need For Prophylactic Antibiotics
+Need For Vaccination Human Papilloma Virus
+Neonatal Candidiasis Of The Diaper Region
+Nephritis Due To SLE
+Nephrolithiasis
+Nephrolithiasis Of The Right Kidney
+Nephrosclerosis With Benign Hypertension
+Nephrotic Syndrome
+Nephrotic Syndrome Due To Focal Segmental Sclerosing Glomerulonephritis
+Nephrotic Syndrome Due To Minimal Change Glomerulonephritis
+Neuralgia
+Neurogenic Bladder
+Neurogenic Bowel
+New Daily Persistent Headache
+Nicotine Dependence
+Nicotine Dependence - Continuous
+Non-Hodgkin's Lymphoma
+Non-migrainous Vascular Headache
+Nonconvulsive (Petit Mal) Seizure With Intractable Seizure
+Nonpathogenic Protozoal Intestinal Disease (Endolimax)
+Nonpuerperal Breast Abscess
+Nonspecific Vaginitis
+Nontoxic Multinodular Goiter
+Nontoxic Nodular Goiter
+Nonunion Of Fracture
+Nonvenomous Insect Bite
+Nonvenomous Insect Bite Of The Face
+Numbness (Hypesthesia)
+Nummular Eczematous Dermatitis
+Obsessive Compulsive Disorder
+Obstetrical Surgical Wound Complications - Postpartum Condition Or Complication
+Obstructive Sleep Apnea
+Obstructive Uropathy
+Occipital Neuralgia
+Odor Of Breath Fetor Oris
+Olecranon Bursitis
+Oligomenorrhea
+Onychomycosis
+Onychomycosis Of The Fingernails
+Onychomycosis Of The Left 1st Toenail
+Onychomycosis Of The Left Toenails
+Onychomycosis Of The Right 1st Toenail
+Onychomycosis Of The Toenails
+Open Fracture Of Mandible / Lower Jaw
+Open Wound Of The Auditory Canal
+Open Wound Of The Forearm With Tendon Involvement
+Open Wound Of The Hip/Thigh Region
+Open Wound Of The Left Leg
+Open Wound Of The Leg
+Oppositional Defiant Disorder Of Childhood
+Oral Contraceptives
+Oral Thrush
+Oral Thrush Of Newborn
+Organic Hypersomnia
+Organic Impotence
+Organic Periodic Limb Movement Sleep Disorder
+Organic REM Sleep Behavior Disorder
+Orofacial Dyskinesia
+Orthostatic Hypotension
+Osteoarthritis
+Osteoarthritis Of Multiple Sites
+Osteoarthritis Of The Hand
+Osteoarthritis Of The Knee
+Osteoarthrosis
+Osteomalacia
+Osteomyelitis
+Osteopenia
+Osteoporosis
+Osteoporosis Senile
+Otitis Externa
+Otitis Externa Of The Right Ear
+Otitis Media
+Otitis Media In Both Ears
+Otitis Media Of The Left Ear
+Otitis Media Of The Right Ear
+Ovarian Cyst
+Ovarian Disorders
+Ovarian Failure
+Overflow Incontinence
+Overweight
+Pain During Urination (Dysuria)
+Pain In The Arms
+Pain In The Hands
+Pain In The Leg (Below The Knee)
+Pain In The Thigh
+Pain On Swallowing
+Pain Syndromes
+Palindromic Rheumatism
+Palindromic Rheumatism Of Multiple Sites
+Palpitations
+Palpitations (Symptom)
+Pancreatic Insufficiency
+Panic Disorder With Agoraphobia
+Panic Disorder Without Agoraphobia
+Panuveitis
+Papillary Carcinoma Of The Thyroid Gland
+Papular Urticaria
+Paranoid Schizophrenia
+Paranoid Schizophrenia In Remission
+Paraparesis (Lower Extremities)
+Parkinson's Disease
+Parkinson's Disease With Dementia
+Parkinsonism
+Parkinsonism (Secondary)
+Paronychia
+Paronychia Of The Toe(S)
+Parotitis
+Paroxysmal Atrial Fibrillation
+Paroxysmal Supraventricular Tachycardia
+Paroxysmal Tachycardia
+Partial Complex Psychomotor Seizure
+Partial Complex Psychomotor Seizure With Intractable Seizure
+Partial Complex Psychosensory Seizure
+Partial Complex Psychosensory Seizure With Intractable Seizure
+Partial Complex Seizure
+Partial Complex Seizure With Memory Disturbances
+Partial Complex Seizure With Secondary Generalization
+Partial Complex Seizure With Secondary Generalization With Intractable Seizure
+Partial Simple Seizure
+Partial Simple Seizure With Intractable Seizure
+Partial Simple Seizure Without Impairment Of Consciousness
+Partial Thickness (2nd Degree) Burns Of The Right Chest Wall
+Partial Thickness (Second Degree) Burns Of Multiple Sites Of The Lower Limbs
+Patent Ductus Arteriosus
+Patent Foramen Ovale
+Patient Education - HIV
+Patient Education - Preparation For Childbirth
+Pediculosis
+Pediculosis Capitis
+Pelvic Inflammatory Disease
+Pelvic Pain
+Penile Discharge
+Peptic Ulcer
+Perianal Abscess
+Periodontal Abscess
+Peripheral Arterial Disease
+Peripheral Neuropathy
+Peripheral Vascular Disease
+Pernicious Anemia
+Persistent Insomnia
+Personality Change Due To Axis III Etiology
+Pervasive Developmental Disorders
+Phaehyphomycosis
+Pharyngitis
+Phenylketonuria
+Phimosis
+Piriformis Syndrome
+Pituitary Prolactinoma
+Pityriasis Alba
+Pityriasis Rosea
+Planning To Become Pregnant
+Plantar Fasciitis
+Pleurisy
+Pneumonia
+Pneumonitis
+Polyarthritis
+Polyarthropathy Of Multiple Sites
+Polyarticular Juvenile Rheumatoid Arthritis
+Polycystic Ovarian Syndrome
+Polymyalgia Rheumatica
+Polymyositis / Dermatomyositis:
+Polymyositis In Other Collagen Vascular Disease
+Polymyositis In Scleroderma
+Polyneuropathy
+Portal Hypertension
+Post Abdominal Surgery
+Post Radio-iodine Therapy Hypothyroidism
+Post-artificial Menopause State
+Post-gastric Bypass For Obesity
+Post-traumatic Stress Disorder
+Postherpetic Neuralgia
+Postherpetic Polyneuropathy
+Postlaminectomy Syndrome (Lumbar)
+Postmenopausal Atrophic Vaginitis
+Postmenopausal Bleeding
+Postmenopausal Osteoporosis
+Postpartum Depression
+Postpartum Depression - Mild
+Postsurgical Primary Hypothyroidism
+Precocious Puberty
+Prediabetes
+Pregnancy Complicated By Anemia
+Pregnancy Complicated By Asymptomatic Bacteriuria
+Pregnancy Complicated By Diabetes Mellitus
+Pregnancy Complicated By Genitourinary Tract Infection
+Pregnancy Complicated By Herpes Simplex
+Pregnancy Complicated By Hypertension - Antepartum Condition Or Prior Complicated Delivery
+Pregnancy Test Positive
+Prehypertension
+Premature Menopause
+Premature Ventricular Contractions
+Premenstrual Disorder
+Premenstrual Syndromes
+Presenile Dementia
+Preventive Medicine Counseling About Travel
+Preventive Medicine New Patient Evaluation Adult 18-39
+Primary Adrenal Insufficiency ('Addison Disease')
+Primary Amenorrhea
+Primary Atypical Mycoplasma Pneumoniae
+Primary Biliary Cirrhosis
+Primary Enuresis
+Primary Female Infertility
+Primary Hypercoagulable State
+Primary Hypersomnia
+Primary Hypothyroidism
+Primary IgA Nephritis
+Primary Insomnia
+Primary Nocturnal Enuresis
+Primary Osteoarthritis Of The Lumbar Vertebrae
+Primary Pulmonary Hypertension
+Proctitis
+Prolactinoma Macroadenoma
+Prolactinoma Microadenoma
+Prolapsing Mitral Valve Leaflet Syndrome
+Prostate Cancer
+Prostatic Hyperplasia
+Prostatic Hyperplasia With Urinary Obstruction
+Prostatic Hyperplasia With Urinary Obstruction With Other Lower Urinary Tract Symptoms
+Prostatic Hyperplasia Without Urinary Obstruction With Other Lower Urinary Tract Symptoms
+Prostatitis
+Protein S Deficiency
+Proteinuria
+Pruritus Ani
+Pseudo Hypoparathyroidism
+Pseudobulbar Palsy
+Pseudogout
+Psoriasis
+Psoriatic Arthropathy
+Psychophysiological Insomnia
+Psychosis
+Pubertal Menorrhagia
+Puerperal Hemorrhoids
+Pulmonary Embolism
+Pulmonary Fibrosis
+Pulmonary Hypertension
+Pulmonary Interstitial / Infiltrative Disorders
+Pustular Folliculitis
+Pustules
+Pyelonephritis
+Pyrexia
+Quadriplegia
+Quadriplegic Cerebral Palsy With Spasticity
+REM Sleep Behavior Syndrome
+Radiculopathy
+Rapid Bacterial Antigen Ident Kit Streptococcus Group B
+Raynaud's Disease
+Raynaud's Phenomenon
+Reactive Airway Disease
+Reactive Arthritis
+Rectal Hemorrhage
+Rectal Pain
+Recurrent Major Depression In Full Remission
+Recurrent Major Depression In Partial Remission
+Red Blood In Bowel Movement (Hematochezia)
+Relapsing Polychondritis
+Renal Carcinoma
+Renal Cell Carcinoma
+Renal Osteodystrophy
+Renal Secondary Hyperparathyroidism
+Renal Transplant
+Renal Transplant Recipient Of The Right Kidney
+Renal Tubular Acidosis
+Residual Schizophrenia
+Restless Legs Syndrome
+Restrictive Lung Disease
+Rheumatoid Arthritis
+Rheumatoid Arthritis RF Negative
+Rhinitis
+Rhinitis Medicamentosa
+Rhinosinusitis
+Rhythm Disorder
+Rib Fracture
+Right Back Strain
+Right Sided Congestive Heart Failure
+Rosacea
+Rotator Cuff Tendonitis
+Sacroiliitis
+Salivary Secretion Disturbance
+Salivary Secretion Disturbance: Ptyalism
+Salivary Secretion Disturbance: Xerostomia
+Sarcoidosis
+Scabies
+Schizoaffective Disorder
+Schizoaffective Disorder - Chronic (With Residual Symptoms)
+Schizophrenia
+Sciatica
+Scleroderma
+Scleroderma With Pulmonary Involvement
+Seasickness
+Sebaceous Cyst
+Seborrhea
+Seborrhea Capitis
+Seborrheic Dermatitis
+Seborrheic Dermatitis Of The Scalp
+Secondary Adrenal Insufficiency
+Secondary Amenorrhea
+Secondary Hyperparathyroidism
+Secondary Hypothyroidism
+Secondary Insomnia
+Secondary Pulmonary Hypertension
+Seizure Disorder
+Selective B12 Malabsorption
+Senile Dementia
+Sensorineural Hearing Loss
+Serology Prostate-specific Antigen (PSA) Elevated
+Serum Total Cholesterol Was Elevated
+Severe Menstrual Pain (Dysmenorrhea)
+Severe Persistent Asthma
+Severe Recurrent Major Depression With Psychotic Features
+Severe Recurrent Major Depression Without Psychotic Features
+Severe Single Episode Major Depression Without Psychotic Features
+Sexually Active High-risk
+Short Bowel Syndrome
+Short Stature
+Short Stature (On Exam)
+Shortness Of Breath
+Shoulder Injury
+Shoulder Sprain
+Shoulder Strain
+Sialosis
+Sicca Syndrome
+Sickle Cell Anemia
+Sickle Cell Hb-SC Disease
+Sickle Cell Hb-SS Disease
+Sickle Cell Thalassemia
+Sickle Cell Trait
+Sinusitis
+Sjogren's Syndrome
+Skin Abscess
+Skin Abscess Of The Buttocks
+Skin Abscess Of The Face
+Skin Abscess Of The Groin
+Skin Abscess Of The Left Buttock
+Skin Abscess Of The Left Thigh
+Skin Abscess Of The Right Buttock
+Skin Abscess Of The Right Leg
+Skin: A Rash
+Sleep Apnea
+Sleep Disturbances
+Slow Transit Constipation
+Small Bowel Bacterial Overgrowth
+Social Phobia
+Solitary Thyroid Nodule
+Sore Throat
+Spasmodic Torticollis
+Spasms
+Spastic Gait
+Spasticity
+Speech Language Dysphasia / Aphasia
+Speech Phonation Dysphonia
+Spinal Adhesive Arachnoiditis
+Spinal Stenosis
+Spondylitis
+Spondyloarthropathy
+Spondylosis Without Myelopathy
+Sprain
+Sprained Ribs
+Squamous Cell Carcinoma
+Strained Pectoralis Major Muscle
+Streptococcal Sore Throat
+Stress Incontinence
+Stridor
+Stroke Of The Left Middle Cerebral Artery
+Stroke Of The Left Posterior Cerebral Artery
+Stroke Syndrome
+Stye
+Stye In The Left Eye
+Subacromial Bursitis
+Subacute Cystitis
+Subclinical Hypothyroidism
+Subependymal Giant Cell Astrocytoma
+Sudden Redness Of The Skin (Flushing)
+Supraventricular Tachycardia
+Swelling Of Hands
+Symmetric Polyarticular Inflammation
+Symptomatic Menopause
+Syphilis
+Systemic Lupus Erythematosus
+Systolic Congestive Heart Failure
+Systolic Hypertension
+TMJ Pain
+TPN-induced Cholestasis
+Tachycardia
+Takayasu's Disease
+Taking Blood Thinners For A Long Time
+Taking Female Hormones For Postmenopausal HRT
+Taking Medication - Steroids
+Taking Medication For A Long Time
+Tardive Dyskinesia
+Temporal Arteritis
+Tendonitis
+Tendonitis Of The Achilles Tendon
+Tension-type Headache
+Tetralogy Of Fallot
+Thoracic Strain
+Thrombocytopenia
+Thromboembolic Disease
+Thrombophlebitis Of Deep Vessels Of The Lower Extremity
+Thrombophlebitis Of Superficial Veins Of Upper Extremities
+Thrombosed External Hemorrhoids
+Thyroid Cancer
+Thyroid Disorder
+Thyroid Function Tests Nonspecific Abnormal Findings
+Thyroiditis
+Tinea Capitis
+Tinea Corporis
+Tinea Cruris
+Tinea Cruris Of The Groin
+Tinea Cruris Of The Perianal Area
+Tinea Facialis
+Tinea Pedis
+Tinea Versicolor
+Tingling (Paresthesia)
+Tobacco Use
+Tonsillar Hypertrophy
+Tonsillitis
+Tooth Pain
+Torticollis
+Total Anomalous Pulmonary Venous Return
+Total Splenectomy
+Tourette's Syndrome
+Toxic Nodular Goiter
+Tracheal Stenosis
+Tracheitis
+Tracheostomy
+Tracheostomy Care Requirement
+Transient Ischemic Attack
+Transitional Cell Carcinoma Of The Bladder
+Trapezoid Muscle Strain
+Traumatic Amputation Of Finger(S)
+Traumatic Arthritis Of The Ankle
+Traumatic Arthritis Of The Foot
+Travel Sickness
+Tremor
+Trichomonas Vaginalis Vaginitis
+Trichomonas Vulvovaginitis
+Trichomoniasis
+Tricuspid Atresia
+Trigeminal Neuralgia
+Trochanteric Bursitis
+Tuberculin PPD Induration Positive Interpretation
+Tuberculin PPD Nonspec Reaction Without Active Tuberculosis
+Tuberculosis
+Tuberous Sclerosis (Bourneville's Disease)
+Turner Syndrome
+Tympanic Membrane Perforation
+Tympanic Membrane Perforation Of The Left Ear
+Type I Diabetes Mellitus
+Type I Diabetes Mellitus - Uncontrolled
+Type II Diabetes Mellitus
+Type II Diabetes Mellitus With Complication - Uncontrolled
+Type II Diabetes Mellitus With Peripheral Circulatory Disorder - Uncontrolled
+Typical Dermatomyositis (Type II)
+Typical Polymyositis (Type I)
+Ulcerative Colitis
+Undifferentiated Schizophrenia
+Unspecified Debility
+Unspecified Muscle Strain
+Upper Back Pain (Between Shoulder Blades)
+Upper Respiratory Infection
+Upper Respiratory Tract Disorders
+Urethra Disorders
+Urethral Stricture
+Urethritis
+Urge And Stress Incontinence
+Urge Incontinence Of Urine
+Urinary Calculus
+Urinary Frequency
+Urinary Frequency Increased
+Urinary Frequency More Than Twice At Night (Nocturia)
+Urinary Incontinence
+Urinary Loss Of Control
+Urinary Stream Is Smaller
+Urinary Tract Infection
+Urogenital Trichomoniasis
+Urticaria
+Vaccines Prophylactic Need Against Td
+Vaginal Adhesions (Postoperative)
+Vaginal Candidiasis
+Vaginal Discharge
+Vaginal Discharge (On Exam)
+Vaginal Discharge (Symptom)
+Vaginal Itching
+Vaginal Itching Or Burning
+Vaginal Mucosa Atrophy
+Vaginal Wall Prolapse
+Vaginitis
+Varicella
+Varicose Veins
+Varicose Veins With Inflammation
+Varicose Veins With Pain
+Varicose Veins With Swelling
+Varicose Veins With Ulcer
+Varicose Veins With Ulcer And Inflammation
+Vascular Dementia
+Vasculitides
+Vasomotor Rhinitis
+Venereal Disease Due To Chlamydia Trachomatis
+Venous Insufficiency
+Venous Thrombosis
+Venous Thrombosis Of The Deep Vessels Of The Distal Lower Extremity
+Venous Thrombosis Of The Deep Vessels Of The Lower Extremity
+Ventricular Septal Defect
+Ventricular Tachycardia
+Vertigo
+Vertigo Of Central Origin
+Vesicoureteral Reflux
+Vesicoureteral Reflux With Nephropathy Of The Left Kidney
+Viral Gastroenteritis
+Viral Infection
+Viral Syndrome
+Vitamin B12 Deficiency
+Vitamin D Deficiency
+Vitamin Deficiency
+Vocal Cord Disorder
+Vocal Cord Granuloma
+Vomiting (Symptom)
+Vomiting Blood (Hematemesis)
+Vomiting During Pregnancy
+Von Gierke's Disease (GSD Type I)
+Vulvar Abscess
+Vulvar Atrophy
+Vulvar Furuncle
+Vulvodynia
+Vulvovaginitis
+Wegener's Granulomatosis
+Weight - Too Thin
+Weight Loss (On Exam)
+Wheezing
+Wound Infection
+Wrist Sprain
+Xerosis Cutis
