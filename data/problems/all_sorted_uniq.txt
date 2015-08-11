@@ -1,0 +1,3549 @@
+"ADHD, Combined Type"
+"ADHD, Predominantly Hyperactive - Impulsive"
+"ADHD, Predominantly Inattentive Type"
+"Abdominal or pelvic swelling, mass, or lump, other specified site"
+"Abdominal or pelvic swelling, mass, or lump, unspecified site"
+"Abdominal pain, epigastric"
+"Abdominal pain, generalized"
+"Abdominal pain, left lower quadrant"
+"Abdominal pain, left upper quadrant"
+"Abdominal pain, other specified site"
+"Abdominal pain, periumbilic"
+"Abdominal pain, right lower quadrant"
+"Abdominal pain, right upper quadrant"
+"Abdominal pain, unspecified site"
+"Abnormal cardiovascular function study, unspecified"
+"Abnormal glucose tolerance of mother, antepartum condition or complication"
+"Abnormal glucose tolerance of mother, delivered, with or without mention of antepartum condition"
+"Abnormal glucose tolerance of mother, unspecified as to episode of care or not applicable"
+"Abnormal mammogram, unspecified"
+"Abnormality in fetal heart rate or rhythm, delivered, with or without mention of antepartum condition"
+"Acquired absence of organ, genital organs"
+"Active Meniere's disease, cochlear"
+"Active Meniere's disease, cochleovestibular"
+"Active Meniere's disease, vestibular"
+"Acute alcoholic intoxication in alcoholism, unspecified"
+"Acute and subacute iridocyclitis, unspecified"
+"Acute conjunctivitis, unspecified"
+"Acute gastritis, without mention of hemorrhage"
+"Acute kidney failure, unspecified"
+"Acute leukemia of unspecified cell type, without mention of having achieved remission"
+"Acute lymphoid leukemia, in remission"
+"Acute lymphoid leukemia, without mention of having achieved remission"
+"Acute myeloid leukemia, in remission"
+"Acute myeloid leukemia, without mention of having achieved remission"
+"Acute myocardial infarction of unspecified site, episode of care unspecified"
+"Acute myocardial infarction of unspecified site, initial episode of care"
+"Acute nonsuppurative otitis media, unspecified"
+"Acute osteomyelitis, ankle and foot"
+"Acute sinusitis, unspecified"
+"Acute, but ill-defined, cerebrovascular disease"
+"After-cataract, obscuring vision"
+"Aftercare following surgery of the circulatory system, NEC"
+"Aftercare following surgery of the musculoskeletal system, NEC"
+"Alcohol abuse, unspecified"
+"Allergic rhinitis, cause unspecified"
+"Allergy, unspecified, not elsewhere classified"
+"Amblyopia, unspecified"
+"Amyloidosis, unspecified"
+"Anemia of mother, antepartum condition or complication"
+"Anemia, unspecified"
+"Anxiety state, unspecified"
+"Aplastic anemia, unspecified"
+"Arteritis, unspecified"
+"Arthropathy, unspecified, ankle and foot"
+"Arthropathy, unspecified, site unspecified"
+"Asthma, unspecified type, unspecified"
+"Asthma, unspecified type, with (acute) exacerbation"
+"Asthma, unspecified type, with status asthmaticus"
+"Atherosclerosis of native arteries of the extremities, unspecified"
+"Atrophic gastritis, without mention of hemorrhage"
+"Autistic disorder, current or active state"
+"Backache, unspecified"
+"Bacterial pneumonia, unspecified"
+"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, antepartum condition or complication"
+"Benign essential hypertension complicating pregnancy, childbirth, and the puerperium, delivered, with or without mention of antepartum condition"
+"Benign neoplasm of duodenum, jejunum, and ileum"
+"Benign neoplasm of nasal cavities, middle ear, and accessory sinuses"
+"Benign neoplasm of skin of trunk, except scrotum"
+"Binocular vision disorder, unspecified"
+"Bipolar Disorder, Manic, With Psychotic Features"
+"Bipolar I Disorder, Most Recent Episode"
+"Bipolar I Disorder, Most Recent Episode, Depressed - Mild"
+"Bipolar I Disorder, Most Recent Episode, Depressed - Moderate"
+"Bipolar I Disorder, Most Recent Episode, Depressed - Severe With Psychotic Features"
+"Bipolar I Disorder, Most Recent Episode, Depressed - Severe Without Psychotic Features"
+"Bipolar I Disorder, Most Recent Episode, Depressed - Severe"
+"Bipolar I Disorder, Most Recent Episode, Depressed"
+"Bipolar I Disorder, Most Recent Episode, Mixed - Moderate"
+"Bipolar I Disorder, Most Recent Episode, Mixed In Partial Remission"
+"Bipolar I Disorder, Most Recent Episode, Mixed Severe With Psychotic Features"
+"Bipolar I Disorder, Most Recent Episode, Mixed"
+"Bipolar I disorder, most recent episode (or current) depressed, severe, specified as with psychotic behavior"
+"Bipolar I disorder, most recent episode (or current) depressed, severe, without mention of psychotic behavior"
+"Bipolar I disorder, most recent episode (or current) depressed, unspecified"
+"Bipolar I disorder, most recent episode (or current) manic, unspecified"
+"Bipolar I disorder, most recent episode (or current) mixed, moderate"
+"Bipolar I disorder, most recent episode (or current) mixed, severe, specified as with psychotic behavior"
+"Bipolar I disorder, most recent episode (or current) mixed, severe, without mention of psychotic behavior"
+"Bipolar I disorder, most recent episode (or current) mixed, unspecified"
+"Bipolar I disorder, most recent episode (or current) unspecified"
+"Bipolar disorder, unspecified"
+"Blepharitis, unspecified"
+"Blood donors, stem cells"
+"Bronchitis, not specified as acute or chronic"
+"Bronchopneumonia, organism unspecified"
+"Calculus of gallbladder with other cholecystitis, without mention of obstruction"
+"Calculus of gallbladder without mention of cholecystitis, without mention of obstruction"
+"Cardiac complications, not elsewhere classified"
+"Cardiac dysrhythmia, unspecified"
+"Cellulitis and abscess of foot, except toes"
+"Cellulitis and abscess of leg, except foot"
+"Cellulitis and abscess of toe, unspecified"
+"Cerebral Degenerations, Extrapyramidal Disorders And Movement Disorders"
+"Cerebral aneurysm, nonruptured"
+"Cerebral artery occlusion, unspecified with cerebral infarction"
+"Cerebral artery occlusion, unspecified without mention of cerebral infarction"
+"Cervical incompetence, antepartum condition or complication"
+"Cervical incompetence, delivered, with or without mention of antepartum condition"
+"Cervical shortening, antepartum condition or complication"
+"Cesarean delivery, without mention of indication, delivered, with or without mention of antepartum condition"
+"Cestode infection, unspecified"
+"Chest pain, unspecified"
+"Chronic Hepatitis, B Virus"
+"Chronic Hepatitis, C Virus"
+"Chronic Kidney Disease, Stage 1"
+"Chronic Kidney Disease, Stage 2"
+"Chronic Kidney Disease, Stage 3"
+"Chronic Kidney Disease, Stage 4"
+"Chronic Kidney Disease, Stage 5"
+"Chronic Kidney Disease, Stage"
+"Chronic airway obstruction, not elsewhere classified"
+"Chronic hepatitis, unspecified"
+"Chronic iridocyclitis, unspecified"
+"Chronic ischemic heart disease, unspecified"
+"Chronic kidney disease, Stage I"
+"Chronic kidney disease, Stage II (mild)"
+"Chronic kidney disease, Stage III (moderate)"
+"Chronic kidney disease, Stage IV (severe)"
+"Chronic kidney disease, Stage V"
+"Chronic kidney disease, unspecified"
+"Chronic lymphoid leukemia, without mention of having achieved remission"
+"Chronic migraine without aura, with intractable migraine, so stated, without mention of status migrainosus"
+"Chronic migraine without aura, without mention of intractable migraine without mention of status migrainosus"
+"Chronic mucoid otitis media, simple or unspecified"
+"Chronic myeloid leukemia, in remission"
+"Chronic myeloid leukemia, without mention of having achieved remission"
+"Chronic obstructive asthma, unspecified"
+"Chronic osteomyelitis, ankle and foot"
+"Chronic pulmonary heart disease, unspecified"
+"Chronic serous otitis media, simple or unspecified"
+"Combinations of drug dependence excluding opioid type drug, unspecified"
+"Complications Due To A Renal Dialysis Device, Implant, Or Graft"
+"Complications affecting other specified body systems, not elsewhere classified, hypertension"
+"Conductive hearing loss, unspecified"
+"Congenital musculoskeletal deformities of skull, face, and jaw"
+"Congestive heart failure, unspecified"
+"Conjunctivitis, unspecified"
+"Constipation, unspecified"
+"Contact dermatitis and other eczema, unspecified cause"
+"Contraceptive surveillance, unspecified"
+"Corneal edema, unspecified"
+"Corneal opacity, unspecified"
+"Corneal ulcer, unspecified"
+"Coronary atherosclerosis of unspecified type of vessel, native or graft"
+"Cyst of kidney, acquired"
+"Cystitis, unspecified"
+"Debility, unspecified"
+"Decreased fetal movements, affecting management of mother, antepartum condition or complication"
+"Delay in sexual development and puberty, not elsewhere classified"
+"Demyelinating disease of central nervous system, unspecified"
+"Dependence on respirator, status"
+"Depressive disorder, not elsewhere classified"
+"Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+"Diabetes mellitus of mother, complicating pregnancy, childbirth, or the puerperium, delivered, with or without mention of antepartum condition"
+"Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled"
+"Diabetes mellitus without mention of complication, type I [juvenile type], uncontrolled"
+"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled"
+"Diabetes with ketoacidosis, type I [juvenile type], not stated as uncontrolled"
+"Diabetes with ketoacidosis, type I [juvenile type], uncontrolled"
+"Diabetes with ketoacidosis, type II or unspecified type, not stated as uncontrolled"
+"Diabetes with neurological manifestations, type I [juvenile type], not stated as uncontrolled"
+"Diabetes with neurological manifestations, type II or unspecified type, not stated as uncontrolled"
+"Diabetes with neurological manifestations, type II or unspecified type, uncontrolled"
+"Diabetes with ophthalmic manifestations, type II or unspecified type, not stated as uncontrolled"
+"Diabetes with other specified manifestations, type II or unspecified type, not stated as uncontrolled"
+"Diabetes with other specified manifestations, type II or unspecified type, uncontrolled"
+"Diabetes with peripheral circulatory disorders, type II or unspecified type, not stated as uncontrolled"
+"Diabetes with peripheral circulatory disorders, type II or unspecified type, uncontrolled"
+"Diabetes with renal manifestations, type I [juvenile type], not stated as uncontrolled"
+"Diabetes with renal manifestations, type II or unspecified type, not stated as uncontrolled"
+"Diabetes with renal manifestations, type II or unspecified type, uncontrolled"
+"Diabetes with unspecified complication, type I [juvenile type], not stated as uncontrolled"
+"Diabetes with unspecified complication, type II or unspecified type, uncontrolled"
+"Disorder of bone and cartilage, unspecified"
+"Disorders of bursae and tendons in shoulder region, unspecified"
+"Disruptive Behavior Disorder, Childhood Onset"
+"Drug induced headache, not elsewhere classified"
+"Dyschromia, unspecified"
+"Dysphagia, oropharyngeal phase"
+"Dysphagia, unspecified"
+"Early onset of delivery, delivered, with or without mention of antepartum condition"
+"Effects of radiation, unspecified"
+"Effusion of joint, ankle and foot"
+"Effusion of joint, hand"
+"Effusion of joint, lower leg"
+"Elderly multigravida, antepartum condition or complication"
+"Elderly multigravida, delivered with or without mention of antepartum condition"
+"Elderly primigravida, antepartum condition or complication"
+"Encephalopathy, unspecified"
+"Encopresis With Constipation, Overflow Incontinence"
+"Endometriosis, site unspecified"
+"Epilepsy, unspecified, with intractable epilepsy"
+"Epilepsy, unspecified, without mention of intractable epilepsy"
+"Esophagitis, unspecified"
+"Esotropia, unspecified"
+"Excessive fetal growth, affecting management of mother, antepartum condition or complication"
+"Extreme immaturity, 500-749 grams"
+"Extreme immaturity, 750-999 grams"
+"Extrinsic asthma, unspecified"
+"Febrile convulsions (simple), unspecified"
+"Fever, unspecified"
+"First-degree perineal laceration, delivered, with or without mention of antepartum condition"
+"Fitting and adjustment of nonvascular catheter, NEC"
+"Flatulence, eructation, and gas pain"
+"Follow-up examination, following chemotherapy"
+"Follow-up examination, following combined treatment"
+"Follow-up examination, following completed treatment with high-risk medication, not elsewhere classified"
+"Follow-up examination, following other surgery"
+"Frequent, Full-bladder Emptying (Polyuria)"
+"Generalized Convulsive Myoclonic Seizure, Juvenile With Intractable Seizure"
+"Generalized Convulsive Myoclonic Seizure, Juvenile"
+"Generalized convulsive epilepsy, with intractable epilepsy"
+"Generalized convulsive epilepsy, without mention of intractable epilepsy"
+"Generalized nonconvulsive epilepsy, with intractable epilepsy"
+"Generalized nonconvulsive epilepsy, without mention of intractable epilepsy"
+"Goiter, specified as simple"
+"Goiter, unspecified"
+"Gout, unspecified"
+"Gouty arthropathy, unspecified"
+"Graft-versus-host disease, unspecified"
+"Head injury, unspecified"
+"Heart disease, unspecified"
+"Heart failure, unspecified"
+"Hematuria, unspecified"
+"Hemiplegia, unspecified, affecting unspecified side"
+"Hemoptysis, unspecified"
+"Hemorrhage of gastrointestinal tract, unspecified"
+"Hepatitis, C Virus"
+"Hepatitis, unspecified"
+"Hodgkin's disease, unspecified type, unspecified site, extranodal and solid organ sites"
+"Hyperactive labyrinth, bilateral"
+"Hyperaldosteronism, unspecified"
+"Hyperparathyroidism, unspecified"
+"Hypersomnia with sleep apnea, unspecified"
+"Hypersomnia, unspecified"
+"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage I through stage IV, or unspecified"
+"Hypertensive chronic kidney disease, benign, with chronic kidney disease stage V or end stage renal disease"
+"Hypertensive chronic kidney disease, malignant, with chronic kidney disease stage V or end stage renal disease"
+"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified"
+"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease"
+"Hypoactive labyrinth, bilateral"
+"Hypogammaglobulinemia, unspecified"
+"Hypoglycemia, unspecified"
+"Hypotension, unspecified"
+"Immunodeficiency with predominant T-cell defect, unspecified"
+"Infantile cerebral palsy, unspecified"
+"Infantile spasms, without mention of intractable epilepsy"
+"Infection and inflammatory reaction due to other vascular device, implant, and graft"
+"Infections of genitourinary tract in pregnancy, antepartum condition or complication"
+"Infective otitis externa, unspecified"
+"Infertility, female, associated with anovulation"
+"Infertility, female, of other specified origin"
+"Infertility, female, of tubal origin"
+"Infertility, female, of unspecified origin"
+"Inflammation Of The Cervix, Vagina, And Vulva"
+"Insomnia, unspecified"
+"Intestinal infection due to other organism, not elsewhere classified"
+"Intracranial injury of other and unspecified nature without mention of open intracranial wound, unspecified state of consciousness"
+"Intrinsic asthma, unspecified"
+"Iron deficiency anemia, unspecified"
+"Jaundice, unspecified, not of newborn"
+"Joint Pain, Localized In More Than One Joint"
+"Joint Pain, Localized In The Hip"
+"Joint Pain, Localized In The Knee"
+"Joint Pain, Localized In The Left Shoulder"
+"Joint Pain, Localized In The Right Shoulder"
+"Joint Pain, Localized In The Shoulder"
+"Joint Pain, Localized In The Wrist"
+"Keratoconjunctivitis sicca, not specified as Sjogren's"
+"Keratoderma, acquired"
+"Laboratory examination, unspecified"
+"Labyrinthine dysfunction, unspecified"
+"Lack of normal physiological development, unspecified"
+"Late effects of cerebrovascular disease, cognitive deficits"
+"Leiomyoma of uterus, unspecified"
+"Leukocytopenia, unspecified"
+"Leukocytosis, unspecified"
+"Leukorrhea, not specified as infective"
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, with intractable epilepsy"
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy"
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, with intractable epilepsy"
+"Localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy"
+"Loss of labyrinthine reactivity, unilateral"
+"Low birth weight status, 500-999 grams"
+"Major Depression, Recurrent With Melancholia"
+"Major Depression, Recurrent With Psychotic Features"
+"Major Depression, Recurrent Without Melancholia"
+"Major Depression, Recurrent"
+"Major Depression, Single Episode In Remission"
+"Major Depression, Single Episode"
+"Major depressive affective disorder, recurrent episode, moderate"
+"Major depressive affective disorder, recurrent episode, severe, specified as with psychotic behavior"
+"Major depressive affective disorder, recurrent episode, severe, without mention of psychotic behavior"
+"Major depressive affective disorder, recurrent episode, unspecified"
+"Major depressive affective disorder, single episode, severe, without mention of psychotic behavior"
+"Major depressive affective disorder, single episode, unspecified"
+"Malaria, unspecified"
+"Malignant Neoplasm Of The Head, Face, Or Neck"
+"Malignant mast cell tumors, unspecified site, extranodal and solid organ sites"
+"Malignant melanoma of skin of trunk, except scrotum"
+"Malignant melanoma of skin of upper limb, including shoulder"
+"Malignant neoplasm of bladder, part unspecified"
+"Malignant neoplasm of brain, unspecified"
+"Malignant neoplasm of breast (female), unspecified"
+"Malignant neoplasm of bronchus and lung, unspecified"
+"Malignant neoplasm of cerebrum, except lobes and ventricles"
+"Malignant neoplasm of colon, unspecified site"
+"Malignant neoplasm of connective and other soft tissue of head, face, and neck"
+"Malignant neoplasm of esophagus, unspecified site"
+"Malignant neoplasm of head, face, and neck"
+"Malignant neoplasm of kidney, except pelvis"
+"Malignant neoplasm of larynx, unspecified"
+"Malignant neoplasm of liver, not specified as primary or secondary"
+"Malignant neoplasm of liver, primary"
+"Malignant neoplasm of liver, secondary"
+"Malignant neoplasm of lower lobe, bronchus or lung"
+"Malignant neoplasm of middle lobe, bronchus or lung"
+"Malignant neoplasm of mouth, unspecified"
+"Malignant neoplasm of oropharynx, unspecified site"
+"Malignant neoplasm of pancreas, part unspecified"
+"Malignant neoplasm of pharynx, unspecified"
+"Malignant neoplasm of stomach, unspecified site"
+"Malignant neoplasm of tongue, unspecified"
+"Malignant neoplasm of upper lobe, bronchus or lung"
+"Malignant neoplasm of urinary organ, site unspecified"
+"Malignant poorly differentiated neuroendocrine carcinoma, any site"
+"Mechanical complication of other vascular device, implant, and graft"
+"Melanoma of skin, site unspecified"
+"Meniere's disease, unspecified"
+"Migraine with aura, with intractable migraine, so stated, without mention of status migrainosus"
+"Migraine with aura, without mention of intractable migraine without mention of status migrainosus"
+"Migraine without aura, with intractable migraine, so stated, without mention of status migrainosus"
+"Migraine without aura, without mention of intractable migraine without mention of status migrainosus"
+"Migraine, unspecified, with intractable migraine, so stated, without mention of status migrainosus"
+"Migraine, unspecified, without mention of intractable migraine without mention of status migrainosus"
+"Mild hyperemesis gravidarum, antepartum condition or complication"
+"Mild or unspecified pre-eclampsia, antepartum condition or complication"
+"Multiple Partial Thickness (Second Degree) Burns Of The Face, Head, And Neck"
+"Multiple myeloma, in relapse"
+"Multiple myeloma, in remission"
+"Multiple myeloma, without mention of having achieved remission"
+"Muscle Aches, Generalized (Myalgias)"
+"Muscular wasting and disuse atrophy, not elsewhere classified"
+"Myalgia and myositis, unspecified"
+"Mycosis fungoides, lymph nodes of inguinal region and lower limb"
+"Mycosis fungoides, lymph nodes of multiple sites"
+"Mycosis fungoides, unspecified site, extranodal and solid organ sites"
+"Myelodysplastic syndrome, unspecified"
+"Myopathy, unspecified"
+"Narcolepsy, with cataplexy"
+"Narcolepsy, without cataplexy"
+"Need for prophylactic vaccination and inoculation against diphtheria-tetanus-pertussis, combined [DTP] [DTaP]"
+"Neoplasm of unspecified nature of bone, soft tissue, and skin"
+"Nephritis and nephropathy, not specified as acute or chronic, in diseases classified elsewhere"
+"Nephritis and nephropathy, not specified as acute or chronic, with unspecified pathological lesion in kidney"
+"Neuralgia, neuritis, and radiculitis, unspecified"
+"Neutropenia, unspecified"
+"Nodular lymphoma, unspecified site, extranodal and solid organ sites"
+"Nonallopathic lesions, cervical region"
+"Nonallopathic lesions, lumbar region"
+"Nonallopathic lesions, thoracic region"
+"Nonspecific (abnormal) findings on radiological and other examination of abdominal area, including retroperitoneum"
+"Nonsuppurative otitis media, not specified as acute or chronic"
+"Obesity, unspecified"
+"Oligohydramnios, antepartum condition or complication"
+"Open angle with borderline findings, low risk"
+"Open wound of abdominal wall, anterior, complicated"
+"Open wound of foot except toe(s) alone, complicated"
+"Open wound of foot except toe(s) alone, without mention of complication"
+"Open wound of knee, leg [except thigh], and ankle, complicated"
+"Open wound of knee, leg [except thigh], and ankle, without mention of complication"
+"Open wound of toe(s), complicated"
+"Open-angle glaucoma, unspecified"
+"Opioid type dependence, continuous"
+"Opioid type dependence, unspecified"
+"Optic neuritis, unspecified"
+"Orchitis and epididymitis, unspecified"
+"Osteoarthrosis, generalized, multiple sites"
+"Osteoarthrosis, localized, not specified whether primary or secondary, forearm"
+"Osteoarthrosis, localized, not specified whether primary or secondary, hand"
+"Osteoarthrosis, localized, not specified whether primary or secondary, lower leg"
+"Osteoarthrosis, localized, not specified whether primary or secondary, pelvic region and thigh"
+"Osteoarthrosis, localized, primary, lower leg"
+"Osteoarthrosis, localized, primary, pelvic region and thigh"
+"Osteoarthrosis, unspecified whether generalized or localized, lower leg"
+"Osteoarthrosis, unspecified whether generalized or localized, pelvic region and thigh"
+"Osteoarthrosis, unspecified whether generalized or localized, site unspecified"
+"Osteoporosis, unspecified"
+"Otalgia, unspecified"
+"Other and unspecified alcohol dependence, continuous"
+"Other and unspecified alcohol dependence, unspecified"
+"Other and unspecified cord entanglement, without mention of compression, complicating labor and delivery, delivered, with or without mention of antepartum condition"
+"Other and unspecified disc disorder, lumbar region"
+"Other and unspecified uterine inertia, delivered, with or without mention of antepartum condition"
+"Other complications due to other vascular device, implant, and graft"
+"Other complications due to renal dialysis device, implant, and graft"
+"Other current conditions classifiable elsewhere of mother, antepartum condition or complication"
+"Other current conditions classifiable elsewhere of mother, delivered, with or without mention of antepartum condition"
+"Other dependence on machines, supplemental oxygen"
+"Other diseases of lung, not elsewhere classified"
+"Other diseases of respiratory system, not elsewhere classified"
+"Other forms of epilepsy and recurrent seizures, with intractable epilepsy"
+"Other forms of epilepsy and recurrent seizures, without mention of intractable epilepsy"
+"Other forms of migraine, with intractable migraine, so stated, without mention of status migrainosus"
+"Other known or suspected fetal abnormality, not elsewhere classified, affecting management of mother, antepartum condition or complication"
+"Other late effects of cerebrovascular disease, dysphagia"
+"Other late effects of cerebrovascular disease, vertigo"
+"Other malignant lymphomas, lymph nodes of head, face, and neck"
+"Other malignant lymphomas, unspecified site, extranodal and solid organ sites"
+"Other multiple birth (three or more), mates all liveborn, born in hospital, delivered by cesarean section"
+"Other preterm infants, 1,000-1,249 grams"
+"Other preterm infants, 1,250-1,499 grams"
+"Other preterm infants, 1,500-1,749 grams"
+"Other preterm infants, 2,000-2,499 grams"
+"Other preterm infants, unspecified [weight]"
+"Other pulmonary insufficiency, not elsewhere classified"
+"Other specified complications of pregnancy, antepartum condition or complication"
+"Other specified disorders of uterus, not elsewhere classified"
+"Other specified gastritis, without mention of hemorrhage"
+"Other specified pervasive developmental disorders, current or active state"
+"Other specified vaccinations against hemophilus influenza, type B [Hib]"
+"Other threatened labor, antepartum condition or complication"
+"Other umbilical cord complications complicating labor and delivery, delivered, with or without mention of antepartum condition"
+"Other, mixed, or unspecified drug abuse, unspecified"
+"Outcome of delivery, single liveborn"
+"Outcome of delivery, twins, both liveborn"
+"Pain in joint, ankle and foot"
+"Pain in joint, forearm"
+"Pain in joint, hand"
+"Pain in joint, lower leg"
+"Pain in joint, multiple sites"
+"Pain in joint, pelvic region and thigh"
+"Pain in joint, shoulder region"
+"Pain in joint, site unspecified"
+"Papilledema, unspecified"
+"Paranoid Schizophrenia, Chronic"
+"Paranoid Schizophrenia, Stable"
+"Paranoid Schizophrenia, Subchronic"
+"Paranoid type schizophrenia, unspecified"
+"Pelvic peritoneal adhesions, female (postoperative) (postinfection)"
+"Perforation of tympanic membrane, unspecified"
+"Peripheral vascular disease, unspecified"
+"Peripheral vertigo, unspecified"
+"Personal history of malignant neoplasm of rectum, rectosigmoid junction, and anus"
+"Personal history of surgery to heart and great vessels, presenting hazards to health"
+"Petit Mal Seizure, Juvenile With Intractable Seizure"
+"Phlebitis and thrombophlebitis of deep veins of lower extremities, other"
+"Plasma cell leukemia, without mention of having achieved remission"
+"Pneumonia, organism unspecified"
+"Polyarticular juvenile rheumatoid arthritis, acute"
+"Polyarticular juvenile rheumatoid arthritis, chronic or unspecified"
+"Polycythemia, secondary"
+"Poor fetal growth, affecting management of mother, antepartum condition or complication"
+"Postlaminectomy syndrome, cervical region"
+"Postlaminectomy syndrome, lumbar region"
+"Pre-operative examination, unspecified"
+"Precocious sexual development and puberty, not elsewhere classified"
+"Preglaucoma, unspecified"
+"Pregnancy examination or test, negative result"
+"Pregnancy examination or test, positive result"
+"Pregnancy examination or test, pregnancy unconfirmed"
+"Pregnant state, incidental"
+"Presenile dementia, uncomplicated"
+"Pressure ulcer, buttock"
+"Pressure ulcer, heel"
+"Pressure ulcer, lower back"
+"Pressure ulcer, stage III"
+"Pressure ulcer, unspecified site"
+"Previous cesarean delivery, antepartum condition or complication"
+"Previous cesarean delivery, delivered, with or without mention of antepartum condition"
+"Primary angle-closure glaucoma, unspecified"
+"Primary central nervous system lymphoma, unspecified site, extranodal and solid organ sites"
+"Primary thrombocytopenia,unspecified"
+"Prostatitis, unspecified"
+"Ptosis of eyelid, unspecified"
+"Pulmonary tuberculosis, unspecified, unspecified"
+"Pyoderma, unspecified"
+"Quadriplegia, unspecified"
+"Recurrent pregnancy loss, antepartum condition or complication"
+"Recurrent pregnancy loss, unspecified as to episode of care or not applicable"
+"Renal failure, unspecified"
+"Reported Positive HIV Test, No Symptoms Of Infection"
+"Retention of urine, unspecified"
+"Retinal detachment with retinal defect, unspecified"
+"Retinopathy of prematurity, stage 0"
+"Retinopathy of prematurity, stage 1"
+"Retinopathy of prematurity, stage 2"
+"Retinopathy of prematurity, unspecified"
+"Rheumatism, unspecified and fibrositis"
+"Sacroiliitis, not elsewhere classified"
+"Schizoaffective disorder, unspecified"
+"Seborrheic dermatitis, unspecified"
+"Second-degree perineal laceration, delivered, with or without mention of antepartum condition"
+"Secondary and unspecified malignant neoplasm of lymph nodes of head, face, and neck"
+"Secondary and unspecified malignant neoplasm of lymph nodes, site unspecified"
+"Secondary diabetes mellitus without mention of complication, not stated as uncontrolled, or unspecified"
+"Senile cataract, unspecified"
+"Senile dementia, uncomplicated"
+"Sensorineural hearing loss, asymmetrical"
+"Sensorineural hearing loss, bilateral"
+"Sensorineural hearing loss, unilateral"
+"Sensorineural hearing loss, unspecified"
+"Sensory hearing loss, bilateral"
+"Sensory hearing loss, unilateral"
+"Sexual Dysfunction, NOS"
+"Sickle-cell disease, unspecified"
+"Single liveborn, born in hospital, delivered by cesarean section"
+"Single liveborn, born in hospital, delivered without mention of cesarean section"
+"Sleep-wake Schedule Disorder, Frequently Changing"
+"Spinal stenosis, lumbar region, without neurogenic claudication"
+"Spondylosis of unspecified site, without mention of myelopathy"
+"Spontaneous abortion, without mention of complication, complete"
+"Spontaneous abortion, without mention of complication, incomplete"
+"Spontaneous abortion, without mention of complication, unspecified"
+"Stenosis of pulmonary valve, congenital"
+"Stiffness of joint, not elsewhere classified, hand"
+"Stiffness of joint, not elsewhere classified, lower leg"
+"Stomatitis and mucositis, unspecified"
+"Stress incontinence, female"
+"Stress incontinence, male"
+"Subarachnoid hemorrhage following injury without mention of open intracranial wound, unspecified state of consciousness"
+"Subendocardial infarction, initial episode of care"
+"Superficial keratitis, unspecified"
+"Swelling, mass, or lump in chest"
+"Swelling, mass, or lump in head and neck"
+"Synovitis and tenosynovitis, unspecified"
+"Tachycardia, unspecified"
+"Tear film insufficiency, unspecified"
+"Tear of lateral cartilage or meniscus of knee, current"
+"Tear of medial cartilage or meniscus of knee, current"
+"Temporomandibular joint disorders, articular disc disorder (reducing or non-reducing)"
+"Thoracic or lumbosacral neuritis or radiculitis, unspecified"
+"Threatened abortion, antepartum condition or complication"
+"Threatened abortion, unspecified as to episode of care or not applicable"
+"Threatened premature labor, antepartum condition or complication"
+"Thrombocytopenia, unspecified"
+"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm"
+"Tic disorder, unspecified"
+"Tinnitus, unspecified"
+"Toxoplasmosis, unspecified"
+"Transient hypertension of pregnancy, antepartum condition or complication"
+"Transient hypertension of pregnancy, delivered , with or without mention of antepartum condition"
+"Tricuspid valve disorders, specified as nonrheumatic"
+"Twin birth, mate liveborn, born in hospital, delivered by cesarean section"
+"Twin pregnancy, antepartum condition or complication"
+"Twin pregnancy, delivered, with or without mention of antepartum condition"
+"Type II Diabetes Mellitus - Uncomplicated, Controlled"
+"Type II Diabetes Mellitus - Uncomplicated, Uncontrolled"
+"Ulcer of lower limb, unspecified"
+"Ulcerative colitis, unspecified"
+"Unspecified adverse effect of other drug, medicinal and biological substance"
+"Unspecified congenital anomaly of brain, spinal cord, and nervous system"
+"Unspecified disorder of muscle, ligament, and fascia"
+"Unspecified drug dependence, unspecified"
+"Unspecified fetal and placental problem, affecting management of mother, antepartum condition or complication"
+"Unspecified gastritis and gastroduodenitis, without mention of hemorrhage"
+"Unspecified hemorrhage in early pregnancy, antepartum condition or complication"
+"Unspecified hypertension complicating pregnancy, childbirth, or the puerperium, antepartum condition or complication"
+"Unspecified leukemia, without mention of having achieved remission"
+"Unspecified lymphoid leukemia, without mention of having achieved remission"
+"Unspecified myeloid leukemia, without mention of having achieved remission"
+"Unspecified osteomyelitis, ankle and foot"
+"Unspecified osteomyelitis, other specified sites"
+"Unspecified osteomyelitis, site unspecified"
+"Unspecified polyarthropathy or polyarthritis, multiple sites"
+"Unspecified prolonged labor, delivered, with or without mention of antepartum condition"
+"Unspecified schizophrenia, unspecified"
+"Unspecified suspected fetal abnormality, affecting management of mother, antepartum condition or complication"
+"Urethral stricture, unspecified"
+"Urinary Tract Infection, Geriatric Presentation"
+"Urinary Tract Infection, Pediatric Presentation"
+"Urinary calculus, unspecified"
+"Urinary incontinence, unspecified"
+"Urinary tract infection, site not specified"
+"Urticaria, unspecified"
+"Uterine size date discrepancy, antepartum condition or complication"
+"Vaginitis and vulvovaginitis, unspecified"
+"Variants of migraine, not elsewhere classified, without mention of intractable migraine without mention of status migrainosus"
+"Vascular dementia, uncomplicated"
+"Venereal disease, unspecified"
+"Venous (peripheral) insufficiency, unspecified"
+"Vesicoureteral reflux with reflux nephropathy, bilateral"
+"Vesicoureteral reflux with reflux nephropathy, unilateral"
+"Viral exanthem, unspecified"
+"Viral hepatitis B without mention of hepatic coma, acute or unspecified, without mention of hepatitis delta"
+"Viral warts, unspecified"
+"Visual field defect, unspecified"
+"Volume depletion, unspecified"
+'Stiff Man' Syndrome
+(Lower) Leg Localized Swelling
+(Lower) Leg Localized Swelling Bilateral
+(Lower) Leg Localized Swelling Unilateral
+2-vessel Coronary Artery Stenosis
+21-hydroxylase Deficiency (Non Salt Losing)
+21-hydroxylase Deficiency (Salt Losing)
+25-26 completed weeks of gestation
+27-28 completed weeks of gestation
+29-30 completed weeks of gestation
+31-32 completed weeks of gestation
+33-34 completed weeks of gestation
+37 or more completed weeks of gestation
+A Fall
+A Fall From A Ladder
+ACP Staging Stage 1 Hypertension: 140-159 / 90-99
+ACP Staging Stage 2 Hypertension: Greater Than Or = 160/100
+AIDS
+AIDS CDC Classification
+AIDS Polyneuropathy
+ATTENTION-DEFICIT DISORDER WITH HYPERACTIVITY
+Abdomen Tenderness Direct Diffuse
+Abdomen Tenderness Direct Epigastric
+Abdomen Tenderness Direct RUQ
+Abdominal Distention
+Abdominal Migraine Headache
+Abdominal Pain
+Abdominal Pain Above The Pubic Area (Suprapubic)
+Abdominal Pain Around The Belly Button (Periumbilical)
+Abdominal Pain Feels Crampy / Colicky
+Abdominal Pain In Multiple Locations
+Abdominal Pain In The Central Upper Belly (Epigastric)
+Abdominal Pain In The Left Lower Belly (LLQ)
+Abdominal Pain In The Left Upper Belly (LUQ)
+Abdominal Pain In The Right Lower Belly (RLQ)
+Abdominal Pain In The Right Upper Belly (RUQ)
+Abdominal Pain Of Childhood
+Abdominal Pregnancy
+Abnormal Glucose
+Abnormal Weight Gain
+Abnormal Weight Loss
+Abnormal chest sounds
+Abnormal coagulation profile
+Abnormal involuntary movements
+Abnormal weight gain
+Abnormality Of Walk
+Abnormality of gait
+Abortion
+Abrasion Of The Face
+Abrasion Of The Foot
+Abrasion Of The Left Cornea
+Abscess Of The Scrotum
+Abscess of anal and rectal regions
+Absence of menstruation
+Abuse / Neglect
+Acanthosis Nigricans
+Accelerated Essential Hypertension
+Accident Caused By Explosion - Explosive Material
+Achilles bursitis or tendinitis
+Acidosis
+Acne
+Acne Vulgaris
+Acquired Deformity Of Nose
+Acquired Immunodeficiency Syndrome (AIDS)
+Acquired absence of breast and nipple
+Acquired absence of kidney
+Acrodermatitis Chronica Atrophicans
+Acromegaly
+Acromegaly and gigantism
+Actinic keratosis
+Acute Actinic Otitis Externa
+Acute Atopic Conjunctivitis
+Acute Bacterial Conjunctivitis
+Acute Bacterial Prostatitis
+Acute Bacterial Pyelonephritis
+Acute Bacterial Pyelonephritis On The Right
+Acute Bronchitis
+Acute Bronchitis With Bronchospasm
+Acute Colitis
+Acute Combined Systolic And Diastolic Congestive Heart Failure
+Acute Conjunctivitis
+Acute Conjunctivitis Of Both Eyes
+Acute Conjunctivitis Of The Left Eye
+Acute Cystitis
+Acute Ethmoidal Sinusitis
+Acute Frontal Sinusitis
+Acute Gastritis
+Acute Gingivitis
+Acute Gonorrhea
+Acute Gout
+Acute Gouty Arthropathy
+Acute Laryngitis
+Acute Mastitis
+Acute Maxillary Sinusitis
+Acute Medial Meniscus Tear
+Acute Mucoid Otitis Media
+Acute Nasopharyngitis
+Acute Nonsuppurative Otitis Media
+Acute Otitis Externa
+Acute Otitis Externa Of The Left Ear
+Acute Otitis Externa Of The Right Ear
+Acute Otitis Media
+Acute Pain
+Acute Periodontitis
+Acute Pharyngitis
+Acute Pharyngitis Streptococcus
+Acute Post-thoracotomy Pain
+Acute Recurrent Otitis Media
+Acute Recurrent Otitis Media Of Both Ears
+Acute Renal Failure
+Acute Rhinitis
+Acute Serous Otitis Media
+Acute Serous Otitis Media Of Both Ears
+Acute Serous Otitis Media Of The Left Ear
+Acute Serous Otitis Media Of The Right Ear
+Acute Sinusitis
+Acute Sore Throat
+Acute Streptococcal Tonsillitis
+Acute Suppurative Otitis Media
+Acute Suppurative Otitis Media Of The Left Ear
+Acute Suppurative Otitis Media Of The Right Ear
+Acute Suppurative Otitis Media With Spontaneous Rupture Of The Ear Drum
+Acute Suppurative Sinusitis
+Acute Swimmer's Ear
+Acute Tonsillitis
+Acute Tracheitis
+Acute Upper Respiratory Infection
+Acute Urinary Retention
+Acute Venous Thrombosis Of The Deep Vessels Of The Distal Lower Extremity
+Acute Venous Thrombosis Of The Deep Vessels Of The Lower Extremity
+Acute Vernal Conjunctivitis
+Acute Viral Conjunctivitis
+Acute Viral Pharyngitis
+Acute and chronic respiratory failure
+Acute angle-closure glaucoma
+Acute atopic conjunctivitis
+Acute bronchiolitis due to other infectious organisms
+Acute bronchiolitis due to respiratory syncytial virus (RSV)
+Acute bronchitis
+Acute cystitis
+Acute ethmoidal sinusitis
+Acute gouty arthropathy
+Acute graft-versus-host disease
+Acute hepatitis C without mention of hepatic coma
+Acute kidney failure with lesion of tubular necrosis
+Acute laryngitis without mention of obstruction
+Acute maxillary sinusitis
+Acute nasopharyngitis [common cold]
+Acute on chronic systolic heart failure
+Acute pancreatitis
+Acute pharyngitis
+Acute posthemorrhagic anemia
+Acute prostatitis
+Acute respiratory failure
+Acute serous otitis media
+Acute suppurative otitis media with spontaneous rupture of eardrum
+Acute suppurative otitis media without spontaneous rupture of eardrum
+Acute systolic heart failure
+Acute tonsillitis
+Acute tracheitis without mention of obstruction
+Acute upper respiratory infections of other multiple sites
+Acute upper respiratory infections of unspecified site
+Acute venous embolism and thrombosis of deep vessels of distal lower extremity
+Acute venous embolism and thrombosis of deep vessels of proximal lower extremity
+Acute venous embolism and thrombosis of other specified veins
+Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity
+Addisonian Crisis
+Adenocarcinoma Of The Breast
+Adenocarcinoma Of The Prostate Gland
+Adenoid Hypertrophy
+Adenoid Squamous Cell Carcinoma Of The Kidney
+Adhesive Capsulitis Of Shoulder
+Adhesive Otitis
+Adjustment Disorder
+Adjustment Disorder With Anxiety
+Adjustment Disorder With Anxiety And Depressed Mood
+Adjustment Disorder With Anxiety And Prolonged Depressed Mood
+Adjustment Disorder With Anxious Mood
+Adjustment Disorder With Depressed Mood
+Adjustment Disorder With Disturbance Of Emotions And Conduct
+Adjustment Insomnia
+Adrenal Disorders
+Adrenal Insufficiency
+Adrenogenital disorders
+Adult Sleep Apnea
+Adult Still's Disease
+Adverse Reaction To Anesthesia
+Aftercare Following Surgery
+Aftercare following joint replacement
+Aftercare following organ transplant
+Alcohol
+Alcohol 1
+Alcohol 2
+Alcohol Abuse
+Alcohol Abuse - In Remission
+Alcohol Use
+Alcohol withdrawal
+Alcoholic (Laennec's) Cirrhosis
+Alcoholic cirrhosis of liver
+Alcoholism
+Aldosteronism
+Alimentary Hypoglycemia
+Allergic Bronchitis
+Allergic Granulomatous Angiitis (Churg-Strauss)
+Allergic Reaction
+Allergic Rhinitis
+Allergic Rhinitis Due To Dust Mite
+Allergic Rhinitis Due To Food
+Allergic Rhinitis Due To Grass Pollen
+Allergic Rhinitis Due To Mold
+Allergic Rhinitis Due To Pollen
+Allergic Urticaria
+Allergic gastroenteritis and colitis
+Allergic rhinitis due to other allergen
+Allergic rhinitis due to pollen
+Allergies
+Allergies To Multiple Foods
+Allergy To Bandaging Tape
+Allergy To Insect Bites / Stings
+Allergy To Peanuts
+Allergy To Pollens Weeds Ragweed
+Alopecia
+Alopecia areata
+Altered mental status
+Alternating esotropia
+Alzheimer's Disease
+Alzheimer's Disease Early Onset
+Alzheimer's Disease Late Onset
+Alzheimer's Disease With Behavioral Disturbance
+Amebiasis
+Amenorrhea
+Amyotrophic Lateral Sclerosis
+Anal Fissure
+Anal fistula
+Anal or rectal pain
+Anaphylactic reaction due to unspecified food
+Anaphylaxis
+Anaphylaxis Due To Bee Venom
+Anaphylaxis Due To Eggs
+Anaphylaxis Due To Peanuts
+Anatomical narrow angle borderline glaucoma
+Anemia
+Anemia Of Chronic Disease
+Anemia Of Chronic Kidney Disease
+Anemia Of End-stage Renal Disease
+Anemia Secondary To Blood Loss
+Anemia in chronic kidney disease
+Anemia in neoplastic disease
+Anemia of other chronic disease
+Anemia of prematurity
+Aneurysm Of The Ascending Aorta
+Aneurysm of unspecified site
+Angina Pectoris
+Ankle Injury
+Ankle Joint Pain
+Ankle Sprain
+Ankle Swelling (On Exam)
+Ankylosing Spondylitis
+Anomalies of cerebrovascular system
+Anorexia
+Anosmia
+Anserine Bursitis
+Antenatal screening for Streptococcus B
+Antenatal screening for fetal growth retardation using ultrasonics
+Anterior Wall Chest Pain With Respiration
+Anticipatory Guidance: Osteoporosis
+Antineoplastic and immunosuppressive drugs causing adverse effects in therapeutic use
+Antineoplastic chemotherapy induced anemia
+Antiphospholipid Syndrome
+Anxiety
+Anxiety (Symptom)
+Anxiety Disorder Due To General Medical Condition
+Anxiety Disorder Due To General Medical Condition With Generalized Anxiety
+Anxiety Disorder Due To General Medical Condition With Panic Attacks
+Anxiety Disorder NOS
+Anxiety Disorder Of Unknown (Axis III) Etiology
+Aortic Stenosis
+Aortic Valve Replacement
+Aortic valve disorders
+Aortocoronary bypass status
+Aphasia
+Aphthous Ulcer
+Apnea
+Appendectomy
+Appetite Lost (Anorexia)
+Arnold-Chiari Malformation
+Arrhythmias
+Arterial embolism and thrombosis of lower extremity
+Arteriosclerotic Cardiovascular Disease (ASCVD)
+Arthralgias In Multiple Sites
+Arthritis
+Arthritis Of Inflammatory Bowel Disease
+Arthrodesis status
+Arthropathy
+Arthropathy Of Multiple Sites
+Arthropathy associated with neurological disorders
+Artificial insemination
+Ascites
+Aseptic Necrosis Of The Femoral Head
+Aspergillosis
+Asthma
+Asthma With Acute Exacerbation
+Asthmatic Bronchitis
+Asymmetrical Polyarticular Inflammation
+Asymptomatic Hyperuricemia
+Asymptomatic postmenopausal status (age-related) (natural)
+Atherosclerosis
+Atherosclerosis Of The Extremities With Intermittent Claudication
+Atherosclerosis of native arteries of the extremities with intermittent claudication
+Atherosclerosis of native arteries of the extremities with ulceration
+Atherosclerosis of renal artery
+Atopic Dermatitis
+Atopic Disorders
+Atrial Fibrillation
+Atrial Flutter
+Atrial Septal Defect
+Atrial fibrillation
+Atrial flutter
+Atrophie Blanche
+Attention Deficit Disorder Without Hyperactivity
+Attention deficit disorder with hyperactivity
+Attention deficit disorder without mention of hyperactivity
+Attention to gastrostomy
+Attention-deficit Hyperactivity Disorder
+Atypical Chest Pain
+Atypical Depressive Disorder
+Atypical Face Pain
+Atypical Mycobacterial Infection
+Atypical Mycobacterial Pneumonia
+Atypical Mycobacterium Avium Intracellulare Pneumonia
+Atypical Pervasive Developmental Disorder
+Atypical Psychosis
+Auscultation Wheezing
+Autistic Disorder
+Autoimmune hemolytic anemias
+Automatic Atrial Tachycardia
+Automatic implantable cardiac defibrillator in situ
+Avascular Necrosis
+Awaiting organ transplant status
+Back Muscle Spasm
+Back Pain
+Backache
+Background diabetic retinopathy
+Bacteremia
+Bacterial Dermatological Conditions
+Bacterial Vaginosis
+Bad Breath
+Balanitis
+Bariatric surgery status
+Barrett's Esophagus
+Basal Cell Carcinoma Of The Skin
+Basilar Migraine Headache
+Bed confinement status
+Behavioral Insomnia Of Childhood
+Behavioral Problems
+Behcet's Syndrome
+Being A Social Drinker
+Bell's Palsy
+Benign Essential Hypertension
+Benign Hypertensive Heart Disease
+Benign Hypertensive Heart Disease With Congestive Heart Failure
+Benign Hypertensive Heart Disease Without Congestive Heart Failure
+Benign Localized Prostatic Hyperplasia
+Benign Localized Prostatic Hyperplasia Without Urinary Obstruction With Other Lower Urinary Tract Symptoms
+Benign Nasal Cavity Neoplasm
+Benign Paroxysmal Positional Vertigo
+Benign Prostatic Hyperplasia
+Benign Prostatic Hyperplasia Localized With Urinary Obstruction With Other Lower Urinary Tract Symptoms
+Benign Prostatic Hyperplasia With Urinary Obstruction
+Benign Prostatic Hypertrophy
+Benign Prostatic Hypertrophy With Urinary Obstruction
+Benign Prostatic Hypertrophy With Urinary Obstruction With Other Lower Urinary Tract Symptoms
+Benign Prostatic Hypertrophy Without Urinary Obstruction With Other Lower Urinary Tract Symptoms
+Benign Secondary Hypertension
+Benign Skin Neoplasm
+Benign carcinoid tumor of unknown primary site
+Benign essential hypertension
+Benign hypertensive heart disease without heart failure
+Benign intracranial hypertension
+Benign neoplasm of adrenal gland
+Benign neoplasm of brain
+Benign neoplasm of colon
+Benign neoplasm of corpus uteri
+Benign neoplasm of pituitary gland and craniopharyngeal duct
+Benign neoplasm of rectum and anal canal
+Benign paroxysmal positional vertigo
+Biliary cirrhosis
+Biotinidase Deficiency
+Bipolar Disorder
+Bipolar Disorder NOS
+Bipolar II Disorder
+Bipolar Schizoaffective Disorder
+Birth Control Method
+Birth Control Method - Contraceptive Vaginal Ring
+Birth Control Method - Oral Contraceptives
+Bite From A Venomous Spider
+Bladder Cancer
+Bladder Disorders
+Bladder neck obstruction
+Bleeding Between Periods
+Blepharospasm
+Blister
+Blister On The Buttocks
+Bloating
+Bloating (Symptom)
+Blood Pressure Isolated Elevated
+Blood in stool
+Bone marrow replaced by transplant
+Borderline Personality Disorder
+Bowel Movement Frequency Recent Change
+Bowel problems
+Brachial neuritis or radiculitis NOS
+Brain Abscess
+Brain Tumor
+Breast Atrophy
+Breast Cancer
+Breast Pain
+Breast Surgery Mastectomy
+Breast neoplasms
+Bronchiectasis
+Bronchiectasis with acute exacerbation
+Bronchiectasis without acute exacerbation
+Bronchiolitis
+Bronchiolitis Obliterans
+Bronchitis
+Bronchopneumonia
+Bronchopulmonary Dysplasia Of Fetus Or Newborn
+Bronchospasm
+Bullous Impetigo
+Bunion
+Burns
+Bursitis
+CAD
+CAD w Angina
+CHF
+CHF w LVH
+COPD
+CREST Syndrome
+Caffeine Use
+Calcaneal spur
+Calculus Of Salivary Gland
+Calculus of kidney
+Calculus of ureter
+Cancer
+Candida Albicans Vaginitis
+Candida Albicans Vulvovaginitis
+Candidal Balanitis
+Candidal Intertrigo
+Candidal enteritis
+Candidal otitis externa
+Candidiasis
+Candidiasis of mouth
+Candidiasis of unspecified site
+Candidiasis of vulva and vagina
+Carbuncle
+Carbuncle In The Groin
+Carbuncle On The Face
+Carbuncle On The Left Thigh
+Carbuncle On The Lower Leg
+Carcinoid syndrome
+Carcinoma Of The Prostate Gland
+Carcinoma in situ of breast
+Carcinoma in situ of prostate
+Cardiac Defibrillator
+Cardiac Devices Pacemaker Present
+Cardiac pacemaker in situ
+Cardiomegaly
+Cardiomyopathy
+Cardioverter-defibrillator Pulse Generator Insertion
+Cardioverter-defibrillator Pulse Generator Insertion With Leads
+Care involving other physical therapy
+Care involving other specified rehabilitation procedure
+Care involving speech-language therapy
+Caregiver
+Carotid Artery Stenosis
+Carpal Tunnel Syndrome
+Carrier Of Infectious Disease Staphylococcus Aureus Methicillin Resistant
+Cataract
+Cataract Surgery
+Catheter Ablation Of Arrhythmogenic Focus
+Causalgia of lower limb
+Cellulitis
+Cellulitis Of The Ankle
+Cellulitis Of The Arm
+Cellulitis Of The Buttocks
+Cellulitis Of The Foot
+Cellulitis Of The Forearm
+Cellulitis Of The Left First Toe
+Cellulitis Of The Left Leg
+Cellulitis Of The Leg
+Cellulitis Of The Right Leg
+Cellulitis Of The Toes
+Cellulitis Of The Trunk
+Cellulitis and abscess of trunk
+Cellulitis and abscess of unspecified sites
+Cellulitis and abscess of upper arm and forearm
+Central Diabetes Insipidus
+Central Perforation Of The Tympanic Membrane
+Central corneal ulcer
+Central opacity of cornea
+Cerebellar Ataxia
+Cerebral Artery Occlusion With Cerebral Infarction
+Cerebral Artery Thrombosis
+Cerebral Artery Thrombosis - With Cerebral Infarction
+Cerebral Embolism - With Cerebral Infarction
+Cerebral Palsy
+Cerebral Vasculitis
+Cerebral Vein Thrombosis
+Cerebral edema
+Cerebrospinal Fluid Rhinorrhea
+Cerumen Impaction
+Cerumen Impaction In Both Ears
+Cervical Facet Syndrome
+Cervical Pap Smear
+Cervical Radiculopathy
+Cervical Radiculopathy At C6 Nerve Root
+Cervical Radiculopathy At C7 Nerve Root
+Cervical Spasm
+Cervical Spine Stenosis
+Cervical Spondylosis
+Cervical Spondylosis With Myelopathy
+Cervical Stenosis/Stricture
+Cervical spondylosis without myelopathy
+Cervicalgia
+Cervicitis
+Cervicitis Chlamydia Trachomatis
+Cervicitis and endocervicitis
+Cesarean Delivery - Delivered
+Cesarean Section
+Cesarean delivery affecting fetus or newborn
+Chalazion
+Change In A Job
+Changed Sexual Interest (Libido): Decreased
+Chest Pain
+Chest Pain Or Discomfort
+Chest Tightness Or Heavy Pressure
+Child Enrolled In Day-care
+Child With Special Needs
+Childhood Asthma
+Childhood Dermatomyositis (Type IV)
+Childhood Onset Pervasive Developmental Autistic Disorder
+Chlamydia Trachomatis Urethritis
+Chlamydial Disease
+Chlamydial Infections
+Cholangitis
+Cholecystectomy
+Cholelithiasis
+Cholesteatoma In The Left Ear
+Cholesteatoma In The Right Ear
+Cholesteatoma Of Attic
+Cholesteatoma Of Middle Ear And Mastoid
+Chondromalacia
+Chondromalacia of patella
+Chromosome Studies Nonspecific Abnormal Findings
+Chronic Allergic Conjunctivitis
+Chronic Antral Gastritis
+Chronic Antral H. Pylori Associated Gastritis
+Chronic Asthmatic Bronchitis
+Chronic Atrophic Gastritis
+Chronic Atticoantral Suppurative Otitis Media
+Chronic Bronchitis
+Chronic Bronchitis With Acute Exacerbation
+Chronic Combined Systolic And Diastolic Congestive Heart Failure
+Chronic Common Migraine (Without Aura)
+Chronic Common Migraine (Without Aura) With Intractable Migraine
+Chronic Constipation
+Chronic Cough
+Chronic Cutaneous Ulcer
+Chronic Cystitis
+Chronic Diastolic Congestive Heart Failure
+Chronic Diffuse Ischemic Heart Disease
+Chronic Ethmoidal Sinusitis
+Chronic Fatigue Syndrome
+Chronic Frontal Sinusitis
+Chronic Gout
+Chronic Gouty Arthropathy
+Chronic Inflammatory Demyelinating Polyneuropathy
+Chronic Interstitial Cystitis
+Chronic Interstitial Lung Disease
+Chronic Kidney Disease (NKF Classification)
+Chronic Kidney Disease With Benign Hypertension
+Chronic Lung Disease Of Newborn
+Chronic Lupus Erythematosus
+Chronic Major Depression
+Chronic Maxillary Sinusitis
+Chronic Mucoid Otitis Media
+Chronic Mucoid Otitis Media Of Both Ears
+Chronic Nondecubitus Ulcer Of The Ankle
+Chronic Nondecubitus Ulcer Of The Foot
+Chronic Obstructive Asthma
+Chronic Obstructive Pulmonary Disease
+Chronic Osteomyelitis
+Chronic Otitis Externa
+Chronic Otitis Media
+Chronic Otitis Media Of Both Ears
+Chronic Pain
+Chronic Pain Due To Trauma
+Chronic Pain Syndrome
+Chronic Pancreatitis
+Chronic Pansinusitis
+Chronic Post-traumatic Stress Disorder
+Chronic Reflux Esophagitis
+Chronic Renal Failure
+Chronic Renal Insufficiency
+Chronic Respiratory Failure
+Chronic Rhinitis
+Chronic Schizophrenia
+Chronic Serous Otitis Media
+Chronic Serous Otitis Media Of Both Ears
+Chronic Sinusitis
+Chronic Sphenoidal Sinusitis
+Chronic Strained Lumbosacral Ligament
+Chronic Suppurative Otitis Media Of The Right Ear
+Chronic Systolic Congestive Heart Failure
+Chronic Tonsillitis
+Chronic Tophaceous Gout
+Chronic Tubotympanic Suppurative Otitis Media
+Chronic Venous Hypertension With Ulcer And Inflammation
+Chronic adenoiditis
+Chronic angle-closure glaucoma
+Chronic ethmoidal sinusitis
+Chronic fatigue syndrome
+Chronic frontal sinusitis
+Chronic graft-versus-host disease
+Chronic hepatitis C without mention of hepatic coma
+Chronic inflammatory demyelinating polyneuritis
+Chronic interstitial cystitis
+Chronic lymphocytic thyroiditis
+Chronic maxillary sinusitis
+Chronic mycotic otitis externa
+Chronic obstructive asthma with (acute) exacerbation
+Chronic pain syndrome
+Chronic pancreatitis
+Chronic prostatitis
+Chronic respiratory disease arising in the perinatal period
+Chronic respiratory failure
+Chronic rhinitis
+Chronic sphenoidal sinusitis
+Chronic systolic heart failure
+Chronic tonsillitis
+Chronic tonsillitis and adenoiditis
+Chronic ulcer of other specified sites
+Chronic ulcer of unspecified site
+Chronic viral hepatitis B without mention of hepatic coma without mention of hepatitis delta
+Circadian Rhythm Sleep Disorder Jet Lag Type
+Circumscribed scleroderma
+Cirrhosis
+Cirrhosis Due To Hepatitis C
+Cirrhosis of liver without mention of alcohol
+Classic Migraine (With Aura)
+Classic Migraine (With Aura) With Intractable Migraine
+Claustrophobia
+Closed Bimalleolar Fracture
+Closed Epiphyseal Fracture Of The Left Proximal Tibia
+Closed Fracture Of Facial Bones
+Closed Fracture Of The Lower Jaw - Multiple Sites
+Closed fracture of dorsal [thoracic] vertebra without mention of spinal cord injury
+Closed fracture of lumbar vertebra without mention of spinal cord injury
+Clostridium Difficile Colitis
+Cluster Headache
+Coarctation of aorta (preductal) (postductal)
+Coccidioidal Meningitis
+Cognitive Disorder
+Cognitive Functions Current Level Impaired
+Colitis
+Collis Of 2 Motor Vehicles On Road - Driving (Not Motorcycle
+Colon Cancer
+Colon Polyps
+Colonic Diverticulosis
+Colostomy status
+Coma
+Common Cold
+Common Migraine (Without Aura)
+Common Migraine (Without Aura) With Intractable Migraine
+Common Warts
+Common ventricle
+Community-acquired Pneumonia
+Complaint Of Allergic Reaction Seasonal
+Complete Atrioventricular Canal
+Complete D-transposition Of The Great Vessels
+Complex febrile convulsions
+Complications of transplanted bone marrow
+Complications of transplanted heart
+Complications of transplanted kidney
+Complications of transplanted liver
+Composition Of Household ___ Brothers
+Composition Of Household ___ Sisters
+Compression of brain
+Compression of vein
+Conductive Hearing Loss
+Condyloma Acuminatum
+Congenital Adrenal Hyperplasia
+Congenital Heart Disease
+Congenital Hypothyroidism
+Congenital Pulmonary Valvular Stenosis
+Congenital deficiency of other clotting factors
+Congenital factor VIII disorder
+Congenital pigmentary anomalies of skin
+Congenital quadriplegia
+Congestive Heart Failure
+Congestive Heart Failure With Systolic And Diastolic Dysfunction
+Conjunctivitis
+Conjunctivitis In Both Eyes
+Conjunctivitis In The Left Eye
+Connective Tissue Defect
+Constipation
+Contact Dermatitis
+Contact and allergic dermatitis of eyelid
+Contact dermatitis and other eczema due to other specified agents
+Contact dermatitis and other eczema due to plants [except food]
+Contact with or exposure to tuberculosis
+Contact with or exposure to venereal diseases
+Contraceptives
+Contracture
+Contracture Of Multiple Sites
+Contracture of palmar fascia
+Contusion Of The Knee With Intact Skin Surface
+Convalescence following chemotherapy
+Convulsions
+Convulsions In Newborn
+Convulsive Disorder
+Convulsive Grand Mal Seizure With Intractable Seizure
+Cornea replaced by transplant
+Coronary Arteriosclerosis
+Coronary Artery Bypass Graft (CABG)
+Coronary Artery Disease
+Coronary atherosclerosis of autologous vein bypass graft
+Coronary atherosclerosis of native coronary artery
+Cortical senile cataract
+Costochondritis (Tietze's Syndrome)
+Costovertebral Angle Tenderness
+Cough
+Cough Variant Asthma
+Coughing Up Sputum Yellow
+Cramp Of Limb
+Crohn's (Granulomatous) Colitis
+Crohn's Disease
+Crohns disease
+Croup
+Cryptococcal Pneumonia
+Currently In School
+Currently In School Excelling
+Currently In School Having Difficulty
+Cutaneous Candidiasis
+Cyanosis
+Cyanotic attacks of newborn
+Cyclic Vomiting Syndrome
+Cyst and pseudocyst of pancreas
+Cystic Fibrosis
+Cystic fibrosis with gastrointestinal manifestations
+Cystic fibrosis with meconium ileus
+Cystic fibrosis with other manifestations
+Cystic fibrosis with pulmonary manifestations
+Cystic fibrosis without mention of meconium ileus
+Cystitis
+Cystoid macular degeneration
+Cytomegaloviral disease
+De Quervain's Tenosynovitis
+Decrease In Appetite
+Decreased libido
+Decubitus Ulcer
+Deficiency of other vitamins
+Degeneration of cervical intervertebral disc
+Degeneration of lumbar or lumbosacral intervertebral disc
+Dehiscence Of Surgical Wound
+Dehydration
+Delayed Developmental Milestones
+Delayed Developmental Milestones Speech
+Delayed milestones
+Dementia
+Dementia Of Alzheimer's Type
+Dementia Of Known (Axis III) Etiology With Behavioral Disturbance
+Dementia Of Unknown (Axis III) Etiology
+Dementia With Lewy Bodies
+Dementia in conditions classified elsewhere without behavioral disturbance
+Demonstrated Behavior Psychomotor Agitation
+Demyelinating Disorders
+Dendritic keratitis
+Dentoalveolar Abscess
+Dependence On A Respirator
+Dependence On Supplemental Oxygen
+Dependent Edema Due To Inactivity
+Depression
+Depression With Anxiety
+Dermatitis
+Dermatitis Due To Contact With Poison Ivy
+Dermatitis Due To Drugs And Medicines
+Dermatitis due to food taken internally
+Dermatitis herpetiformis
+Dermatophytosis
+Dermatophytosis of foot
+Dermatophytosis of groin and perianal area
+Dermatophytosis of nail
+Dermatophytosis of scalp and beard
+Dermatophytosis of the body
+Detrusor Instability
+Developmental coordination disorder
+Deviated Nasal Septum (Acquired)
+Deviated nasal septum
+Devic Disease
+DiGeorge Syndrome
+Diabetes Mellitus
+Diabetes Mellitus Incl Borderline
+Diabetes Mellitus Incl Gestational
+Diabetes Mellitus Poorly Controlled
+Diabetes Mellitus Under Control
+Diabetes With Neurological Complications - Uncontrolled
+Diabetes insipidus
+Diabetic Autonomic Neuropathy
+Diabetic Foot Ulcer
+Diabetic Gastropathy
+Diabetic Nephropathy Type II
+Diabetic Nephropathy Type II - Uncontrolled
+Diabetic Peripheral Neuropathy
+Diabetic Peripheral Neuropathy Type II
+Diabetic Peripheral Neuropathy Type II - Uncontrolled
+Diabetic Polyneuropathy
+Diabetic Retinopathy
+Diabetic macular edema
+Diaper Rash
+Diaper or napkin rash
+Diaphragmatic hernia without mention of obstruction or gangrene
+Diarrhea
+Diarrhea (Symptom)
+Diastolic Congestive Heart Failure
+Diastolic Dysfunction
+Diastolic Hypertension
+Difficulty Breathing (Dyspnea)
+Difficulty Falling Asleep
+Difficulty Swallowing (Dysphagia)
+Difficulty in walking
+Diffuse Abdominal Pain
+Diffuse Connective Tissue Disorder
+Diffuse Idiopathic Skeletal Hyperostosis (DISH)
+Diffuse Joint Pains (Arthralgias)
+Diffuse Obstructive Chronic Bronchitis
+Diffuse cystic mastopathy
+Dilated Cardiomyopathy
+Diplopia
+Discharge From The Ears
+Discharge Of Pus From Eyes
+Discoid Lupus Erythematosus
+Discoid Lupus Erythematosus With Systemic Involvement
+Diseases of tricuspid valve
+Disorder Of Mitochondrial Metabolism
+Disorders Of Calcium And Bone Metabolism
+Disorders Of Connective Tissue
+Disorders of fatty acid oxidation
+Disorders of magnesium metabolism
+Disorders of mitochondrial metabolism
+Disorders of phosphorus metabolism
+Disorders of sacrum
+Displacement of cervical intervertebral disc without myelopathy
+Displacement of lumbar intervertebral disc without myelopathy
+Displacement of thoracic intervertebral disc without myelopathy
+Disruption of external operation (surgical) wound
+Disruptive Behavior Disorder
+Disseminated candidiasis
+Disseminated due to other mycobacteria
+Disturbance Of Gait
+Disturbance of salivary secretion
+Disturbance of skin sensation
+Disturbances of amino-acid transport
+Disturbances of sulphur-bearing amino-acid metabolism
+Diverticulitis Of Colon
+Diverticulitis of colon (without mention of hemorrhage)
+Diverticulosis
+Diverticulosis of colon (without mention of hemorrhage)
+Dizziness
+Dizziness and giddiness
+Donors of other specified organ or tissue
+Double outlet right ventricle
+Down's syndrome
+Drip Or Drainage Down Throat From Above
+Drowsy
+Drug Use
+Drug induced neutropenia
+Drug withdrawal
+Drug-induced Essential Tremor
+Drug-induced Osteoporosis
+Dry Eye Syndrome Of Both Eyes
+Duodenal Ulcer
+Dysarthria
+Dyschromia
+Dysfunction of Eustachian tube
+Dysfunctional Uterine Bleeding
+Dyshidrosis
+Dyshidrotic Eczema
+Dyslipidemia
+Dysmenorrhea
+Dysmetabolic Syndrome X
+Dyspareunia
+Dyspepsia
+Dyspepsia and other specified disorders of function of stomach
+Dysphagia
+Dysthymic Disorder
+Dysuria
+Earache
+Earache (Symptom)
+Earache In The Right Ear
+Eczema
+Eczema Psoriasis
+Eczema Psoriasis Psoriatic Arhtritis
+Eczematoid Dermatitis
+Edema
+Edema (On Exam)
+Edema of pharynx or nasopharynx
+Educational Level - Completed Bachelors Degree
+Educational Level - Grades 1-6
+Educational Level Grade
+Elbow Sprain
+Elective Circumcision
+Electrolyte and fluid disorders not elsewhere classified
+Elevated blood pressure reading without diagnosis of hypertension
+Elevated prostate specific antigen [PSA]
+Elevated sedimentation rate
+Emphysema
+Emphysematous Chronic Bronchitis
+Empyema
+Encephalitis
+Encephalopathy
+Encopresis
+Encounter for antineoplastic chemotherapy
+Encounter for antineoplastic immunotherapy
+Encounter for assisted reproductive fertility procedure cycle
+Encounter for extracorporeal dialysis
+Encounter for fetal anatomic survey
+Encounter for insertion of intrauterine contraceptive device
+Encounter for occupational therapy
+Encounter for palliative care
+Encounter for radiotherapy
+Encounter for routine screening for malformation using ultrasonics
+Encounter for therapeutic drug monitoring
+End Stage Renal Disease
+Endocrine Disorder
+Endocrine Laboratory Tests Nonspecific Abnormal Findings
+Endometriosis
+Endometriosis Of The Pelvic Peritoneum
+Endometriosis of ovary
+Endometriosis of pelvic peritoneum
+Endometriosis of uterus
+Endotracheal Tube Insertion
+Enlargement of lymph nodes
+Enterobiasis
+Enterobiasis (Pinworm)
+Enthesopathy of hip region
+Enuresis
+Eosinophilic Esophagitis
+Epididymitis
+Epididymitis Of The Left Testicle
+Epilepsy
+Episodic Mood Disorders
+Episodic Tension-type Headache
+Epistaxis
+Erythema nodosum
+Esophageal Cancer
+Esophageal Candidiasis
+Esophageal Reflux
+Esophageal Varices
+Esophageal reflux
+Esophageal varices without mention of bleeding
+Esophagitis
+Esophagogastric Fundoplasty Nissen Fundoplication
+Esophoria
+Essential Hypercholesterolemia
+Essential Hypertension
+Essential Hypertriglyceridemia
+Essential thrombocythemia
+Estrogen receptor positive status [ER+]
+Eustachian Tube Block
+Eustachian Tube Disorder
+Eustachian Tube Dysfunction
+Examination of eyes and vision
+Examination of participant in clinical trial
+Excessive Bleeding During Period (Menorrhagia)
+Excessive Facial Or Body Hair (Hirsutism)
+Excessive or frequent menstruation
+Exercise Habits
+Exercise-induced Asthma
+Exercise-induced Bronchospasm
+Exercising Regularly
+Exposed To Gonorrhea
+Exposed To HIV Infection
+Exposed To Herpes Simplex
+Exposed To Tuberculosis
+Exposed To Venereal Disease
+Expressive language disorder
+External Hemorrhoids
+External Hemorrhoids With Bleeding
+External hemorrhoids with other complication
+External hemorrhoids without mention of complication
+External thrombosed hemorrhoids
+Extrinsic Asthma
+Extrinsic asthma with (acute) exacerbation
+Extrinsic asthma with status asthmaticus
+Facial Cellulitis
+Facial Pain
+Factor IX Deficiency
+Factor VIII Deficiency (Hemophilia)
+Failure To Gain Weight
+Failure To Thrive As Newborn
+Failure To Thrive In Childhood
+Failure to thrive
+Fainting (Syncope)
+Familial (Benign Essential) Tremor
+Familial Combined Hyperlipidemia
+Familial Hypercholesterolemia
+Familial Hypertriglyceridemia
+Family Health Status
+Family Health Status Of Father - Poor
+Family Health Status Of Mother - Poor
+Family history of malignant neoplasm of breast
+Family history of malignant neoplasm of gastrointestinal tract
+Family history of other cardiovascular diseases
+Fasciculations
+Fatigue
+Feeding Disorder Of Infancy / Early Childhood
+Feeding Disorder Of Infancy / Early Childhood Of Nonorganic Origin
+Feeding difficulties and mismanagement
+Feeding problems in newborn
+Feeling Congested In The Chest
+Feelings Of Urinary Urgency
+Feet Swelling
+Female Genitalia Labial Adhesions
+Female Infertility
+Female Infertility Associated With Anovulation
+Female Pelvic Pain
+Female Stress Incontinence
+Fertility testing
+Fever (On Exam)
+Fever (Symptom)
+Fever presenting with conditions classified elsewhere
+Fibromyalgia
+Fibrositis
+Fitting and adjustment of automatic implantable cardiac defibrillator
+Fitting and adjustment of cardiac pacemaker
+Fitting and adjustment of extracorporeal dialysis catheter
+Fitting and adjustment of peritoneal dialysis catheter
+Fitting and adjustment of urinary devices
+Fitting and adjustment of vascular catheter
+Flatus
+Fluid Overload
+Focal Torsion Dystonia
+Folate-deficiency anemia
+Folic Acid Deficiency
+Follicular cyst of ovary
+Folliculitis
+Food Poisoning
+Foot Pain (Soft Tissue)
+Foreign Body In The Left Ear
+Foreign body in nose
+Fracture Of Facial Bones
+Fracture Of The Nasal Bones
+Fracture Of The Vertebral Column
+Frailty
+Frederickson Type IIB Hyperlipidemia
+Frontotemporal Dementia
+Full Thickness (Third Degree) Burns Of Multiple Sites Of Wrists And Hands
+Functional Constipation
+Functional Diarrhea
+Functional Status
+Functional Urinary Incontinence
+Functional diarrhea
+Functional disturbances following cardiac surgery
+Fungal Infections
+Furuncle
+Furuncle In The Axilla
+Furuncle In The Right Axilla
+Furuncle On The Back
+Furuncle On The Breast
+Furuncle On The Buttock
+Furuncle On The Face
+Furuncle On The Left Buttock
+Furuncle On The Left Thigh
+Furuncle On The Neck
+Furuncle On The Upper Arm
+Furunculosis
+Fussy infant (baby)
+Galactorrhea not associated with childbirth
+Gallbladder Surgery
+Gangrene
+Gastric Surgery Feeding Gastrostomy
+Gastric Ulcer
+Gastritis
+Gastritis Due To H. Pylori
+Gastroenteritis
+Gastroparesis
+Gastrostomy Care
+Gastrostomy Complication
+Gastrostomy Infection
+Gastrostomy status
+General Surgery
+General counseling on initiation of other contraceptive measures
+General counseling on prescription of oral contraceptives
+Generalized Anxiety Disorder
+Generalized Convulsive Clonic Seizure
+Generalized Convulsive Clonic Seizure With Intractable Seizure
+Generalized Convulsive Grand Mal Seizure
+Generalized Convulsive Myoclonic Seizure With Intractable Seizure
+Generalized Convulsive Seizure
+Generalized Convulsive Tonic Seizure
+Generalized Convulsive Tonic Seizure With Intractable Seizure
+Generalized Convulsive Tonic-clonic Seizure
+Generalized Convulsive Tonic-clonic Seizure With Intractable Seizure
+Generalized Nonconvulsive Seizure
+Generalized Osteoarthritis
+Generalized Osteoarthritis Of Multiple Sites
+Generalized Pain
+Generalized and unspecified atherosclerosis
+Generalized anxiety disorder
+Generalized hyperhidrosis
+Generalized pain
+Genital Herpes
+Genital Warts
+Genitourinary Candidiasis
+Gestational Diabetes Mellitus
+Giardiasis
+Gitelman's Syndrome
+Glaucoma
+Glaucoma associated with unspecified ocular disorder
+Glomerulonephritis
+Glossopharyngeal Neuralgia
+Glucocorticoid deficiency
+Glucose Intolerance
+Gonadal dysgenesis
+Gout
+Grand mal status
+Graves' Disease
+Graves' Ophthalmopathy
+Graves' disease
+Groin (Inguinal) Pain Left Side
+Groin (Inguinal) Pain Right Side
+Gross hematuria
+Group A Streptococcal Infection
+Group A Streptococcus: B Hemolytic Pharyngitis
+Growth Hormone Deficiency (Pituitary Dwarfism)
+Gunshot Wound Of The Face
+Gynecologic Service Prescrip Of Contracept Agent - Repeat Rx
+Gynecologic Services Contraceptive General Counseling
+Gynecologic Services Contraceptive Management
+Gynecologic Services Intrauterine Device (IUD) Insertion
+Gynecologic Services Prescription Of Contraceptive Agents
+HIV Infection
+HIV Infection CDC Classification A1
+HIV positive
+HIV/AIDS
+Habitual Aborter (Non-gravid)
+Hallucination Visual
+Hallucinations
+Hallucinations (Imagined Perceptions Not Based In Reality)
+Hand Foot & Mouth Disease
+Hashimoto's Thyroiditis
+Headache
+Headache Syndromes
+Headaches
+Health supervision for newborn 8 to 28 days old
+Health supervision for newborn under 8 days old
+Hearing Loss
+Hearing Loss (On Exam)
+Heart Disease
+Heart replaced by transplant
+Heart valve replaced by other means
+Heartburn
+Heartburn Infrequently (Monthly)
+Heartburn With Regurgitation
+Heat Rash
+Heat Urticaria
+Helicobacter Pylori (H. Pylori) Infection
+Helicobacter pylori [H. pylori]
+Hemangioma of other sites
+Hemangioma of skin and subcutaneous tissue
+Hemangioma of unspecified site
+Hematuria
+Hemiplegic Migraine Headache
+Hemispasticity Of Left Side
+Hemispasticity Of Left Side - (Nondominant Side)
+Hemispasticity Of Right Side
+Hemorrhage of rectum and anus
+Hemorrhoids
+Hemorrhoids With Bleeding
+Henoch-Schonlein Purpura
+Hepatic encephalopathy
+Hepatitis
+Hepatitis B carrier
+Hepatitis C carrier
+Hepatocellular Carcinoma Of The Liver
+Hepatomegaly
+Hereditary Hemolytic Spherocytosis
+Hereditary Hemorrhagic Telangiectasia (Osler-Rendu-Weber)
+Herniated Lumbar Disc
+Herpes Simplex
+Herpes Simplex Acute Gingivostomatitis
+Herpes Simplex Type I
+Herpes Simplex Type II
+Herpes Zoster (Shingles)
+Herpes Zoster With Nervous System Complications
+Herpes simplex disciform keratitis
+Herpes simplex with unspecified ophthalmic complication
+Herpes simplex without mention of complication
+Herpes zoster dermatitis of eyelid
+Herpes zoster keratoconjunctivitis
+Herpes zoster without mention of complication
+Herpetic Ulceration Of Vulva
+Herpetic gingivostomatitis
+Hiccough
+Hiccups (Symptom)
+Hidradenitis Suppurativa
+Highly Irritable
+Hip Sprain
+Hip joint replacement
+Hirsutism
+History Of Prior Surgery
+History Unobtainable
+Hoarseness
+Home Blood Sugar Check Was Low
+Homocysteinemia
+Hordeolum externum
+Hordeolum internum
+Hormone replacement therapy (postmenopausal)
+Housing DME For Tube Feeding
+Housing DME Oxygen Tank
+Housing DME Ventilator
+Hydrarthrosis Of The Knee / Patella / Tibia / Fibula
+Hydrocephalus
+Hydronephrosis
+Hydronephrosis Bilaterally
+Hydronephrosis On The Left
+Hydronephrosis On The Right
+Hyperactivity Of The Bladder
+Hyperacusis
+Hyperammonemia
+Hypercalcemia
+Hypercalciuria
+Hypercholesterolemia
+Hyperemesis Gravidarum
+Hyperglycemia
+Hyperhidrosis
+Hyperhidrosis (On Exam)
+Hyperkalemia
+Hyperlipidemia
+Hypermetropia
+Hyperparathyroidism
+Hyperphosphatemia
+Hyperpotassemia
+Hyperprolactinemia
+Hypertension
+Hypertension W Borderline
+Hyperthyroidism
+Hypertonicity of bladder
+Hypertrophied Nasal Turbinate
+Hypertrophy (benign) of prostate with urinary obstruction and other lower urinary tract symptoms (LUTS)
+Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)
+Hypertrophy of adenoids alone
+Hypertrophy of breast
+Hypertrophy of nasal turbinates
+Hypertrophy of tonsil with adenoids
+Hypertrophy of tonsils alone
+Hypocalcemia
+Hypoglycemia
+Hypogonadism
+Hypogonadotrophic Hypogonadism
+Hypokalemia
+Hypomagnesemia
+Hyponatremia
+Hypoparathyroidism
+Hypophosphatemic Rickets
+Hypopituitarism
+Hypoplastic Left Heart Syndrome
+Hypopotassemia
+Hyposmolality and/or hyponatremia
+Hypospadias
+Hypotension
+Hypothyroidism
+Hypothyroidism Postablative
+Hypotonicity (Flaccid)
+Hypoxemia
+Hypoxia
+Hysterectomy
+Iatrogenic Hypopituitarism
+Iatrogenic Hypothyroidism
+Iatrogenic pulmonary embolism and infarction
+Idiopathic Dystonia Musculorum Deformans
+Idiopathic Insomnia
+Idiopathic Intracranial Hypertension
+Idiopathic Organic Hypersomnia
+Idiopathic Peripheral Neuropathy
+Idiopathic Precocious Puberty
+Idiopathic Pulmonary Fibrosis
+Idiopathic Thrombocytopenic Purpura
+Idiopathic Urticaria
+Idiopathic osteoporosis
+Ileostomy status
+Immune thrombocytopenic purpura
+Immunodeficiency Disorders
+Impacted cerumen
+Impaired Fasting Glucose
+Impaired Glucose Tolerance Test
+Impairment of auditory discrimination
+Impetigo
+Impingement Of The Right Shoulder
+Impotence of organic origin
+Impulse Control Disorder
+Inadequacy Of Lubrication Of Vaginal Mucosa
+Inadequate Luteal Phase
+Incomplete Emptying Of Bladder
+Incomplete bladder emptying
+Infant Feeding Problems
+Infantile Seborrheic Dermatitis
+Infantile Spasms
+Infected Nonvenomous Insect Bite
+Infected Superficial Injury Of Fingers
+Infected Superficial Thigh Injury
+Infection Of An Abdominal Incision
+Infection and inflammatory reaction due to peritoneal dialysis catheter
+Infectious Diarrhea
+Infectious Gastroenteritis
+Infective Otitis Externa
+Inflamed seborrheic keratosis
+Inflammatory disease of breast
+Influenza
+Influenza A(H2N2)
+Influenza Type A
+Influenza With Other URI Manifestations
+Influenza with other respiratory manifestations
+Ingrowing Nail With Infection
+Ingrowing Toenail
+Ingrowing nail
+Inquiry And Counseling: Contraceptive Practices
+Inquiry And Counseling: Family Planning
+Insertion of implantable subdermal contraceptive
+Insomnia
+Insomnia Due To Stress
+Install Percutaneous Neurostimulator For Vagal Nerve
+Intermediate coronary syndrome
+Intermittent Asthma
+Intermittent Claudication
+Internal Derangement Of Knee
+Internal Hemorrhoids
+Internal Hemorrhoids With Bleeding
+Internal hemorrhoids with other complication
+Internal hemorrhoids without mention of complication
+Interstitial myositis
+Intertrigo
+Intervention And Counseling On Cessation Of Tobacco Use
+Intestinal infection due to Clostridium difficile
+Intracerebral hemorrhage
+Intrauterine synechiae
+Inverted Nasal Papilloma
+Iron Deficiency
+Iron Deficiency Anemia Secondary To Chronic Blood Loss
+Iron Deficiency Anemia Secondary To Inadequate Dietary Iron Intake
+Iron deficiency anemia secondary to blood loss (chronic)
+Iron deficiency anemia secondary to inadequate dietary iron intake
+Irregular Length Of Menstrual Periods
+Irregular menstrual cycle
+Irritability
+Irritable Bowel Syndrome
+Ischemic Cardiomyopathy
+Ischemic Embolic Stroke
+Ischemic Stroke
+Issue of repeat prescriptions
+Itching (Pruritus)
+Itching Of The Ears
+Joint Pain Fingers
+Joint Pain In The Toes
+Joint Stiffness Of The Knee
+Juvenile Rheumatoid Arthritis
+Keloid Scar
+Keratosis Pilaris
+Kidney Cancer
+Kidney Disease With Benign Hypertension
+Kidney Problems
+Kidney Stones
+Kidney donors
+Kidney replaced by transplant
+Knee Pain Elicited By Motion
+Knee Sprain
+Knee Surgery
+Knee Swelling
+Knee joint replacement
+Labyrinthitis
+Lack of coordination
+Lacrimal Stenosis Of The Right Eye
+Laryngeal Cancer
+Laryngomalacia
+Laryngopharyngeal Reflux
+Larynx Edema
+Late CVD Effects: Aphasia
+Late CVD Effects: Cognitive Deficits
+Late CVD Effects: Hemiplegia
+Late Effects Of Cerebrovascular Disease
+Latent Late Syphilis
+Latent Tuberculosis
+Lateral Epicondylitis
+Left Heart Failure
+Left Heart Failure - Class III
+Left Shoulder Strain
+Left heart failure
+Left-sided ulcerative (chronic) colitis
+Leg Localized Swelling Left
+Leiomyoma Of The Uterus
+Leisure Activities
+Lennox-Gastaut Syndrome
+Lens replaced by other means
+Lesion of plantar nerve
+Lichen Sclerosus Et Atrophicus
+Lichen Simplex Chronicus
+Lichenification and lichen simplex chronicus
+Life Circumstance Event
+Limb Pain
+Limb Swelling
+Lipodystrophy
+Lipoid Metabolism Disorder
+Liver Cancer
+Liver Transplant
+Liver replaced by transplant
+Living With Parents
+Lobar Pneumonia
+Localized Osteoarthritis Of The Hand
+Localized Osteoarthritis Of The Knee
+Localized Osteoarthritis Of The Shoulder
+Localized Primary Osteoarthritis
+Localized Primary Osteoarthritis Of The Hand
+Localized Primary Osteoarthritis Of The Knee
+Localized Secondary Osteoarthritis Of The Hip
+Long-term (current) use of antibiotics
+Long-term (current) use of anticoagulants
+Long-term (current) use of insulin
+Long-term (current) use of non-steroidal anti-inflammatories (NSAID)
+Long-term (current) use of other medications
+Long-term (current) use of steroids
+Loss of weight
+Low grade myelodysplastic syndrome lesions
+Lower Back Pain
+Lower Back Pain Chronic
+Lower Back Sprain
+Lower Genitourinary Venereal Disease Due To Chlamydia Trachomatis
+Lumbago
+Lumbar Canal Stenosis
+Lumbar Disc Degeneration
+Lumbar Facet Syndrome
+Lumbar Radiculopathy
+Lumbar Radiculopathy At L5
+Lumbar Spondylosis
+Lumbar Spondylosis (L3 - L4)
+Lumbar Spondylosis With Myelopathy
+Lumbar Sprain
+Lumbar Strain
+Lumbosacral spondylosis without myelopathy
+Lump Or Mass In Breast
+Lump Or Swelling In The Neck
+Lump or mass in breast
+Lung Cancer
+Lung involvement in other diseases classified elsewhere
+Lung replaced by transplant
+Lupus Anticoagulant
+Lupus erythematosus
+Lyme Disease
+Lymph Nodes Enlarged
+Lymphadenopathy
+Lymphedema
+Macular puckering
+Malabsorption Syndrome
+Male Erectile Disorder
+Male Erectile Disorder Due To Physical Condition
+Male Infertility
+Malignant Breast Neoplasm
+Malignant Essential Hypertension
+Malignant Nasal Cavity Neoplasm
+Malignant Neoplasm Of The Gallbladder
+Malignant Neoplasm Of The Kidney
+Malignant Neoplasm Of The Large Intestine
+Malignant Neoplasm Of The Maxillary Sinus
+Malignant Neoplasm Of The Oral Cavity
+Malignant Neoplasm Of The Prostate Gland
+Malignant Neoplasm Of The Tonsil (Oropharyngeal)
+Malignant Oropharyngeal Neoplasm
+Malignant Pancreatic Neoplasm
+Malignant ascites
+Malignant carcinoid tumor of other sites
+Malignant carcinoid tumor of unknown primary site
+Malignant essential hypertension
+Malignant melanoma of other specified sites of skin
+Malignant neoplasm of adrenal gland
+Malignant neoplasm of base of tongue
+Malignant neoplasm of body of pancreas
+Malignant neoplasm of central portion of female breast
+Malignant neoplasm of connective and other soft tissue of abdomen
+Malignant neoplasm of frontal lobe
+Malignant neoplasm of head of pancreas
+Malignant neoplasm of intrahepatic bile ducts
+Malignant neoplasm of lower-outer quadrant of female breast
+Malignant neoplasm of main bronchus
+Malignant neoplasm of occipital lobe
+Malignant neoplasm of other parts of brain
+Malignant neoplasm of other parts of bronchus or lung
+Malignant neoplasm of other sites of tongue
+Malignant neoplasm of other specified sites of female breast
+Malignant neoplasm of other specified sites of large intestine
+Malignant neoplasm of other specified sites of pancreas
+Malignant neoplasm of ovary
+Malignant neoplasm of pancreatic duct
+Malignant neoplasm of parietal lobe
+Malignant neoplasm of prostate
+Malignant neoplasm of rectosigmoid junction
+Malignant neoplasm of rectum
+Malignant neoplasm of renal pelvis
+Malignant neoplasm of sigmoid colon
+Malignant neoplasm of tail of pancreas
+Malignant neoplasm of temporal lobe
+Malignant neoplasm of thyroid gland
+Malignant neoplasm of tip and lateral border of tongue
+Malignant neoplasm of tonsil
+Malignant neoplasm of upper-inner quadrant of female breast
+Malignant neoplasm of upper-outer quadrant of female breast
+Malignant pleural effusion
+Malnutrition of moderate degree
+Malunion Of Fracture
+Mammographic microcalcification
+Marginal corneal ulcer
+Marital History
+Marital History - Currently Married
+Marital History - Never Married
+Marital History - Single
+Mastitis
+Maternal Tobacco Use Complicating Pregnancy / Childbirth / Puerperium
+Mechanical complication due to peritoneal dialysis catheter
+Mechanical complication of automatic implantable cardiac defibrillator
+Mechanical complication of gastrostomy
+Medium-chain Acyl-CoA Dehydrogenase Deficiency
+Medulloadrenal hyperfunction
+Memory Lapses Or Loss
+Memory Lapses Or Loss Worsening
+Memory loss
+Meningeal Sarcoidosis
+Menometrorrhagia
+Menopausal Disorder
+Menopause
+Menopause Has Occurred
+Menorrhagia
+Menses Abnormal
+Menstrual Migraine Headache
+Mental Retardation
+Mental Retardation With Other Behavioral Symptoms
+Meralgia Paresthetica
+Metabolic Acidosis
+Metabolic Disorders
+Metatarsalgia
+Methicillin Resistant Staphylococcus Aureus Infection
+Methicillin resistant Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+Methicillin susceptible Staphylococcus aureus in conditions classified elsewhere and of unspecified site
+Metrorrhagia
+Microalbuminuria
+Microcephalus
+Micropenis
+Microscopic Hematuria
+Microscopic Polyarteritis Nodosa
+Microscopic hematuria
+Midback Pain
+Migraine Headache
+Migraines
+Mild Intermittent Asthma
+Mild Persistent Asthma
+Mild dysplasia of cervix
+Miliaria
+Missed Abortion
+Mitral Regurgitation
+Mitral Valve Disorder
+Mitral valve disorders
+Mixed Conductive And Sensorineural Hearing Loss
+Mixed Connective Tissue Disease
+Mixed hyperlipidemia
+Mixed incontinence (male) (female)
+Mixed receptive-expressive language disorder
+Moderate Persistent Asthma
+Moderate Recurrent Major Depression
+Moderate Single Episode Major Depression
+Molluscum Contagiosum
+Monoclonal paraproteinemia
+Mononeuritis of unspecified site
+Mood Disorder Due To General Medical Condition
+Mood Disorder Of Unknown (Axis III) Etiology
+Mood Irritable
+Morbid Obesity
+Morphea (Localized Scleroderma)
+Motion Sickness
+Motor Neuron Disease
+Motor Partial Seizure
+Motor Partial Seizure With Intractable Seizure
+Motor Vehicle Collision With Another Motor Vehicle On A Road
+Mucosal Cyst
+Mucositis (ulcerative) due to antineoplastic therapy
+Multiple Gestation - Twins
+Multiple Muscle Strains
+Multiple Myeloma
+Multiple Nonvenomous Insect Bites
+Multiple Sclerosis
+Multisystem Atrophy
+Muscle Cramps In The Calf
+Muscle Hematoma
+Muscle Spasm
+Muscle Weakness
+Muscle Weakness Generalized
+Muscle weakness (generalized)
+Myalgia And Myositis
+Myasthenia Gravis
+Myasthenia gravis with (acute) exacerbation
+Myasthenia gravis without (acute) exacerbation
+Myasthenic syndromes in diseases classified elsewhere
+Mycoplasma Infection
+Mycotic corneal ulcer
+Myelopathy
+Myoclonus
+Myofascial Pain Syndrome
+Myopathies
+Myopia
+Narcolepsy
+Nasal Cavity Neoplasm
+Nasal Cavity Polyps
+Nasal Discharge (Symptom)
+Nasal Discharge Rhinorrhea
+Nasal Passage Blockage (Stuffiness)
+Nasal Polyps
+Nasal Vestibulitis
+Native Language Spanish
+Nausea (Symptom)
+Nausea With Vomiting
+Nausea alone
+Nausea with vomiting
+Neck Cervical Mass Anterior Submandibular (___cm)
+Neck Cervical Mass Left (___cm)
+Neck Pain
+Neck Sprain
+Neck Strain
+Need For Prophylactic Antibiotics
+Need For Vaccination Human Papilloma Virus
+Need for prophylactic immunotherapy
+Need for prophylactic vaccination and inoculation against diptheria-tetanus- pertussis with poliomyelitis [DTP + polio]
+Need for prophylactic vaccination and inoculation against influenza
+Need for prophylactic vaccination and inoculation against measles-mumps-rubella (MMR)
+Need for prophylactic vaccination and inoculation against other combinations of diseases
+Need for prophylactic vaccination and inoculation against other specified disease
+Need for prophylactic vaccination and inoculation against other viral diseases
+Need for prophylactic vaccination and inoculation against poliomyelitis
+Need for prophylactic vaccination and inoculation against respiratory syncytial virus (RSV)
+Need for prophylactic vaccination and inoculation against streptococcus pneumoniae [pneumococcus] and influenza
+Need for prophylactic vaccination and inoculation against tuberculosis [BCG]
+Need for prophylactic vaccination and inoculation against typhoid-paratyphoid alone [TAB]
+Need for prophylactic vaccination and inoculation against varicella
+Need for prophylactic vaccination and inoculation against viral hepatitis
+Neonatal Apnea
+Neonatal Candidiasis Of The Diaper Region
+Neonatal Jaundice
+Neonatal jaundice associated with preterm delivery
+Neoplasm of uncertain behavior of adrenal gland
+Neoplasm of uncertain behavior of brain and spinal cord
+Neoplasm of uncertain behavior of connective and other soft tissue
+Neoplasm of uncertain behavior of pituitary gland and craniopharyngeal duct
+Neoplasm of uncertain behavior of plasma cells
+Neoplasm of uncertain behavior of skin
+Neoplasm of unspecified nature of brain
+Neoplasm of unspecified nature of breast
+Neoplasm of unspecified nature of digestive system
+Neoplasm of unspecified nature of endocrine glands and other parts of nervous system
+Neoplasm of unspecified nature of other genitourinary organs
+Neoplasm of unspecified nature of respiratory system
+Neoplasm related pain (acute) (chronic)
+Nephrectomy
+Nephritis Due To SLE
+Nephrolithiasis
+Nephrolithiasis Of The Left Kidney
+Nephrolithiasis Of The Right Kidney
+Nephrosclerosis With Benign Hypertension
+Nephrotic Syndrome
+Nephrotic Syndrome Due To Focal Segmental Sclerosing Glomerulonephritis
+Nephrotic Syndrome Due To Minimal Change Glomerulonephritis
+Nephrotic syndrome with unspecified pathological lesion in kidney
+Neuralgia
+Neurogenic Bladder
+Neurogenic Bowel
+Neurogenic bladder NOS
+Never Drank Alcohol
+Never Smoked
+New Daily Persistent Headache
+Nicotine Dependence
+Nicotine Dependence - Continuous
+No Active Problems
+No Recent Change In Medical History
+Nocturia
+Nocturnal enuresis
+Nodular prostate without urinary obstruction
+Non-Hodgkin's Lymphoma
+Non-healing surgical wound
+Non-migrainous Vascular Headache
+Nonconvulsive (Petit Mal) Seizure With Intractable Seizure
+Nonpathogenic Protozoal Intestinal Disease (Endolimax)
+Nonpuerperal Breast Abscess
+Nonspecific (abnormal) findings on radiological and other examination of gastrointestinal tract
+Nonspecific (abnormal) findings on radiological and other examination of musculoskeletal system
+Nonspecific (abnormal) findings on radiological and other examination of skull and head
+Nonspecific Vaginitis
+Nonspecific abnormal electrocardiogram [ECG] [EKG]
+Nonspecific abnormal electroencephalogram [EEG]
+Nonspecific abnormal findings in cerebrospinal fluid
+Nonspecific abnormal findings in stool contents
+Nonspecific abnormal results of function study of kidney
+Nonspecific abnormal results of function study of liver
+Nonspecific abnormal results of function study of thyroid
+Nonspecific abnormal results of other specified function study
+Nonspecific elevation of levels of transaminase or lactic acid dehydrogenase [LDH]
+Nontoxic Multinodular Goiter
+Nontoxic Nodular Goiter
+Nontoxic multinodular goiter
+Nontoxic uninodular goiter
+Nontraumatic Hematoma Of Soft Tissue
+Nonunion Of Fracture
+Nonvenomous Insect Bite
+Nonvenomous Insect Bite Of The Face
+Normal Initial Prenatal Checkup
+Normal Routine History And Physical Geriatric (80 +)
+Normal delivery
+Nuclear cataract
+Numbness (Hypesthesia)
+Nummular Eczematous Dermatitis
+Obesity
+Observation and evaluation for other specified suspected conditions
+Observation for suspected cardiovascular disease
+Observation for suspected infectious condition
+Observation for suspected malignant neoplasm
+Observation for unspecified suspected condition
+Obsessive Compulsive Disorder
+Obsessive-compulsive disorders
+Obstetrical Surgical Wound Complications - Postpartum Condition Or Complication
+Obstruction of bile duct
+Obstructive Sleep Apnea
+Obstructive Uropathy
+Obstructive chronic bronchitis with (acute) exacerbation
+Obstructive chronic bronchitis with acute bronchitis
+Obstructive chronic bronchitis without exacerbation
+Obstructive sleep apnea (adult)(pediatric)
+Occipital Neuralgia
+Occlusion and stenosis of carotid artery without mention of cerebral infarction
+Occlusion and stenosis of multiple and bilateral precerebral arteries without mention of cerebral infarction
+Occupation:
+Ocular hypertension
+Odor Of Breath Fetor Oris
+Old myocardial infarction
+Olecranon Bursitis
+Oligomenorrhea
+Oncologic Disorder
+Onychia and paronychia of toe
+Onychomycosis
+Onychomycosis Of The Fingernails
+Onychomycosis Of The Left 1st Toenail
+Onychomycosis Of The Left Toenails
+Onychomycosis Of The Right 1st Toenail
+Onychomycosis Of The Toenails
+Open Fracture Of Mandible / Lower Jaw
+Open Wound Of The Auditory Canal
+Open Wound Of The Forearm With Tendon Involvement
+Open Wound Of The Hip/Thigh Region
+Open Wound Of The Left Leg
+Open Wound Of The Leg
+Oppositional Defiant Disorder Of Childhood
+Oppositional defiant disorder
+Oral Contraceptives
+Oral Thrush
+Oral Thrush Of Newborn
+Oral aphthae
+Organic Hypersomnia
+Organic Impotence
+Organic Periodic Limb Movement Sleep Disorder
+Organic REM Sleep Behavior Disorder
+Organic Sleep-related Leg Cramps
+Orofacial Dyskinesia
+Orthopnea
+Orthostatic Hypotension
+Osteoarthritis
+Osteoarthritis Of Multiple Sites
+Osteoarthritis Of The Hand
+Osteoarthritis Of The Knee
+Osteoarthrosis
+Osteomalacia
+Osteomyelitis
+Osteopenia
+Osteoporosis
+Osteoporosis Osteopenia
+Osteoporosis Senile
+Ostium secundum type atrial septal defect
+Other (abnormal) findings on radiological examination of breast
+Other B-complex deficiencies
+Other abnormal blood chemistry
+Other abnormal glucose
+Other abnormal granulation tissue
+Other abnormality of red blood cells
+Other acne
+Other acquired deformities of ankle and foot
+Other acute otitis externa
+Other acute postoperative pain
+Other acute sinusitis
+Other alopecia
+Other alteration of consciousness
+Other amyloidosis
+Other and combined forms of senile cataract
+Other and unspecified angina pectoris
+Other and unspecified anterior pituitary hyperfunction
+Other and unspecified atelectasis
+Other and unspecified chronic nonsuppurative otitis media
+Other and unspecified coagulation defects
+Other and unspecified hyperlipidemia
+Other and unspecified infection due to central venous catheter
+Other and unspecified mycoses
+Other and unspecified noninfectious gastroenteritis and colitis
+Other and unspecified nonspecific immunological findings
+Other and unspecified ovarian cyst
+Other anterior pituitary disorders
+Other apnea of newborn
+Other ascites
+Other atopic dermatitis and related conditions
+Other bipolar disorders
+Other chest pain
+Other chronic allergic conjunctivitis
+Other chronic cystitis
+Other chronic dermatitis due to solar radiation
+Other chronic infective otitis externa
+Other chronic nonalcoholic liver disease
+Other chronic otitis externa
+Other chronic pain
+Other chronic pulmonary heart diseases
+Other chronic sinusitis
+Other conditions of brain
+Other constipation
+Other convulsions
+Other corticoadrenal overactivity
+Other deficiencies of circulating enzymes
+Other developmental speech or language disorder
+Other disease of nasal cavity and sinuses
+Other disorders of bone and cartilage
+Other disorders of iron metabolism
+Other disorders of menstruation and other abnormal bleeding from female genital tract
+Other disorders of neurohypophysis
+Other dyschromia
+Other dysphagia
+Other emphysema
+Other endocardial cushion defects
+Other esophagitis
+Other examination of ears and hearing
+Other fluid overload
+Other follow-up examination
+Other forms of keratitis
+Other functional disorder of bladder
+Other functional disorders of intestine
+Other general counseling and advice on contraceptive management
+Other general symptoms
+Other generalized ischemic cerebrovascular disease
+Other injury of chest wall
+Other investigation and testing
+Other lymphatic and hematopoietic tissues
+Other lymphedema
+Other malaise and fatigue
+Other malignant neoplasm without specification of site
+Other mucopurulent conjunctivitis
+Other musculoskeletal symptoms referable to limbs
+Other neutropenia
+Other nonspecific abnormal finding of lung field
+Other nonspecific abnormal serum enzyme levels
+Other nonspecific findings on examination of blood
+Other osteoporosis
+Other ovarian dysfunction
+Other ovarian failure
+Other ovarian hyperfunction
+Other pain disorders related to psychological factors
+Other peripheral vertigo
+Other persistent mental disorders due to conditions classified elsewhere
+Other polyp of sinus
+Other postablative hypothyroidism
+Other postoperative infection
+Other postprocedural status
+Other premature beats
+Other primary cardiomyopathies
+Other procreative management counseling and advice
+Other psoriasis
+Other pulmonary embolism and infarction
+Other respiratory abnormalities
+Other respiratory problems after birth
+Other screening mammogram
+Other seborrheic dermatitis
+Other seborrheic keratosis
+Other secondary thrombocytopenia
+Other sequelae of chronic liver disease
+Other specified acquired hypothyroidism
+Other specified anemias
+Other specified anomalies of skin
+Other specified antenatal screening
+Other specified aplastic anemias
+Other specified cardiac dysrhythmias
+Other specified congenital anomalies of heart
+Other specified counseling
+Other specified delays in development
+Other specified dermatomycoses
+Other specified disease of white blood cells
+Other specified diseases of hair and hair follicles
+Other specified diseases of nail
+Other specified diseases of pancreas
+Other specified diseases of sebaceous glands
+Other specified disorders of adrenal glands
+Other specified disorders of biliary tract
+Other specified disorders of breast
+Other specified disorders of circulatory system
+Other specified disorders of esophagus
+Other specified disorders of intestine
+Other specified disorders of kidney and ureter
+Other specified disorders of liver
+Other specified disorders of pancreatic internal secretion
+Other specified disorders of penis
+Other specified disorders of rectum and anus
+Other specified erythematous conditions
+Other specified forms of chronic ischemic heart disease
+Other specified general medical examinations
+Other specified hypoglycemia
+Other specified intestinal malabsorption
+Other specified intestinal obstruction
+Other specified mycobacterial diseases
+Other specified noninflammatory disorders of vagina
+Other specified pre-operative examination
+Other specified prophylactic or treatment measure
+Other specified vaccinations against streptococcus pneumoniae [pneumococcus]
+Other specified viral warts
+Other symptoms involving cardiovascular system
+Other symptoms involving digestive system
+Other symptoms involving respiratory system and chest
+Other symptoms referable to back
+Other syndromes affecting cervical region
+Other testicular hypofunction
+Other transitory neonatal electrolyte disturbances
+Other ulcerative colitis
+Other unknown and unspecified cause of morbidity and mortality
+Other unspecified back disorders
+Other ureteric obstruction
+Other venous embolism and thrombosis of unspecified site
+Other vitamin B12 deficiency anemia
+Other vitreous opacities
+Otitis Externa
+Otitis Externa Of The Right Ear
+Otitis Media
+Otitis Media In Both Ears
+Otitis Media Of The Left Ear
+Otitis Media Of The Right Ear
+Ovarian Cyst
+Ovarian Disorders
+Ovarian Failure
+Overflow Incontinence
+Overweight
+Pain During Urination (Dysuria)
+Pain In The Arms
+Pain In The Hands
+Pain In The Leg (Below The Knee)
+Pain In The Thigh
+Pain On Swallowing
+Pain Syndromes
+Pain in limb
+Pain in or around eye
+Pain in thoracic spine
+Palindromic Rheumatism
+Palindromic Rheumatism Of Multiple Sites
+Palpitations
+Palpitations (Symptom)
+Pancreatic Insufficiency
+Panhypopituitarism
+Panic Disorder With Agoraphobia
+Panic Disorder Without Agoraphobia
+Panuveitis
+Papanicolaou smear of cervix with atypical squamous cells of undetermined significance (ASC-US)
+Papillary Carcinoma Of The Thyroid Gland
+Papilledema associated with increased intracranial pressure
+Papular Urticaria
+Paralytic ileus
+Paranoid Schizophrenia
+Paranoid Schizophrenia In Remission
+Paraparesis (Lower Extremities)
+Paraplegia
+Parkinson's Disease
+Parkinson's Disease With Dementia
+Parkinsonism
+Parkinsonism (Secondary)
+Parkinsons All
+Parkinsons Dz
+Parkinsons disease
+Paronychia
+Paronychia Of The Toe(S)
+Parotitis
+Paroxysmal Atrial Fibrillation
+Paroxysmal Supraventricular Tachycardia
+Paroxysmal Tachycardia
+Paroxysmal supraventricular tachycardia
+Paroxysmal ventricular tachycardia
+Partial Complex Psychomotor Seizure
+Partial Complex Psychomotor Seizure With Intractable Seizure
+Partial Complex Psychosensory Seizure
+Partial Complex Psychosensory Seizure With Intractable Seizure
+Partial Complex Seizure
+Partial Complex Seizure With Memory Disturbances
+Partial Complex Seizure With Secondary Generalization
+Partial Complex Seizure With Secondary Generalization With Intractable Seizure
+Partial Simple Seizure
+Partial Simple Seizure With Intractable Seizure
+Partial Simple Seizure Without Impairment Of Consciousness
+Partial Thickness (2nd Degree) Burns Of The Right Chest Wall
+Partial Thickness (Second Degree) Burns Of Multiple Sites Of The Lower Limbs
+Patent Ductus Arteriosus
+Patent Foramen Ovale
+Patent ductus arteriosus
+Pathologic fracture of vertebrae
+Patient Education - HIV
+Patient Education - Preparation For Childbirth
+Pauciarticular juvenile rheumatoid arthritis
+Pediculosis
+Pediculosis Capitis
+Pediculus capitis [head louse]
+Pelvic Inflammatory Disease
+Pelvic Pain
+Pelvis Mass
+Pemphigus Vulgaris
+Penile Discharge
+Peptic Ulcer
+Percutaneous Placement Of Gastrostomy Tube
+Percutaneous transluminal coronary angioplasty status
+Perianal Abscess
+Periapical Alveolar Abscess
+Periodontal Abscess
+Peripheral Arterial Disease
+Peripheral Neuropathy
+Peripheral Vascular Disease
+Peripheral stem cells replaced by transplant
+Peritoneal adhesions (postoperative) (postinfection)
+Permanent Gastrostomy
+Pernicious Anemia
+Persistent Insomnia
+Persistent disorder of initiating or maintaining sleep
+Persistent vomiting
+Personal history of colonic polyps
+Personal history of lymphoid leukemia
+Personal history of malignant melanoma of skin
+Personal history of malignant neoplasm of brain
+Personal history of malignant neoplasm of breast
+Personal history of malignant neoplasm of bronchus and lung
+Personal history of malignant neoplasm of kidney
+Personal history of malignant neoplasm of large intestine
+Personal history of malignant neoplasm of other and unspecified oral cavity and pharynx
+Personal history of malignant neoplasm of other gastrointestinal tract
+Personal history of malignant neoplasm of ovary
+Personal history of malignant neoplasm of prostate
+Personal history of other infectious and parasitic diseases
+Personal history of other malignant neoplasm of skin
+Personal history of urinary calculi
+Personal history of venous thrombosis and embolism
+Personality Change Due To Axis III Etiology
+Pervasive Developmental Disorders
+Petit mal status
+Peyronie's disease
+Phaehyphomycosis
+Pharyngitis
+Phenylketonuria
+Phenylketonuria [PKU]
+Phimosis
+Phlebitis and thrombophlebitis of femoral vein (deep) (superficial)
+Physical Disability: Wheelchair Dependence
+Piriformis Syndrome
+Pituitary Prolactinoma
+Pituitary dwarfism
+Pityriasis Alba
+Pityriasis Rosea
+Pityriasis versicolor
+Planning To Become Pregnant
+Plantar Fasciitis
+Plantar fascial fibromatosis
+Plantar wart
+Pleurisy
+Pneumocystis pneumonia
+Pneumocystosis
+Pneumonia
+Pneumonia due to Pseudomonas
+Pneumonitis
+Pneumonitis due to inhalation of food or vomitus
+Poisoning by antineoplastic and immunosuppressive drugs
+Poisoning by unspecified drug or medicinal substance
+Polyarthritis
+Polyarthropathy Of Multiple Sites
+Polyarticular Juvenile Rheumatoid Arthritis
+Polycystic Ovarian Syndrome
+Polycystic ovaries
+Polycythemia vera
+Polymyalgia Rheumatica
+Polymyositis / Dermatomyositis:
+Polymyositis In Other Collagen Vascular Disease
+Polymyositis In Scleroderma
+Polyneuropathy
+Polyneuropathy due to drugs
+Polyneuropathy in diabetes
+Polyp of corpus uteri
+Polyp of nasal cavity
+Polyphagia
+Poor Growth
+Portal Hypertension
+Post Abdominal Surgery
+Post Radio-iodine Therapy Hypothyroidism
+Post-artificial Menopause State
+Post-gastric Bypass For Obesity
+Post-traumatic Stress Disorder
+Posterior subcapsular polar cataract
+Posterior subcapsular polar senile cataract
+Postherpetic Neuralgia
+Postherpetic Polyneuropathy
+Postinflammatory pulmonary fibrosis
+Postlaminectomy Syndrome (Lumbar)
+Postmastectomy lymphedema syndrome
+Postmenopausal Atrophic Vaginitis
+Postmenopausal Bleeding
+Postmenopausal Osteoporosis
+Postmenopausal atrophic vaginitis
+Postmenopausal bleeding
+Postnasal drip
+Postpartum Depression
+Postpartum Depression - Mild
+Postpartum History Currently Nursing
+Postsurgical Primary Hypothyroidism
+Postsurgical hypothyroidism
+Posttraumatic stress disorder
+Pre-operative cardiovascular examination
+Pre-operative respiratory examination
+Precocious Puberty
+Precocious Puberty: ____ Years Old
+Precordial pain
+Prediabetes
+Pregnancy Complicated By Anemia
+Pregnancy Complicated By Asymptomatic Bacteriuria
+Pregnancy Complicated By Diabetes Mellitus
+Pregnancy Complicated By Genitourinary Tract Infection
+Pregnancy Complicated By Herpes Simplex
+Pregnancy Complicated By Hypertension - Antepartum Condition Or Prior Complicated Delivery
+Pregnancy Test Positive
+Pregnancy resulting from assisted reproductive technology
+Pregnancy with history of pre-term labor
+Pregnancy with other poor obstetric history
+Prehypertension
+Premature Menopause
+Premature Ventricular Contractions
+Premenstrual Disorder
+Premenstrual Syndromes
+Premenstrual tension syndromes
+Presenile Dementia
+Preterm Infant
+Preterm Infant - 500-749 G.
+Preventive Medicine Counseling About Travel
+Preventive Medicine Estab Patient Checkup Adult 40-64
+Preventive Medicine Establ. Patient Checkup Adult 18-39
+Preventive Medicine New Patient Evaluation Adult 18-39
+Previous Emergency Room Visit
+Previous History Of Smoking
+Previous Hospitalizations
+Previously Well
+Primary Adrenal Insufficiency ('Addison Disease')
+Primary Amenorrhea
+Primary Atypical Mycoplasma Pneumoniae
+Primary Biliary Cirrhosis
+Primary Enuresis
+Primary Female Infertility
+Primary Hypercoagulable State
+Primary Hypersomnia
+Primary Hypothyroidism
+Primary IgA Nephritis
+Primary Insomnia
+Primary Nocturnal Enuresis
+Primary Osteoarthritis Of The Lumbar Vertebrae
+Primary Pulmonary Hypertension
+Primary apnea of newborn
+Primary focal hyperhidrosis
+Primary hypercoagulable state
+Primary iridocyclitis
+Primary open angle glaucoma
+Primary pulmonary hypertension
+Prior Myocardial Infarction
+Proctitis
+Prolactinoma Macroadenoma
+Prolactinoma Microadenoma
+Prolapsing Mitral Valve Leaflet Syndrome
+Proliferative diabetic retinopathy
+Propionic Acidemia
+Prostate
+Prostate Cancer
+Prostatic Hyperplasia
+Prostatic Hyperplasia With Urinary Obstruction
+Prostatic Hyperplasia With Urinary Obstruction With Other Lower Urinary Tract Symptoms
+Prostatic Hyperplasia Without Urinary Obstruction With Other Lower Urinary Tract Symptoms
+Prostatitis
+Protein S Deficiency
+Proteinuria
+Pruritus Ani
+Pseudo Hypoparathyroidism
+Pseudobulbar Palsy
+Pseudogout
+Pseudomonas Wound Infection
+Pseudomonas infection in conditions classified elsewhere and of unspecified site
+Psoriasis
+Psoriatic Arthropathy
+Psychophysiological Insomnia
+Psychosexual dysfunction with inhibited sexual excitement
+Psychosis
+Pubertal Menorrhagia
+Puberty Delayed To Age ____ Years Old
+Puerperal Hemorrhoids
+Pulmonary Embolism
+Pulmonary Fibrosis
+Pulmonary Hypertension
+Pulmonary Interstitial / Infiltrative Disorders
+Pulmonary Tuberculosis
+Pulmonary collapse
+Pulmonary congestion and hypostasis
+Pulmonary diseases due to other mycobacteria
+Pulmonary eosinophilia
+Pulmonary valve disorders
+Pure hypercholesterolemia
+Pure hyperglyceridemia
+Pustular Folliculitis
+Pustules
+Pyelonephritis
+Pyoderma
+Pyoderma Gangrenosum
+Pyogenic granuloma of skin and subcutaneous tissue
+Pyrexia
+Quadriplegia
+Quadriplegic Cerebral Palsy With Spasticity
+REM Sleep Behavior Syndrome
+Radiculopathy
+Rapid Bacterial Antigen Ident Kit Streptococcus Group B
+Rash and other nonspecific skin eruption
+Raynaud's Disease
+Raynaud's Phenomenon
+Raynaud's syndrome
+Raynauds disease
+Reaction To Anesthetics
+Reactive Airway Disease
+Reactive Arthritis
+Recent Ear Infection
+Recently Moved
+Recreational Activities
+Recreational Activities Walking
+Rectal Hemorrhage
+Rectal Pain
+Recurrent Major Depression In Full Remission
+Recurrent Major Depression In Partial Remission
+Recurrent pregnancy loss without current pregnancy
+Red Blood In Bowel Movement (Hematochezia)
+Redundant prepuce and phimosis
+Reflux esophagitis
+Regional enteritis of large intestine
+Regional enteritis of small intestine
+Regional enteritis of small intestine with large intestine
+Regional enteritis of unspecified site
+Relapsing Polychondritis
+Renal Carcinoma
+Renal Cell Carcinoma
+Renal Insufficiency
+Renal Osteodystrophy
+Renal Secondary Hyperparathyroidism
+Renal Transplant
+Renal Transplant Recipient Of The Right Kidney
+Renal Tubular Acidosis
+Renal colic
+Renal dialysis status
+Renal osteodystrophy
+Reported A History Of Cancer
+Reported A Previous Medical History Of Fracture
+Reported Family History Ischemic Heart Disease Before Age 50
+Reported Family History Of Birth Defects
+Reported Family History Of Genetic Disease
+Reported Previous High Blood Pressure
+Reported Prior Surgical / Procedural History
+Residual Schizophrenia
+Residual hemorrhoidal skin tags
+Respiratory distress syndrome in newborn
+Respiratory failure of newborn
+Restless Legs Syndrome
+Restrictive Lung Disease
+Retinal nerve fiber bundle defects
+Retinopathy Of Prematurity
+Retrolental fibroplasia
+Rheumatoid Arthritis
+Rheumatoid Arthritis RF Negative
+Rheumatoid arthritis
+Rhinitis
+Rhinitis Medicamentosa
+Rhinosinusitis
+Rhythm Disorder
+Rib Fracture
+Right Back Strain
+Right Sided Congestive Heart Failure
+Rosacea
+Rotator Cuff Tendonitis
+Routine Pelvic Exam With Cervical Pap Smear
+Routine UA Without Microscopic Examination
+Routine general medical examination at a health care facility
+Routine gynecological examination
+Routine infant or child health check
+Routine or ritual circumcision
+Routine postpartum follow-up
+Sacroiliitis
+Salivary Secretion Disturbance
+Salivary Secretion Disturbance: Ptyalism
+Salivary Secretion Disturbance: Xerostomia
+Sarcoidosis
+Scabies
+Scanty or infrequent menstruation
+Scar conditions and fibrosis of skin
+Scarlet Fever
+Schizoaffective Disorder
+Schizoaffective Disorder - Chronic (With Residual Symptoms)
+Schizophrenia
+Sciatica
+Scleroderma
+Scleroderma With Pulmonary Involvement
+Screening examination for pulmonary tuberculosis
+Screening examination for unspecified infectious disease
+Screening examination for venereal disease
+Screening for chemical poisoning and other contamination
+Screening for malignant neoplasms of cervix
+Screening for malignant neoplasms of prostate
+Screening for malignant neoplasms of rectum
+Screening for other and unspecified genitourinary conditions
+Screening for unspecified disorder of blood and blood-forming organs
+Screening mammogram for high-risk patient
+Seasickness
+Sebaceous Cyst
+Seborrhea
+Seborrhea Capitis
+Seborrheic Dermatitis
+Seborrheic Dermatitis Of The Scalp
+Second-degree Perineal Laceration During Delivery
+Secondary Adrenal Insufficiency
+Secondary Amenorrhea
+Secondary Hyperparathyroidism
+Secondary Hypothyroidism
+Secondary Insomnia
+Secondary Pulmonary Hypertension
+Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes
+Secondary and unspecified malignant neoplasm of lymph nodes of axilla and upper limb
+Secondary hyperparathyroidism (of renal origin)
+Secondary malignant neoplasm of bone and bone marrow
+Secondary malignant neoplasm of brain and spinal cord
+Secondary malignant neoplasm of breast
+Secondary malignant neoplasm of kidney
+Secondary malignant neoplasm of large intestine and rectum
+Secondary malignant neoplasm of lung
+Secondary malignant neoplasm of other digestive organs and spleen
+Secondary malignant neoplasm of other specified sites
+Secondary malignant neoplasm of pleura
+Secondary malignant neoplasm of retroperitoneum and peritoneum
+Secondary malignant neoplasm of skin
+Secondary neuroendocrine tumor of liver
+Secondhand Tobacco Smoke In Home
+Seizure
+Seizure Disorder
+Seizures
+Selective B12 Malabsorption
+Senile Dementia
+Senile nuclear sclerosis
+Senile osteoporosis
+Sensorineural Hearing Loss
+Sepsis
+Septic shock
+Septicemia [sepsis] of newborn
+Serology Prostate-specific Antigen (PSA) Elevated
+Serum Total Cholesterol Was Elevated
+Severe Menstrual Pain (Dysmenorrhea)
+Severe Persistent Asthma
+Severe Recurrent Major Depression With Psychotic Features
+Severe Recurrent Major Depression Without Psychotic Features
+Severe Single Episode Major Depression Without Psychotic Features
+Sexually Active
+Sexually Active High-risk
+Short Bowel Syndrome
+Short Stature
+Short Stature (On Exam)
+Short stature
+Shortness Of Breath
+Shoulder Injury
+Shoulder Sprain
+Shoulder Strain
+Sialosis
+Sicca Syndrome
+Sickle Cell Abnormality
+Sickle Cell Anemia
+Sickle Cell Hb-SC Disease
+Sickle Cell Hb-SS Disease
+Sickle Cell Thalassemia
+Sickle Cell Trait
+Sinoatrial node dysfunction
+Sinus Surgery
+Sinusitis
+Sjogren's Syndrome
+Sjogrens syndrome
+Skin Abscess
+Skin Abscess Of The Buttocks
+Skin Abscess Of The Face
+Skin Abscess Of The Groin
+Skin Abscess Of The Head
+Skin Abscess Of The Left Buttock
+Skin Abscess Of The Left Thigh
+Skin Abscess Of The Right Buttock
+Skin Abscess Of The Right Leg
+Skin: A Rash
+Sleep Apnea
+Sleep Disturbances
+Sleep related hypoventilation/hypoxemia in conditions classifiable elsewhere
+Slow Transit Constipation
+Small Bowel Bacterial Overgrowth
+Smoker
+Social Phobia
+Solitary Thyroid Nodule
+Sore Throat
+Spasm of muscle
+Spasmodic Torticollis
+Spasms
+Spastic Gait
+Spasticity
+Special screening examination for Human papillomavirus (HPV)
+Special screening examination for other specified viral diseases
+Special screening examination for unspecified chlamydial disease
+Special screening examination for unspecified viral disease
+Special screening for malignant neoplasms of colon
+Special screening for malignant neoplasms of other sites
+Special screening for malignant neoplasms of vagina
+Special screening for osteoporosis
+Speech Language Dysphasia / Aphasia
+Speech Phonation Dysphonia
+Spinal Adhesive Arachnoiditis
+Spinal Stenosis
+Spinal stenosis in cervical region
+Splenomegaly
+Spondylitis
+Spondyloarthropathy
+Spondylosis Without Myelopathy
+Sports Activities
+Sprain
+Sprain of lumbar
+Sprain of neck
+Sprained Ribs
+Squamous Cell Carcinoma
+Sterilization
+Strabismic amblyopia
+Strabismus
+Strained Pectoralis Major Muscle
+Streptococcal Sore Throat
+Stress Incontinence
+Stricture and stenosis of esophagus
+Stridor
+Stroke Of The Left Middle Cerebral Artery
+Stroke Of The Left Posterior Cerebral Artery
+Stroke Syndrome
+Strokes
+Stye
+Stye In The Left Eye
+Subacromial Bursitis
+Subacute Cystitis
+Subarachnoid hemorrhage
+Subclinical Hypothyroidism
+Subdural hemorrhage
+Subependymal Giant Cell Astrocytoma
+Subjective tinnitus
+Sudden Redness Of The Skin (Flushing)
+Suicidal ideation
+Superficial injury of cornea
+Supervision of high-risk pregnancy with history of abortion
+Supervision of high-risk pregnancy with history of infertility
+Supervision of high-risk pregnancy with other poor reproductive history
+Supervision of normal first pregnancy
+Supervision of other high-risk pregnancy
+Supervision of other normal pregnancy
+Supervision of unspecified high-risk pregnancy
+Supraventricular Tachycardia
+Supraventricular premature beats
+Surgery
+Surveillance of contraceptive pill
+Surveillance of implantable subdermal contraceptive
+Surveillance of intrauterine contraceptive device
+Surveillance of other contraceptive method
+Swelling Of Hands
+Swelling of limb
+Symmetric Polyarticular Inflammation
+Symptomatic Menopause
+Symptomatic menopausal or female climacteric states
+Symptomatic states associated with artificial menopause
+Syncope and collapse
+Syphilis
+Systemic Lupus Erythematosus
+Systemic sclerosis
+Systolic Congestive Heart Failure
+Systolic Hypertension
+TMJ Pain
+TPN-induced Cholestasis
+Tachyarrhythmias
+Tachycardia
+Tachypnea
+Takayasu's Disease
+Taking Blood Thinners For A Long Time
+Taking Female Hormones For Postmenopausal HRT
+Taking Medication - Steroids
+Taking Medication For A Long Time
+Taking Medication For Diabetes Long-term Use Of Insulin
+Tardive Dyskinesia
+Teething syndrome
+Temporal Arteritis
+Tendonitis
+Tendonitis Of The Achilles Tendon
+Tension headache
+Tension-type Headache
+Tetralogy Of Fallot
+The Speech Was Delayed
+Thoracic Spondylosis With Myelopathy
+Thoracic Strain
+Thoracic spondylosis without myelopathy
+Thrombocytopenia
+Thromboembolic Disease
+Thrombophlebitis Of Deep Vessels Of The Lower Extremity
+Thrombophlebitis Of Superficial Veins Of Upper Extremities
+Thrombosed External Hemorrhoids
+Thyroid Cancer
+Thyroid Disorder
+Thyroid Function Tests Nonspecific Abnormal Findings
+Thyroiditis
+Tinea
+Tinea Capitis
+Tinea Corporis
+Tinea Cruris
+Tinea Cruris Of The Groin
+Tinea Cruris Of The Perianal Area
+Tinea Facialis
+Tinea Pedis
+Tinea Versicolor
+Tingling (Paresthesia)
+Tinnitus
+Tobacco Use
+Tobacco use disorder
+Tonsillar And Adenoid Hypertrophy
+Tonsillar Hypertrophy
+Tonsillectomy
+Tonsillitis
+Tooth Pain
+Torticollis
+Total Anomalous Pulmonary Venous Return
+Total Splenectomy
+Tourette's Syndrome
+Tourette's disorder
+Toxic Nodular Goiter
+Toxic diffuse goiter without mention of thyrotoxic crisis or storm
+Toxic effect of arsenic and its compounds
+Toxic effect of unspecified lead compound
+Toxic effect of unspecified metal
+Tracheal Stenosis
+Tracheitis
+Tracheostomy
+Tracheostomy Care Requirement
+Tracheostomy status
+Transient Ischemic Attack
+Transient alteration of awareness
+Transitional Cell Carcinoma Of The Bladder
+Transitory tachypnea of newborn
+Trapezoid Muscle Strain
+Traumatic Amputation Of Finger(S)
+Traumatic Arthritis Of The Ankle
+Traumatic Arthritis Of The Foot
+Travel Or Residence In
+Travel Sickness
+Tremor
+Trichomonas Vaginalis Vaginitis
+Trichomonas Vulvovaginitis
+Trichomoniasis
+Tricuspid Atresia
+Trigeminal Neuralgia
+Trochanteric Bursitis
+Tuberculin PPD Induration Positive Interpretation
+Tuberculin PPD Nonspec Reaction Without Active Tuberculosis
+Tuberculosis
+Tuberous Sclerosis (Bourneville's Disease)
+Turner Syndrome
+Tympanic Membrane Perforation
+Tympanic Membrane Perforation Of The Left Ear
+Type I Diabetes Mellitus
+Type I Diabetes Mellitus - Uncontrolled
+Type II Diabetes Mellitus
+Type II Diabetes Mellitus With Complication - Uncontrolled
+Type II Diabetes Mellitus With Peripheral Circulatory Disorder - Uncontrolled
+Type II Diabetes With Neurological Complications - Uncontrolled
+Typical Dermatomyositis (Type II)
+Typical Polymyositis (Type I)
+Ulcer of ankle
+Ulcer of heel and midfoot
+Ulcer of other part of foot
+Ulcer of other part of lower limb
+Ulceration of intestine
+Ulcerative (chronic) enterocolitis
+Ulcerative (chronic) proctitis
+Ulcerative (chronic) proctosigmoiditis
+Ulcerative Colitis
+Ulcers
+Umbilical Hernia
+Unable To Restrain Bowel Movement
+Under Stress
+Undiagnosed cardiac murmurs
+Undifferentiated Schizophrenia
+Universal ulcerative (chronic) colitis
+Unspecified Debility
+Unspecified Muscle Strain
+Unspecified acquired hypothyroidism
+Unspecified acute reaction to stress
+Unspecified anomaly of urinary system
+Unspecified antenatal screening
+Unspecified cataract
+Unspecified chronic bronchitis
+Unspecified chronic suppurative otitis media
+Unspecified combined vaccine
+Unspecified condition of brain
+Unspecified congenital anomaly of heart
+Unspecified contraceptive management
+Unspecified deficiency anemia
+Unspecified delay in development
+Unspecified dermatitis due to sun
+Unspecified diffuse connective tissue disease
+Unspecified disease of nail
+Unspecified disease of pancreas
+Unspecified disease of pericardium
+Unspecified disease of respiratory system
+Unspecified disease of sebaceous glands
+Unspecified diseases due to mycobacteria
+Unspecified diseases of blood and blood-forming organs
+Unspecified disorder of adrenal glands
+Unspecified disorder of calcium metabolism
+Unspecified disorder of cranial nerves
+Unspecified disorder of eye movements
+Unspecified disorder of female genital organs
+Unspecified disorder of immune mechanism
+Unspecified disorder of intestine
+Unspecified disorder of kidney and ureter
+Unspecified disorder of lipoid metabolism
+Unspecified disorder of liver
+Unspecified disorder of male genital organs
+Unspecified disorder of metabolism
+Unspecified disorder of plasma protein metabolism
+Unspecified disorder of the pituitary gland and its hypothalamic control
+Unspecified disorder of thyroid
+Unspecified disorder of urethra and urinary tract
+Unspecified disorders of menstruation and other abnormal bleeding from female genital tract
+Unspecified disturbance of conduct
+Unspecified endocrine disorder
+Unspecified episodic mood disorder
+Unspecified essential hypertension
+Unspecified fetal and neonatal jaundice
+Unspecified follow-up examination
+Unspecified glaucoma
+Unspecified hemorrhoids with other complication
+Unspecified hemorrhoids without mention of complication
+Unspecified hereditary and idiopathic peripheral neuropathy
+Unspecified hypertensive heart disease without heart failure
+Unspecified immunity deficiency
+Unspecified inflammatory polyarthropathy
+Unspecified inflammatory spondylopathy
+Unspecified intellectual disabilities
+Unspecified intestinal malabsorption
+Unspecified intestinal obstruction
+Unspecified intracranial hemorrhage
+Unspecified iridocyclitis
+Unspecified keratitis
+Unspecified local infection of skin and subcutaneous tissue
+Unspecified menopausal and postmenopausal disorder
+Unspecified nasal polyp
+Unspecified nonpsychotic mental disorder
+Unspecified nutritional deficiency
+Unspecified orthopedic aftercare
+Unspecified otitis media
+Unspecified ovarian dysfunction
+Unspecified peritonitis
+Unspecified persistent mental disorders due to conditions classified elsewhere
+Unspecified pleural effusion
+Unspecified protein-calorie malnutrition
+Unspecified pruritic disorder
+Unspecified psychosis
+Unspecified respiratory condition of fetus and newborn
+Unspecified septicemia
+Unspecified sinusitis (chronic)
+Unspecified site injury
+Unspecified sleep apnea
+Unspecified suppurative otitis media
+Unspecified symptom associated with female genital organs
+Unspecified transient cerebral ischemia
+Unspecified vertiginous syndromes and labyrinthine disorders
+Unspecified viral hepatitis C without hepatic coma
+Unspecified viral infection
+Unspecified vitamin D deficiency
+Unspecified weeks of gestation
+Upper Back Pain (Between Shoulder Blades)
+Upper Respiratory Infection
+Upper Respiratory Tract Disorders
+Urethra Disorders
+Urethral Stricture
+Urethritis
+Urge And Stress Incontinence
+Urge Incontinence Of Urine
+Urge incontinence
+Urgency of urination
+Urinalysis Results: Specific Gravity
+Urinalysis Results: pH
+Urinalysis Source Of Specimen: Clean Catch Midstream
+Urinary Calculus
+Urinary Frequency
+Urinary Frequency Increased
+Urinary Frequency More Than Twice At Night (Nocturia)
+Urinary Incontinence
+Urinary Loss Of Control
+Urinary Stream Is Smaller
+Urinary Tract Infection
+Urinary frequency
+Urogenital Trichomoniasis
+Urticaria
+Vacc Prophylactic Need Against Respiratory Syncytial Virus
+Vaccines Prophylactic Need Against Influenza
+Vaccines Prophylactic Need Against Td
+Vaginal Adhesions (Postoperative)
+Vaginal Candidiasis
+Vaginal Discharge
+Vaginal Discharge (On Exam)
+Vaginal Discharge (Symptom)
+Vaginal Itching
+Vaginal Itching Or Burning
+Vaginal Mucosa Atrophy
+Vaginal Wall Prolapse
+Vaginitis
+Varicella
+Varicose Veins
+Varicose Veins With Inflammation
+Varicose Veins With Pain
+Varicose Veins With Swelling
+Varicose Veins With Ulcer
+Varicose Veins With Ulcer And Inflammation
+Varicose veins of lower extremities with ulcer
+Varicose veins of lower extremities with ulcer and inflammation
+Vascular Dementia
+Vasculitides
+Vasomotor Rhinitis
+Venereal Disease Due To Chlamydia Trachomatis
+Venous Insufficiency
+Venous Thrombosis
+Venous Thrombosis Of The Deep Vessels Of The Distal Lower Extremity
+Venous Thrombosis Of The Deep Vessels Of The Lower Extremity
+Venous Thrombosis Of The Deep Vessels Of The Proximal Lower Extremity
+Venous embolism and thrombosis of superficial vessels of lower extremity
+Ventricular Septal Defect
+Ventricular Tachycardia
+Ventricular fibrillation
+Ventricular septal defect
+Vertigo
+Vertigo Of Central Origin
+Vesicoureteral Reflux
+Vesicoureteral Reflux With Nephropathy Of The Left Kidney
+Vesicoureteral reflux unspecified or without reflux nephropathy
+Vestibular neuronitis
+Viral Exanthem
+Viral Gastroenteritis
+Viral Infection
+Viral Syndrome
+Visit For: Fit/Adjust Insulin Pump
+Visit For: Well Baby Exam
+Visit For: Well Child Visit
+Vitamin B12 Deficiency
+Vitamin D Deficiency
+Vitamin Deficiency
+Vitiligo
+Vitreous degeneration
+Vitreous hemorrhage
+Vocal Cord Disorder
+Vocal Cord Granuloma
+Vomiting (Symptom)
+Vomiting Blood (Hematemesis)
+Vomiting During Pregnancy
+Vomiting alone
+Von Gierke's Disease (GSD Type I)
+Von Willebrand's disease
+Vulvar Abscess
+Vulvar Atrophy
+Vulvar Furuncle
+Vulvar Itching Or Burning
+Vulvar Pain
+Vulvodynia
+Vulvovaginitis
+Wearing Diapers
+Wegener's Granulomatosis
+Weight - Too Thin
+Weight Loss (On Exam)
+Wheezing
+Wound Infection
+Wrist Sprain
+Xerosis Cutis
+Zygomycosis [Phycomycosis or Mucormycosis]
+abnormal pap test
+acne
+acne rosacea
+adenomatous polyp
+alcohol abuse
+allergic rhinitis
+alopecia
+amyotrophic lateral sclerosis
+anemia
+anxiety
+appendectomy
+arthritis
+asthma
+atrial fibrillation
+attention deficit disorder
+basal cell carcinoma
+benign prostatic hypertrophy
+bipolar disease
+bone marrow transplant
+breast cancer
+bronchiectasis
+bronchiolitis
+cardiac bypass graft surgery
+cardiac catheterization
+cardiac transplant
+cardiomyopathy
+cataract
+cerebrovascular accident
+cesarean section
+chickenpox
+cholecystectomy
+chronic myelocytic leukemia
+chronic obstructive pulmonary disease
+chronic renal dysfunction
+colon cancer
+congestive heart failure
+constipation
+coronary artery disease
+cystic fibrosis
+deep venous thrombosis
+degenerative joint disease
+dementia
+depression
+diabetes mellitus
+diabetes mellitus type 1
+diabetes mellitus type 2
+diverticulosis
+drug abuse
+eczema
+elevated cholesterol
+elevated prolactin
+elevated triglycerides
+end stage renal disease
+endometriosis
+environmental allergy
+erectile dysfunction
+fibromyalgia
+gastroesophageal reflux disease
+genital herpes simplex
+glaucoma
+gout
+head and neck cancer
+headache
+heart murmur
+hemorrhoids
+hepatitis B
+hepatitis C
+herpes zoster
+hyperkalemia
+hyperlipidemia
+hypertension
+hyperthyroidism
+hypogonadism
+hypothyroidism
+hysterectomy
+infertility
+insomnia
+interstitial cystitis
+iron deficiency anemia
+irritable bowel syndrome
+kidney stone
+lactose intolerance
+low back pain
+lung cancer
+lung transplant
+macular degeneration
+memory loss
+menopause
+migraine headache
+multiple sclerosis
+myasthenia gravis
+myeloma
+myocardial infarction
+obesity
+obsessive compulsive disorder
+onychomycosis
+orthostatic hypotension
+osteoarthritis
+osteopenia
+osteoporosis
+otitis media
+paroxysmal atrial fibrillation
+past smoking
+pelvic pain
+peripheral neuropathy
+peripheral vascular disease
+pituitary adenoma
+polycythemia
+positive PPD
+pregnancy
+prolactinoma
+prostate cancer
+psoriasis
+psoriatic arthritis
+pulmonary embolism
+pulmonary hypertension
+renal cancer
+renal insufficiency
+restless legs syndrome
+retinopathy
+rheumatoid arthritis
+schizoaffective disorder
+schizophrenia
+seasonal allergies
+seizure disorder
+sickle cell anemia
+sinusitis
+skin cancer
+sleep apnea
+smoking
+social history unchanged
+stress test
+substance abuse
+syphilis
+systemic lupus
+thrombocytosis
+tinea capitis
+tonsillectomy
+transient ischemic attack
+tremor
+tubal ligation
+ulcerative colitis
+urinary incontinence
+urinary tract infection
+uterine fibroids
+vitamin B12 deficiency
+von Willebrands disease
