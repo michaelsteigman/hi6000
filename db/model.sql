@@ -1,21 +1,44 @@
-CREATE TABLE Ensemble_Meds (
- SourceFile  		  TEXT,
- MedString                TEXT,
- UMLSCUI                  TEXT,
- RxCUI                    TEXT,
- RxCUI_Gen		  TEXT,
- Gen			  TEXT,
- NDFRT_MOA		  TEXT,
- NDFRT_MOA_NUI		  TEXT,
- NDFRT_VA_Prod		  TEXT,
- NDFRT_VA_Prod_NUI	  TEXT,
- NDFRT_VA_Class		  TEXT,
- NDFRT_VA_Class_Nui 	  TEXT,
- CONSTRAINT Ensemble_Meds_pk PRIMARY KEY (SourceFile, Medstring, RxCUI)
+CREATE TABLE ensemble_pairs (
+ pair_ID        SERIAL PRIMARY KEY,
+ med_tring   	TEXT,
+ problem_tring 	TEXT,
+ source_file 	TEXT
 );
 
-CREATE OR REPLACE VIEW BWHMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'bwh.txt';
-CREATE OR REPLACE VIEW BCBSTXMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'bcbstx.txt';
-CREATE OR REPLACE VIEW RepMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'rep_ut.txt';
-CREATE OR REPLACE VIEW CSMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'cs_ut.txt';
-CREATE OR REPLACE VIEW UTHMeds AS SELECT * FROM  Ensemble_Meds WHERE SourceFile = 'uth.txt';
+create table ensemble_class_dictionary (
+ item_string         TEXT,
+ concept	     TEXT,
+ label		     TEXT,
+ vocabs 	     TEXT[],
+ semantic_types      TEXT[],
+ status		     TEXT,
+ version 	     TEXT,
+ PRIMARY KEY (item_string, concept)
+);
+
+-- flatten multiple concepts, concatenating the label
+CREATE VIEW ensemble_class_dictionary_flat_problems AS
+     SELECT item_string, string_agg(label, ', ') AS label
+       FROM ensemble_class_dictionary
+   GROUP BY item_string;
+
+-- flatten dupe meds caused by varying case
+--
+-- this is a quick fix - if we do metamap for meds, should
+-- give meds the cat * | lower | sort | uniq treatment
+CREATE VIEW ensemble_class_dictionary_flat_meds AS
+     SELECT upper(item_string) AS item_string, label
+       FROM ensemble_class_dictionary
+   GROUP BY upper(item_string), label;
+
+
+-- views of each pairs list
+CREATE VIEW cs_ut_pairs AS
+     SELECT coalesce(m.label, p.med_string) AS med, coalesce(pr.label, p.problem_string) AS problem
+       FROM ensemble_pairs p
+  LEFT JOIN ensemble_class_dictionary_flat_meds m ON (lower(p.med_string) = lower(m.item_string))
+  LEFT JOIN ensemble_class_dictionary_flat_problems pr ON (lower(p.problem_string) = lower(pr.item_string))
+      WHERE source_file = 'cs_ut';
+
+-- finding crossover
+select count(*), b.med, b.problem from bwh_pairs b join uth_pairs u on b.med = u.med and b.problem = u.problem group by b.med, b.problem;
