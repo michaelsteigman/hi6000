@@ -36,44 +36,54 @@ CREATE VIEW orig_cs_ut_pairs AS
 --
 -- views of each pairs list, used to generate output files
 -- 
-CREATE VIEW cs_ut_pairs AS
+CREATE OR REPLACE VIEW cs_ut_pairs AS
      SELECT COALESCE(m.label, p.med_string) AS med, COALESCE(pr.label, p.problem_string) AS problem
        FROM ensemble_pairs p
   LEFT JOIN ensemble_class_dictionary_flat_meds m ON (LOWER(p.med_string) = LOWER(m.item_string))
   LEFT JOIN ensemble_class_dictionary_flat_problems pr ON (LOWER(p.problem_string) = LOWER(pr.item_string))
       WHERE source_file = 'cs_ut'
+      	AND med_string IS NOT NULL
+	AND problem_string IS NOT NULL
       ORDER BY pair_id ASC;
 
-CREATE VIEW rep_ut_pairs AS
+CREATE OR REPLACE VIEW rep_ut_pairs AS
      SELECT COALESCE(m.label, p.med_string) AS med, COALESCE(pr.label, p.problem_string) AS problem
        FROM ensemble_pairs p
   LEFT JOIN ensemble_class_dictionary_flat_meds m ON (LOWER(p.med_string) = LOWER(m.item_string))
   LEFT JOIN ensemble_class_dictionary_flat_problems pr ON (LOWER(p.problem_string) = LOWER(pr.item_string))
       WHERE source_file = 'rep_ut'
+      	AND med_string IS NOT NULL
+	AND problem_string IS NOT NULL
       ORDER BY pair_id ASC;
 
-CREATE VIEW uth_pairs AS
+CREATE OR REPLACE VIEW uth_pairs AS
      SELECT COALESCE(m.label, p.med_string) AS med, COALESCE(pr.label, p.problem_string) AS problem
        FROM ensemble_pairs p
   LEFT JOIN ensemble_class_dictionary_flat_meds m ON (LOWER(p.med_string) = LOWER(m.item_string))
   LEFT JOIN ensemble_class_dictionary_flat_problems pr ON (LOWER(p.problem_string) = LOWER(pr.item_string))
       WHERE source_file = 'uth'
+       	AND med_string IS NOT NULL
+	AND problem_string IS NOT NULL
       ORDER BY pair_id ASC;
 
-CREATE VIEW bwh_pairs AS
+CREATE OR REPLACE VIEW bwh_pairs AS
      SELECT COALESCE(m.label, p.med_string) AS med, COALESCE(pr.label, p.problem_string) AS problem
        FROM ensemble_pairs p
   LEFT JOIN ensemble_class_dictionary_flat_meds m ON (LOWER(p.med_string) = LOWER(m.item_string))
   LEFT JOIN ensemble_class_dictionary_flat_problems pr ON (LOWER(p.problem_string) = LOWER(pr.item_string))
       WHERE source_file = 'bwh'
+       	AND med_string IS NOT NULL
+	AND problem_string IS NOT NULL
       ORDER BY pair_id ASC;
 
-CREATE VIEW bcbstx_pairs AS
+CREATE OR REPLACE VIEW bcbstx_pairs AS
      SELECT COALESCE(m.label, p.med_string) AS med, COALESCE(pr.label, p.problem_string) AS problem
        FROM ensemble_pairs p
   LEFT JOIN ensemble_class_dictionary_flat_meds m ON (LOWER(p.med_string) = LOWER(m.item_string))
   LEFT JOIN ensemble_class_dictionary_flat_problems pr ON (LOWER(p.problem_string) = LOWER(pr.item_string))
       WHERE source_file = 'bcbstx'
+       	AND med_string IS NOT NULL
+	AND problem_string IS NOT NULL
       ORDER BY pair_id ASC;
 
 --
@@ -167,3 +177,19 @@ CREATE VIEW all_overlapping_pairs AS
    ORDER BY total DESC;
 
 COPY (SELECT * FROM all_overlapping_pairs) TO '/tmp/all.csv' WITH csv;
+
+COPY (   SELECT COALESCE(a.med || '/' || a.problem,
+                         b.med || '/' || b.problem,
+			 c.med || '/' || c.problem,
+			 d.med || '/' || d.problem,
+			 e.med || '/' || e.problem, '?'),
+   	  	CASE WHEN a.med IS NULL THEN 0 ELSE 1 END AS BWH,
+	        CASE WHEN b.med IS NULL THEN 0 ELSE 1 END AS UTH,
+	        CASE WHEN c.med IS NULL THEN 0 ELSE 1 END AS REP_UT,
+ 	        CASE WHEN d.med IS NULL THEN 0 ELSE 1 END AS CS_UT,
+                CASE WHEN e.med IS NULL THEN 0 ELSE 1 END AS BCBSTX
+           FROM bwh_grouped_pairs a
+FULL OUTER JOIN uth_grouped_pairs b ON (a.med = b.med AND a.problem = b.problem)
+FULL OUTER JOIN rep_ut_grouped_pairs c ON (b.med = c.med AND b.problem = c.problem)
+FULL OUTER JOIN cs_ut_grouped_pairs d ON (c.med = d.med AND c.problem = d.problem)
+FULL OUTER JOIN bcbstx_grouped_pairs e ON (d.med = e.med AND d.problem = e.problem)) TO '/tmp/all.csv' WITH CSV HEADER;
