@@ -1,0 +1,1 @@
+This repo contains the code and artifacts related to my Practicum work. I have included a copy of the [writeup](./writeup.pdf) for the project as well. This was the first project I had the opportunity to use Python on.
